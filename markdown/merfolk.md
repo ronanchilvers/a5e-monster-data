@@ -17,7 +17,7 @@ stats:
     - 10
     - 10
 skillsaves:
-    perception: 2
+    - { perception: 2 }
 senses: 'darkvision 30 ft., passive Perception 12'
 languages: 'Aquan, Common'
 traits:

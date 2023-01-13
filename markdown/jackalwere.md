@@ -18,9 +18,9 @@ stats:
     - 14
 damage_resistances: 'damage from nonmagical, non-silvered weapons'
 skillsaves:
-    deception: 4
-    perception: 2
-    stealth: 4
+    - { deception: 4 }
+    - { perception: 2 }
+    - { stealth: 4 }
 senses: 'darkvision 60 ft., passive Perception 12'
 languages: "Common (can't speak in jackal form)"
 traits:

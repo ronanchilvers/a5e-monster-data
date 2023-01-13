@@ -17,13 +17,13 @@ stats:
     - 14
     - 10
 saves:
-    strength: 2
-    wisdom: 4
+    - { strength: 2 }
+    - { wisdom: 4 }
 skillsaves:
-    animal: 0
-    medicine: 4
-    nature: 3
-    perception: 4
+    - { animal: 0 }
+    - { medicine: 4 }
+    - { nature: 3 }
+    - { perception: 4 }
 senses: 'passive Perception 14'
 languages: 'Druidic plus any two'
 traits: {  }

@@ -18,7 +18,7 @@ stats:
     - 5
 damage_resistances: 'damage from nonmagical weapons'
 skillsaves:
-    stealth: 4
+    - { stealth: 4 }
 senses: 'darkvision 60 ft., passive Perception 12'
 traits:
     - { name: 'Luring Scent', desc: 'When a beast, humanoid or fey creature begins its turn within 30 feet, the creature makes a DC 12 Constitution saving throw. On a failure, it moves as close as it can to the wallflower and ends its turn. Creatures immune to being charmed are immune to this effect. A creature that succeeds on the saving throw is immune to the Luring Scent of all wallflowers for 24 hours.' }

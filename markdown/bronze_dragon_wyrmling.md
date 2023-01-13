@@ -18,8 +18,8 @@ stats:
     - 14
 damage_immunities: lightning
 skillsaves:
-    perception: 2
-    stealth: 2
+    - { perception: 2 }
+    - { stealth: 2 }
 senses: 'blindsight 10 ft., darkvision 60 ft., passive Perception 12'
 languages: Draconic
 traits:

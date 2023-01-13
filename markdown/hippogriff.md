@@ -17,7 +17,7 @@ stats:
     - 12
     - 8
 skillsaves:
-    perception: 3
+    - { perception: 3 }
 senses: 'passive Perception 15'
 traits:
     - { name: 'Keen Sight', desc: 'The hippogriff has advantage on Perception checks that rely on sight.' }

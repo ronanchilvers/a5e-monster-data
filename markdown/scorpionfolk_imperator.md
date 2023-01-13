@@ -17,12 +17,12 @@ stats:
     - 10
     - 10
 skillsaves:
-    perception: 2
-    stealth: 3
-    survival: 2
-    arcana: 2
-    history: 2
-    religion: 2
+    - { perception: 2 }
+    - { stealth: 3 }
+    - { survival: 2 }
+    - { arcana: 2 }
+    - { history: 2 }
+    - { religion: 2 }
 senses: 'passive Perception 12'
 languages: 'Common, Scorpionfolk'
 traits: {  }

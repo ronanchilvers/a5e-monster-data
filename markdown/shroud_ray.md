@@ -19,9 +19,9 @@ stats:
 damage_resistances: bludgeoning
 condition_immunities: 'charmed, frightened'
 saves:
-    wisdom: 4
+    - { wisdom: 4 }
 skillsaves:
-    stealth: 6
+    - { stealth: 6 }
 senses: 'darkvision 60 ft., passive Perception 11'
 languages: 'Deep Speech, Undercommon'
 traits:

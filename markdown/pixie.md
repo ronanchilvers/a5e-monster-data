@@ -17,8 +17,8 @@ stats:
     - 12
     - 14
 skillsaves:
-    perception: 3
-    stealth: 7
+    - { perception: 3 }
+    - { stealth: 7 }
 senses: 'passive Perception 13'
 languages: Sylvan
 traits:

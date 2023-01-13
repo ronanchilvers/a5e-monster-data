@@ -17,7 +17,7 @@ stats:
     - 10
     - 10
 skillsaves:
-    any: 0
+    - { any: 0 }
 senses: 'passive Perception 10 (14 if proficient)'
 languages: 'any one'
 actions:

@@ -18,11 +18,11 @@ stats:
     - 26
 damage_immunities: 'radiant; damage from nonmagical weapons'
 saves:
-    strength: 17
-    constitution: 17
-    intelligence: 13
-    wisdom: 14
-    charisma: 15
+    - { strength: 17 }
+    - { constitution: 17 }
+    - { intelligence: 13 }
+    - { wisdom: 14 }
+    - { charisma: 15 }
 senses: 'truesight 120 ft., passive Perception 17'
 languages: 'Celestial, Common, six more'
 traits:
@@ -43,7 +43,7 @@ actions:
     - { name: 'Immortal Form', desc: 'The empyrean magically changes its size between Gargantuan and Medium. While Medium, the empyrean has disadvantage on Strength checks. Its statistics are otherwise unchanged.' }
     - { name: 'Burning Gaze', desc: "A line of fire 5 feet wide and 60 feet long blasts from King Fomor's eye. Each creature in the area makes a DC 23 Constitution saving throw, taking 35 (10d6) fire damage and 35 (10d6) radiant damage on a failure or half damage on a success. When King Fomor is bloodied, his Burning Gaze's shape is a 60-foot cone instead of a line." }
     - { name: 'Elite Recovery (While Bloodied)', desc: 'King Fomor ends one negative effect currently affecting him. He can do so as long as he has at least 1 hit point, even while unconscious or incapacitated.' }
-'legendary actions':
+legendary_actions:
     - { name: 'The empyrean can take 1 legendary action, choosing from the options below', desc: "Only one legendary action can be used at a time and only at the end of another creature's turn. It regains spent legendary actions at the start of its turn." }
     - { name: Attack, desc: 'The empyrean makes a weapon attack.' }
     - { name: 'Cast Spell', desc: "The empyrean casts a spell. The empyrean can't use this option if it has cast a spell since the start of its last turn." }

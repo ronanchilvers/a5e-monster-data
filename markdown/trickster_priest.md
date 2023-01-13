@@ -17,15 +17,15 @@ stats:
     - 16
     - 12
 saves:
-    wisdom: 5
-    charisma: 3
+    - { wisdom: 5 }
+    - { charisma: 3 }
 skillsaves:
-    medicine: 5
-    insight: 5
-    persuasion: 3
-    religion: 3
-    deception: 3
-    stealth: 2
+    - { medicine: 5 }
+    - { insight: 5 }
+    - { persuasion: 3 }
+    - { religion: 3 }
+    - { deception: 3 }
+    - { stealth: 2 }
 senses: 'passive Perception 13'
 languages: 'any two'
 traits: {  }

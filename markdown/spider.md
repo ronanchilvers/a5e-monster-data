@@ -17,7 +17,7 @@ stats:
     - 10
     - 2
 skillsaves:
-    stealth: 4
+    - { stealth: 4 }
 senses: 'darkvision 30 ft., passive Perception 10'
 traits:
     - { name: 'Spider Climb', desc: 'The spider can climb even on difficult surfaces and upside down on ceilings.' }

@@ -18,14 +18,14 @@ stats:
     - 20
 damage_immunities: fire
 saves:
-    dexterity: 6
-    constitution: 13
-    wisdom: 8
-    charisma: 11
+    - { dexterity: 6 }
+    - { constitution: 13 }
+    - { wisdom: 8 }
+    - { charisma: 11 }
 skillsaves:
-    intimidation: 11
-    perception: 9
-    stealth: 6
+    - { intimidation: 11 }
+    - { perception: 9 }
+    - { stealth: 6 }
 senses: 'blindsight 60 ft., darkvision 120 ft., passive Perception 22'
 languages: 'Common, Draconic, one more'
 traits:
@@ -44,7 +44,7 @@ actions:
     - { name: 'Fire Breath (Recharge 56)', desc: 'The dragon exhales a blast of fire in a 60-foot cone. Each creature in that area makes a DC 21 Dexterity saving throw, taking 73 (21d6) fire damage on a failed save or half damage on a success. A creature that fails the saving throw also takes 5 (1d10) ongoing fire damage. While affected by this ongoing damage, it is frightened of the dragon. A creature can use an action to end the ongoing damage.' }
 reactions:
     - { name: 'Tail Attack', desc: 'When a creature the dragon can see within 10 feet hits the dragon with a melee attack, the dragon makes a tail attack against it.' }
-'legendary actions':
+legendary_actions:
     - { name: 'The dragon can take 3 legendary actions, choosing from the options below', desc: "Only one legendary action can be used at a time and only at the end of another creature's turn. It regains spent legendary actions at the start of its turn." }
     - { name: 'Cruel Tyranny', desc: 'The dragon uses its Cruel Tyranny action.' }
     - { name: Roar, desc: "Each creature of the dragon's choice within 120 feet that can hear it makes a DC 19 Charisma saving throw. On a failure, it is frightened for 1 minute. A creature repeats the saving throw at the end of its turns, ending the effect on itself on a success. When it succeeds on a saving throw or the effect ends for it, it is immune to Roar for 24 hours." }

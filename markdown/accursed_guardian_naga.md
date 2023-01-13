@@ -19,11 +19,11 @@ stats:
 damage_immunities: poison
 condition_immunities: 'charmed, poisoned'
 saves:
-    dexterity: 8
-    constitution: 7
-    intelligence: 7
-    wisdom: 8
-    charisma: 8
+    - { dexterity: 8 }
+    - { constitution: 7 }
+    - { intelligence: 7 }
+    - { wisdom: 8 }
+    - { charisma: 8 }
 senses: 'darkvision 60 ft., passive Perception 14'
 languages: 'Abyssal, Celestial, Common'
 traits:

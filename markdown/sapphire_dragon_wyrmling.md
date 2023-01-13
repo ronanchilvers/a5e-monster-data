@@ -19,12 +19,12 @@ stats:
 damage_immunities: psychic
 condition_immunities: fatigue
 skillsaves:
-    arcana: 4
-    deception: 3
-    history: 4
-    insight: 4
-    perception: 4
-    persuasion: 3
+    - { arcana: 4 }
+    - { deception: 3 }
+    - { history: 4 }
+    - { insight: 4 }
+    - { perception: 4 }
+    - { persuasion: 3 }
 senses: 'darkvision 120 ft., passive Perception 14'
 languages: 'Deep Speech, Draconic, Undercommon, telepathy 120 ft.'
 traits:

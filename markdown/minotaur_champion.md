@@ -17,12 +17,12 @@ stats:
     - 16
     - 14
 saves:
-    strength: 11
-    dexterity: 5
-    constitution: 11
-    wisdom: 8
+    - { strength: 11 }
+    - { dexterity: 5 }
+    - { constitution: 11 }
+    - { wisdom: 8 }
 skillsaves:
-    perception: 8
+    - { perception: 8 }
 senses: 'darkvision 120 ft., passive Perception 21'
 languages: 'Abyssal, Undercommon'
 traits:

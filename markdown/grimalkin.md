@@ -17,8 +17,8 @@ stats:
     - 14
     - 10
 skillsaves:
-    perception: 4
-    stealth: 5
+    - { perception: 4 }
+    - { stealth: 5 }
 senses: 'darkvision 60 ft., passive Perception 14'
 traits:
     - { name: 'Keen Smell', desc: 'The grimalkin has advantage on Perception checks that rely on smell.' }

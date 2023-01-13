@@ -17,15 +17,15 @@ stats:
     - 12
     - 12
 saves:
-    dexterity: 11
-    intelligence: 8
-    wisdom: 7
+    - { dexterity: 11 }
+    - { intelligence: 8 }
+    - { wisdom: 7 }
 skillsaves:
-    acrobatics: 11
-    deception: 7
-    perception: 7
-    sleight: 0
-    stealth: 11
+    - { acrobatics: 11 }
+    - { deception: 7 }
+    - { perception: 7 }
+    - { sleight: 0 }
+    - { stealth: 11 }
 senses: 'blindsight 20 ft., darkvision 60 ft., passive Perception 17'
 languages: 'any three'
 traits:

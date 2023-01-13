@@ -17,10 +17,10 @@ stats:
     - 14
     - 14
 skillsaves:
-    deception: 5
-    insight: 5
-    perception: 5
-    stealth: 7
+    - { deception: 5 }
+    - { insight: 5 }
+    - { perception: 5 }
+    - { stealth: 7 }
 senses: 'darkvision 60 ft., passive Perception 15'
 languages: Common
 traits:
@@ -30,7 +30,7 @@ actions:
     - { name: Multiattack, desc: 'The medusa makes any combination of two attacks with its snake hair and longbow.' }
     - { name: 'Snake Hair', desc: "Melee Weapon Attack: +7 to hit, reach 5 ft., one target. Hit: 7 (1d6 + 4) piercing damage plus 7 (2d6) poison damage, plus an additional 3 (1d6) piercing damage if the target is a creature that is surprised or that can't see the medusa." }
     - { name: Longbow, desc: 'Ranged Weapon Attack: +7 to hit, range 150/600 ft., one target. Hit: 8 (1d8 + 4) piercing damage plus 7 (2d6) poison damage.' }
-'legendary actions':
+legendary_actions:
     - { name: "The medusa queen has one legendary action it can take at the end of another creature's turn, choosing from the options below", desc: 'The medusa queen regains the spent legendary action at the start of its turn.' }
     - { name: Hide, desc: 'The medusa moves up to half its Speed and hides.' }
     - { name: 'Snake Hair', desc: 'The medusa uses Snake Hair.' }

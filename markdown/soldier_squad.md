@@ -17,8 +17,8 @@ stats:
     - 10
     - 10
 skillsaves:
-    perception: 3
-    survival: 3
+    - { perception: 3 }
+    - { survival: 3 }
 senses: 'passive Perception 13'
 languages: 'any one'
 traits:

@@ -18,8 +18,8 @@ stats:
     - 14
 damage_resistances: 'cold, necrotic; damage from nonmagical, non-silvered weapons'
 skillsaves:
-    perception: 3
-    stealth: 4
+    - { perception: 3 }
+    - { stealth: 4 }
 senses: 'darkvision 60 ft., passive Perception 13'
 languages: 'the languages it knew in life'
 traits:

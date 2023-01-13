@@ -20,13 +20,13 @@ damage_resistances: 'cold, fire, lightning; damage from nonmagical weapons'
 damage_immunities: poison
 condition_immunities: poisoned
 saves:
-    strength: 9
-    constitution: 9
-    wisdom: 8
-    charisma: 8
+    - { strength: 9 }
+    - { constitution: 9 }
+    - { wisdom: 8 }
+    - { charisma: 8 }
 skillsaves:
-    deception: 8
-    stealth: 7
+    - { deception: 8 }
+    - { stealth: 7 }
 senses: 'truesight 120 ft., passive Perception 14'
 languages: 'Abyssal, telepathy 120 ft.'
 traits:

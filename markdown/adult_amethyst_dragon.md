@@ -19,15 +19,15 @@ stats:
 damage_resistances: 'force, psychic'
 condition_immunities: fatigue
 saves:
-    constitution: 10
-    intelligence: 12
-    wisdom: 8
-    charisma: 11
+    - { constitution: 10 }
+    - { intelligence: 12 }
+    - { wisdom: 8 }
+    - { charisma: 11 }
 skillsaves:
-    deception: 11
-    insight: 8
-    perception: 8
-    persuasion: 11
+    - { deception: 11 }
+    - { insight: 8 }
+    - { perception: 8 }
+    - { persuasion: 11 }
 senses: 'darkvision 120 ft., passive Perception 18'
 languages: 'Common, Deep Speech, Draconic, Undercommon, telepathy 120 ft.'
 traits:
@@ -44,7 +44,7 @@ actions:
     - { name: 'Concussive Breath (Recharge 56)', desc: 'The dragon psionically unleashes telekinetic energy in a 60-foot cone. Each creature in that area makes a DC 18 Constitution saving throw, taking 60 (11d10) force damage on a failed save or half damage on a success.' }
 reactions:
     - { name: 'Assume Control (While Bloodied)', desc: "When a creature charmed by the dragon begins its turn, the dragon telepathically commands the charmed creature until the end of the creature's turn. If the dragon commands the creature to take an action that would harm itself or an ally, the creature makes a DC 19 Wisdom saving throw. On a success, the creature's turn immediately ends." }
-'legendary actions':
+legendary_actions:
     - { name: 'The dragon can take 3 legendary actions, choosing from the options below', desc: "Only one legendary action can be used at a time and only at the end of another creature's turn. It regains spent legendary actions at the start of its turn." }
     - { name: Charm, desc: "The dragon targets a creature within 60 feet, forcing it to make a DC 16 Wisdom saving throw. On a failure, the creature is charmed by the dragon for 24 hours, regarding it as a trusted friend to be heeded and protected. Although it isn't under the dragon's control, it takes the dragon's requests or actions in the most favorable way it can. At the end of each of the target's turns and at the end of any turn during which the dragon or its companions harmed the target, it repeats the saving throw, ending the effect on a success." }
     - { name: Stupefy, desc: 'The dragon targets a creature within 60 feet. If the target is concentrating on a spell, it must make a DC 19 Constitution saving throw or lose concentration.' }

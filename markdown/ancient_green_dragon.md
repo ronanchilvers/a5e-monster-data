@@ -19,16 +19,16 @@ stats:
 damage_immunities: poison
 condition_immunities: poisoned
 saves:
-    dexterity: 8
-    constitution: 14
-    wisdom: 10
-    charisma: 11
+    - { dexterity: 8 }
+    - { constitution: 14 }
+    - { wisdom: 10 }
+    - { charisma: 11 }
 skillsaves:
-    deception: 11
-    insight: 10
-    perception: 10
-    persuasion: 11
-    stealth: 8
+    - { deception: 11 }
+    - { insight: 10 }
+    - { perception: 10 }
+    - { persuasion: 11 }
+    - { stealth: 8 }
 senses: 'blindsight 60 ft., darkvision 120 ft., passive Perception 23'
 languages: 'Common, Draconic, three more'
 traits:
@@ -48,7 +48,7 @@ actions:
     - { name: 'Honeyed Words', desc: "The dragon's words sow doubt in the minds of those who hear them. One creature within 60 feet who can hear and understand the dragon makes a DC 19 Wisdom saving throw. On a failure, the creature must use its reaction, if available, to make one attack against a creature of the dragon's choice with whatever weapon it has to do so, moving up to its speed as part of the reaction if necessary. It need not use any special class features (such as Sneak Attack or Divine Smite) when making this attack. If it can't get in a position to attack the creature, it moves as far as it can toward the target before regaining its senses. A creature immune to being charmed is immune to this ability." }
 reactions:
     - { name: 'Tail Attack', desc: 'When a creature the dragon can see within 10 feet hits the dragon with a melee attack, the dragon makes a tail attack against it.' }
-'legendary actions':
+legendary_actions:
     - { name: 'The dragon can take 3 legendary actions, choosing from the options below', desc: "Only one legendary action can be used at a time and only at the end of another creature's turn. It regains spent legendary actions at the start of its turn." }
     - { name: 'Honeyed Words', desc: 'The dragon uses Honeyed Words.' }
     - { name: Roar, desc: "Each creature of the dragon's choice within 120 feet that can hear it makes a DC 19 Charisma saving throw. On a failure, it is frightened for 1 minute. A creature repeats the saving throw at the end of its turns, ending the effect on itself on a success. When it succeeds on a saving throw or the effect ends for it, it is immune to Roar for 24 hours." }

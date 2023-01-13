@@ -19,12 +19,12 @@ stats:
 damage_immunities: 'fire, poison; damage from nonmagical weapons'
 condition_immunities: 'charmed, frightened, paralyzed, petrified, poisoned'
 saves:
-    strength: 19
-    dexterity: 10
-    constitution: 19
-    intelligence: 6
-    wisdom: 11
-    charisma: 11
+    - { strength: 19 }
+    - { dexterity: 10 }
+    - { constitution: 19 }
+    - { intelligence: 6 }
+    - { wisdom: 11 }
+    - { charisma: 11 }
 senses: 'blindsight 120 ft., tremorsense 60 ft., passive Perception 12'
 traits:
     - { name: 'Astounding Leap', desc: "The tarrasque's high jump distance is equal to its Speed." }
@@ -43,7 +43,7 @@ actions:
     - { name: Swallow, desc: "The tarrasque makes a bite attack against a Large or smaller creature it is grappling. If the attack hits, the target is swallowed and the grapple ends. A swallowed creature has total cover from attacks from outside the tarrasque, it is blinded and restrained, and it takes 35 (10d6) acid damage and 35 (10d6) bludgeoning damage at the start of each of the tarrasque's turns." }
     - { name: 'If a swallowed creature deals 70 or more damage to the tarrasque in a single turn, or if the tarrasque dies, the tarrasque vomits up all swallowed creatures', desc: '' }
     - { name: 'Radiant Breath (Recharge 56)', desc: 'The tarrasque exhales radiant energy in a 90-foot cone. Each creature in that area makes a DC 27 Constitution saving throw, taking 105 (30d6) radiant damage on a failed save or half damage on a success.' }
-'legendary actions':
+legendary_actions:
     - { name: 'The tarrasque can take 3 legendary actions, choosing from the options below', desc: "Only one legendary action can be used at a time and only at the end of another creature's turn. It regains spent legendary actions at the start of its turn." }
     - { name: Attack, desc: 'The tarrasque attacks with its claw or tail.' }
     - { name: Move, desc: 'The tarrasque moves up to half its Speed.' }

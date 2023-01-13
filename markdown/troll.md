@@ -17,7 +17,7 @@ stats:
     - 12
     - 8
 skillsaves:
-    stealth: 4
+    - { stealth: 4 }
 senses: 'darkvision 60 ft., passive Perception 11'
 languages: Giant
 traits:

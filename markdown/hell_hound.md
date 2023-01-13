@@ -18,7 +18,7 @@ stats:
     - 8
 damage_immunities: fire
 skillsaves:
-    perception: 3
+    - { perception: 3 }
 senses: 'darkvision 60 ft., passive Perception 15'
 languages: "understands Infernal but can't speak"
 traits:

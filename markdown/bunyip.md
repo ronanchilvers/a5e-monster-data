@@ -18,13 +18,13 @@ stats:
     - 8
 damage_resistances: 'cold, thunder'
 saves:
-    dexterity: 5
-    wisdom: 4
+    - { dexterity: 5 }
+    - { wisdom: 4 }
 skillsaves:
-    athletics: 9
-    perception: 4
-    stealth: 5
-    survival: 4
+    - { athletics: 9 }
+    - { perception: 4 }
+    - { stealth: 5 }
+    - { survival: 4 }
 senses: 'darkvision 120 ft., passive Perception 16'
 traits:
     - { name: Brave, desc: 'The bunyip has advantage on saving throws against being frightened.' }

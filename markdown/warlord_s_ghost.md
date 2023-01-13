@@ -20,7 +20,7 @@ damage_resistances: 'acid, fire, lightning, thunder; damage from nonmagical weap
 damage_immunities: 'cold, necrotic, poison'
 condition_immunities: 'charmed, exhaustion, frightened, grappled, paralyzed, petrified, poisoned, prone, restrained'
 saves:
-    wisdom: 2
+    - { wisdom: 2 }
 senses: 'darkvision 60 ft., Passive Perception 10'
 languages: 'the languages it spoke in life'
 traits:

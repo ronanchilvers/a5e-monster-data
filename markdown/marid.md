@@ -18,13 +18,13 @@ stats:
     - 16
 damage_resistances: 'acid, cold, lightning'
 saves:
-    constitution: 10
-    intelligence: 7
-    wisdom: 6
-    charisma: 7
+    - { constitution: 10 }
+    - { intelligence: 7 }
+    - { wisdom: 6 }
+    - { charisma: 7 }
 skillsaves:
-    perception: 6
-    persuasion: 7
+    - { perception: 6 }
+    - { persuasion: 7 }
 senses: 'blindsight 30 ft., darkvision 120 ft., passive Perception 16'
 languages: Aquan
 traits:

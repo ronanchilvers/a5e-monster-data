@@ -17,7 +17,7 @@ stats:
     - 8
     - 4
 skillsaves:
-    stealth: 4
+    - { stealth: 4 }
 senses: 'blindsight 30 ft., passive Perception 9'
 traits:
     - { name: Amphibious, desc: 'The crab can breathe air and water.' }

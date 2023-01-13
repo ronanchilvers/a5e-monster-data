@@ -17,13 +17,13 @@ stats:
     - 12
     - 10
 saves:
-    intelligence: 6
-    wisdom: 4
+    - { intelligence: 6 }
+    - { wisdom: 4 }
 skillsaves:
-    arcana: 6
-    history: 6
-    investigation: 6
-    perception: 4
+    - { arcana: 6 }
+    - { history: 6 }
+    - { investigation: 6 }
+    - { perception: 4 }
 senses: 'passive Perception 14'
 languages: 'any three'
 traits: {  }

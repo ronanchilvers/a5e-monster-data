@@ -18,8 +18,8 @@ stats:
     - 10
 damage_immunities: 'damage from nonmagical, non-silvered weapons'
 skillsaves:
-    perception: 3
-    stealth: 5
+    - { perception: 3 }
+    - { stealth: 5 }
 senses: 'darkvision 60 ft. (tiger or hybrid form only), passive Perception 15'
 languages: Common
 traits:

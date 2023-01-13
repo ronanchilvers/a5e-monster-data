@@ -19,14 +19,14 @@ stats:
 damage_resistances: acid
 condition_immunities: petrified
 saves:
-    strength: 10
-    constitution: 10
-    intelligence: 5
-    wisdom: 6
-    charisma: 6
+    - { strength: 10 }
+    - { constitution: 10 }
+    - { intelligence: 5 }
+    - { wisdom: 6 }
+    - { charisma: 6 }
 skillsaves:
-    athletics: 10
-    perception: 6
+    - { athletics: 10 }
+    - { perception: 6 }
 senses: 'darkvision 120 ft., tremorsense 30 ft., passive Perception 16'
 languages: Terran
 traits:

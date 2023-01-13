@@ -18,13 +18,13 @@ stats:
     - 18
 damage_resistances: 'necrotic; damage from nonmagical, non-silvered weapons'
 saves:
-    dexterity: 8
-    wisdom: 7
-    charisma: 8
+    - { dexterity: 8 }
+    - { wisdom: 7 }
+    - { charisma: 8 }
 skillsaves:
-    perception: 7
-    persuasion: 8
-    stealth: 8
+    - { perception: 7 }
+    - { persuasion: 8 }
+    - { stealth: 8 }
 senses: 'darkvision 120 ft., passive Perception 17'
 languages: 'the languages it knew in life'
 traits:
@@ -42,7 +42,7 @@ reactions:
     - { name: 'Warding Charm (1/Day)', desc: 'When a creature the vampire can see targets it with a melee attack but before the attack is made, the vampire uses Charm on that creature.' }
 'bonus actions':
     - { name: Bite, desc: "Melee Weapon Attack: +9 to hit, reach 5 ft., one target that is grappled, incapacitated, restrained, willing, or unaware of the vampire's presence. Hit: 10 (1d10 + 5) piercing damage plus 21 (6d6) necrotic damage. The target's hit point maximum is reduced by an amount equal to the necrotic damage dealt, and the vampire regains this number of hit points. The reduction lasts until the target finishes a long rest. If the target is reduced to 0 hit points by this attack, it dies and rises the following night as a vampire spawn in the vampire's thrall. Before the target first rises as a vampire spawn, a bless, gentle repose, or similar spell cast on the body prevents this transformation." }
-'legendary actions':
+legendary_actions:
     - { name: 'The vampire can take 1 legendary action, choosing from the options below', desc: "Only one legendary action can be used at a time and only at the end of another creature's turn. It regains spent legendary actions at the start of its turn." }
     - { name: 'Blood Charm', desc: 'The vampire uses Charm. A creature makes its initial saving throw with disadvantage if the vampire has hit it with a bite attack within the last 24 hours.' }
     - { name: Grab, desc: 'The vampire makes a grab attack.' }

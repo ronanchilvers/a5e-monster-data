@@ -17,7 +17,7 @@ stats:
     - 10
     - 4
 skillsaves:
-    stealth: 4
+    - { stealth: 4 }
 senses: 'darkvision 30 ft., passive Perception 10'
 traits:
     - { name: Camouflage, desc: 'The octopus has advantage on Stealth checks.' }

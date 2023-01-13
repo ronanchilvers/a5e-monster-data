@@ -17,11 +17,11 @@ stats:
     - 16
     - 10
 saves:
-    constitution: 7
-    intelligence: -1
-    wisdom: 6
+    - { constitution: 7 }
+    - { intelligence: -1 }
+    - { wisdom: 6 }
 skillsaves:
-    perception: 6
+    - { perception: 6 }
 senses: 'darkvision 60 ft., passive Perception 21'
 languages: 
 traits:
@@ -36,7 +36,7 @@ actions:
 reactions:
     - { name: 'Tail Swipe (1/Day)', desc: "If a creature within 5 feet hits the chimera with a melee attack, the attacker is battered by the chimera's tail. The attacker makes a DC 15 Strength saving throw. On a failure, it takes 9 (2d4 + 4) bludgeoning damage and is pushed 10 feet from the chimera and knocked prone." }
     - { name: 'Winged Charge (1/Day)', desc: 'If a creature the chimera can see hits it with a ranged attack, the chimera leaps off the ground and moves up to its fly speed towards the attacker. If within range, the chimera then makes a headbutt attack against the attacker.' }
-'legendary actions':
+legendary_actions:
     - { name: 'The chimera can take 2 legendary actions, choosing from the options below', desc: "Only one legendary action can be used at a time and only at the end of another creature's turn. It regains spent legendary actions at the start of its turn." }
     - { name: Bite, desc: 'The chimera uses its Bite attack.' }
     - { name: Claw, desc: 'The chimera uses its Claw attack.' }

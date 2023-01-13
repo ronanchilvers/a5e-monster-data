@@ -17,10 +17,10 @@ stats:
     - 10
     - 8
 saves:
-    strength: 7
-    constitution: 5
+    - { strength: 7 }
+    - { constitution: 5 }
 skillsaves:
-    perception: 2
+    - { perception: 2 }
 senses: 'darkvision 60 ft., passive Perception 12 (17 with Two Heads)'
 languages: 'Common, Giant, Orc'
 traits:

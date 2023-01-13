@@ -17,9 +17,9 @@ stats:
     - 14
     - 16
 skillsaves:
-    deception: 5
-    insight: 4
-    stealth: 6
+    - { deception: 5 }
+    - { insight: 4 }
+    - { stealth: 6 }
 senses: 'darkvision 60 ft., passive Perception 12'
 languages: Common
 actions:

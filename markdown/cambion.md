@@ -18,15 +18,15 @@ stats:
     - 18
 damage_resistances: 'cold, fire, poison; damage from nonmagical weapons'
 saves:
-    constitution: 7
-    intelligence: 6
-    wisdom: 5
-    charisma: 7
+    - { constitution: 7 }
+    - { intelligence: 6 }
+    - { wisdom: 5 }
+    - { charisma: 7 }
 skillsaves:
-    deception: 7
-    intimidation: 7
-    perception: 5
-    stealth: 7
+    - { deception: 7 }
+    - { intimidation: 7 }
+    - { perception: 5 }
+    - { stealth: 7 }
 senses: 'darkvision 60 ft., passive Perception 15'
 languages: 'Abyssal, Common, Infernal'
 actions:

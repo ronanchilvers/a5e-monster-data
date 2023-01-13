@@ -18,9 +18,9 @@ stats:
     - 12
 damage_resistances: poison
 skillsaves:
-    perception: 6
-    stealth: 6
-    survival: 6
+    - { perception: 6 }
+    - { stealth: 6 }
+    - { survival: 6 }
 senses: 'darkvision 120 ft., passive Perception 16'
 languages: 'Undercommon, one more'
 traits:

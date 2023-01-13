@@ -17,16 +17,16 @@ stats:
     - 12
     - 14
 saves:
-    strength: 7
-    dexterity: 7
-    constitution: 6
-    wisdom: 4
+    - { strength: 7 }
+    - { dexterity: 7 }
+    - { constitution: 6 }
+    - { wisdom: 4 }
 skillsaves:
-    athletics: 7
-    intimidation: 5
-    perception: 4
-    stealth: 7
-    survival: 4
+    - { athletics: 7 }
+    - { intimidation: 5 }
+    - { perception: 4 }
+    - { stealth: 7 }
+    - { survival: 4 }
 senses: 'passive Perception 14, darkvision 120 ft.'
 languages: 'any one'
 traits:

@@ -19,10 +19,10 @@ stats:
 damage_resistances: 'damage from nonmagical weapons'
 condition_immunities: petrified
 skillsaves:
-    athletics: 4
-    insight: 4
-    nature: 3
-    perception: 4
+    - { athletics: 4 }
+    - { insight: 4 }
+    - { nature: 3 }
+    - { perception: 4 }
 senses: 'darkvision 120 ft., tremorsense 30 ft., passive Perception 14'
 languages: 'Draconic, Terran'
 traits:

@@ -17,8 +17,8 @@ stats:
     - 10
     - 10
 skillsaves:
-    deception: 2
-    religion: 2
+    - { deception: 2 }
+    - { religion: 2 }
 senses: 'passive Perception 10'
 languages: 'any one'
 traits:

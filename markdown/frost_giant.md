@@ -18,14 +18,14 @@ stats:
     - 12
 damage_immunities: cold
 saves:
-    strength: 10
-    constitution: 9
-    wisdom: 4
-    charisma: 5
+    - { strength: 10 }
+    - { constitution: 9 }
+    - { wisdom: 4 }
+    - { charisma: 5 }
 skillsaves:
-    athletics: 10
-    perception: 4
-    survival: 4
+    - { athletics: 10 }
+    - { perception: 4 }
+    - { survival: 4 }
 senses: 'passive Perception 14'
 languages: 'Common, Giant'
 traits:

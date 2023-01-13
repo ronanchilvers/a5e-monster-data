@@ -17,7 +17,7 @@ stats:
     - 10
     - 4
 skillsaves:
-    perception: 2
+    - { perception: 2 }
 senses: 'blindsight 30 ft., passive Perception 12'
 traits:
     - { name: 'Pack Tactics', desc: "The shark has advantage on attack rolls against a creature if at least one of the shark's allies is within 5 feet of the creature and not incapacitated." }

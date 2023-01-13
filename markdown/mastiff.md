@@ -17,7 +17,7 @@ stats:
     - 12
     - 6
 skillsaves:
-    perception: 3
+    - { perception: 3 }
 senses: 'passive Perception 13'
 traits:
     - { name: 'Keen Hearing and Smell', desc: 'The mastiff has advantage on Perception checks that rely on hearing and smell.' }

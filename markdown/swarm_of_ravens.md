@@ -19,7 +19,7 @@ stats:
 damage_resistances: 'bludgeoning, piercing, slashing'
 condition_immunities: 'charmed, frightened, grappled, paralyzed, petrified, prone, restrained, stunned, unconscious'
 skillsaves:
-    perception: 3
+    - { perception: 3 }
 senses: 'passive Perception 13'
 traits:
     - { name: Swarm, desc: "The swarm can occupy another creature's space and move through any opening large enough for a Tiny creature. It can't gain hit points or temporary hit points." }

@@ -17,12 +17,12 @@ stats:
     - 12
     - 8
 saves:
-    dexterity: 5
-    constitution: 10
-    wisdom: 6
-    charisma: 4
+    - { dexterity: 5 }
+    - { constitution: 10 }
+    - { wisdom: 6 }
+    - { charisma: 4 }
 skillsaves:
-    perception: 6
+    - { perception: 6 }
 senses: 'passive Perception 16'
 traits:
     - { name: 'Keen Sight', desc: 'The roc has advantage on Perception checks that rely on sight.' }

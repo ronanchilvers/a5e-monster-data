@@ -19,10 +19,10 @@ stats:
 damage_resistances: 'psychic, thunder'
 condition_immunities: fatigue
 skillsaves:
-    deception: 4
-    history: 4
-    perception: 2
-    stealth: 4
+    - { deception: 4 }
+    - { history: 4 }
+    - { perception: 2 }
+    - { stealth: 4 }
 senses: 'darkvision 120 ft., passive Perception 12'
 languages: 'Deep Speech, Draconic, Undercommon, telepathy 120 ft.'
 traits:

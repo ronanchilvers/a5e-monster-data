@@ -19,11 +19,11 @@ stats:
 damage_resistances: 'cold, fire, thunder'
 damage_immunities: 'lightning; damage from nonmagical weapons'
 saves:
-    strength: 18
-    constitution: 16
-    dexterity: 8
-    intelligence: 14
-    wisdom: 12
+    - { strength: 18 }
+    - { constitution: 16 }
+    - { dexterity: 8 }
+    - { intelligence: 14 }
+    - { wisdom: 12 }
 senses: 'truesight 120 ft., passive Perception 14'
 languages: "understands Primordial but can't speak, telepathy 120 ft."
 traits:
@@ -39,7 +39,7 @@ actions:
     - { name: 'Lightning (Recharge 5-6)', desc: 'If the kraken is outside and the weather is stormy, three lightning bolts crack down from the sky, each of which strikes a different target within 120 feet of the kraken. A target makes a DC 24 Dexterity saving throw, taking 28 (8d6) lightning damage or half damage on a save.' }
     - { name: Tentacle, desc: "Melee Weapon Attack: +18 to hit, reach 30 ft., one target. Hit: 28 (4d8 + 10) bludgeoning damage, and the target is grappled (escape DC 26). Until this grapple ends, the target is restrained. A tentacle can be targeted individually by an attack. It shares the kraken's hit points, but if 30 damage is dealt to the tentacle, it releases a creature it is grappling. The kraken can grapple up to 10 creatures." }
     - { name: Fling, desc: 'One Large or smaller object or creature grappled by the kraken is thrown up to 60 feet in a straight line. The target lands prone and takes 21 (6d6) bludgeoning damage. If the kraken throws the target at another creature, that creature makes a DC 26 saving throw, taking the same damage on a failure.' }
-'legendary actions':
+legendary_actions:
     - { name: 'The kraken can take 3 legendary actions, choosing from the options below', desc: "Only one legendary action can be used at a time and only at the end of another creature's turn. It regains spent legendary actions at the start of its turn." }
     - { name: Tentacle, desc: 'The kraken makes one tentacle attack.' }
     - { name: Fling, desc: 'The kraken uses Fling.' }

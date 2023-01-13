@@ -17,7 +17,7 @@ stats:
     - 10
     - 4
 skillsaves:
-    perception: 2
+    - { perception: 2 }
 senses: 'blindsight 30 ft., passive Perception 12'
 traits:
     - { name: 'Water Breathing', desc: 'The shark breathes only water.' }

@@ -17,8 +17,8 @@ stats:
     - 10
     - 8
 skillsaves:
-    perception: 2
-    stealth: 3
+    - { perception: 2 }
+    - { stealth: 3 }
 senses: 'darkvision 60 ft., passive Perception 12'
 languages: 'Goblin, Worg'
 traits:

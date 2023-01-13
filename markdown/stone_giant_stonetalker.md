@@ -19,14 +19,14 @@ stats:
 damage_resistances: acid
 condition_immunities: petrified
 saves:
-    strength: 9
-    dexterity: 5
-    constitution: 8
-    wisdom: 4
+    - { strength: 9 }
+    - { dexterity: 5 }
+    - { constitution: 8 }
+    - { wisdom: 4 }
 skillsaves:
-    athletics: 9
-    perception: 4
-    stealth: 5
+    - { athletics: 9 }
+    - { perception: 4 }
+    - { stealth: 5 }
 senses: 'passive Perception 14'
 languages: Giant
 traits:

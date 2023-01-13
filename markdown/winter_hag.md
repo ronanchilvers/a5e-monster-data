@@ -18,14 +18,14 @@ stats:
     - 18
 damage_resistances: cold
 saves:
-    constitution: 6
-    wisdom: 6
+    - { constitution: 6 }
+    - { wisdom: 6 }
 skillsaves:
-    arcana: 6
-    deception: 7
-    insight: 6
-    perception: 6
-    stealth: 6
+    - { arcana: 6 }
+    - { deception: 7 }
+    - { insight: 6 }
+    - { perception: 6 }
+    - { stealth: 6 }
 senses: 'darkvision 60 ft., passive Perception 16'
 languages: 'Common, Draconic, Sylvan'
 traits:

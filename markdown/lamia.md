@@ -17,9 +17,9 @@ stats:
     - 16
     - 18
 skillsaves:
-    deception: 6
-    perception: 5
-    stealth: 5
+    - { deception: 6 }
+    - { perception: 5 }
+    - { stealth: 5 }
 senses: 'darkvision 60 ft., passive Perception 15'
 languages: 'Abyssal, Common'
 traits:

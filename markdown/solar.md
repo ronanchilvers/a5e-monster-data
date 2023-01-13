@@ -20,14 +20,14 @@ damage_resistances: 'radiant; damage from nonmagical weapons'
 damage_immunities: 'necrotic, poison'
 condition_immunities: 'charmed, exhaustion, frightened, poisoned'
 saves:
-    wisdom: 0
-    charisma: 17
+    - { wisdom: 0 }
+    - { charisma: 17 }
 skillsaves:
-    athletics: 16
-    history: 16
-    insight: 17
-    perception: 17
-    religion: 17
+    - { athletics: 16 }
+    - { history: 16 }
+    - { insight: 17 }
+    - { perception: 17 }
+    - { religion: 17 }
 senses: 'truesight 120 ft., Passive Perception 27'
 languages: 'all, telepathy 120 ft.'
 traits:
@@ -42,7 +42,7 @@ actions:
     - { name: 'Column of Flame', desc: 'Flame erupts in a 10-foot-radius, 30-foot-tall cylinder centered on a point the solar can see within 60 feet of it. Each creature in the area makes a DC 21 Dexterity saving throw, taking 21 (6d6) fire damage and 21 (6d6) radiant damage of a failure, or half as much damage on a success.' }
 reactions:
     - { name: 'Forceful Parry (While Bloodied)', desc: "When a creature misses the solar with a melee attack, the solar's parrying sword sparks with energy. The attacker takes 21 (6d6) lightning damage and makes a DC 24 Constitution saving throw. On a failure, it is pushed 10 feet away and falls prone." }
-'legendary actions':
+legendary_actions:
     - { name: 'The solar can take 3 legendary actions, choosing from the options below', desc: "Only one legendary action can be used at a time and only at the end of another creature's turn. The solar regains spent legendary actions at the start of its turn." }
     - { name: Teleport, desc: 'The solar magically teleports up to 120 feet to an empty space it can see.' }
     - { name: 'Heal (3/Day)', desc: 'The solar touches a creature other than itself, magically healing 60 hit points of damage and ending any blindness, curse, deafness, disease, or poison on the target.' }

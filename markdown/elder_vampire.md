@@ -18,13 +18,13 @@ stats:
     - 18
 damage_resistances: 'necrotic; damage from nonmagical, non-silvered weapons'
 saves:
-    dexterity: 8
-    wisdom: 7
-    charisma: 8
+    - { dexterity: 8 }
+    - { wisdom: 7 }
+    - { charisma: 8 }
 skillsaves:
-    perception: 7
-    persuasion: 8
-    stealth: 8
+    - { perception: 7 }
+    - { persuasion: 8 }
+    - { stealth: 8 }
 senses: 'darkvision 120 ft., truesight 120 ft., passive Perception 17'
 languages: 'the languages it knew in life'
 traits:
@@ -43,13 +43,13 @@ reactions:
     - { name: 'Warding Charm (1/Day)', desc: 'When a creature the vampire can see targets it with a melee attack but before the attack is made, the vampire uses Charm on that creature.' }
 'bonus actions':
     - { name: Bite, desc: "Melee Weapon Attack: +9 to hit, reach 5 ft., one target that is grappled, incapacitated, restrained, willing, or unaware of the vampire's presence. Hit: 10 (1d10 + 5) piercing damage plus 21 (6d6) necrotic damage. The target's hit point maximum is reduced by an amount equal to the necrotic damage dealt, and the vampire regains this number of hit points. The reduction lasts until the target finishes a long rest. If the target is reduced to 0 hit points by this attack, it dies and rises the following night as a vampire spawn in the vampire's thrall. Before the target first rises as a vampire spawn, a bless, gentle repose, or similar spell cast on the body prevents this transformation." }
-'legendary actions':
+legendary_actions:
     0: { name: 'The vampire can take 1 legendary action, choosing from the options below', desc: "Only one legendary action can be used at a time and only at the end of another creature's turn. It regains spent legendary actions at the start of its turn." }
     1: { name: 'Blood Charm', desc: 'The vampire uses Charm. A creature makes its initial saving throw with disadvantage if the vampire has hit it with a bite attack within the last 24 hours.' }
     2: { name: Grab, desc: 'The vampire makes a grab attack.' }
     3: { name: 'Mist Form', desc: "The vampire transforms into a mist or back into its true form. As mist, the vampire has a flying speed of 30, can't speak, can't take actions or manipulate objects, is immune to nonmagical damage from weapons, and has advantage on saving throws and Stealth checks. It can pass through a space as narrow as 1 inch without squeezing but can't pass through water. Anything it's carrying transforms with it." }
     4: { name: Shapechange, desc: "The vampire transforms into the shape of a Medium or smaller beast or back into its true form. While transformed, it has the beast's size and movement modes. It can't use reactions or legendary actions, and can't speak. Otherwise, it uses the vampire's statistics. Anything it's carrying transforms with it." }
-    'legendary actions': ['The elder vampire has the following additional legendary actions, which it can use only while bloodied:']
+    legendary_actions: ['The elder vampire has the following additional legendary actions, which it can use only while bloodied:']
     5: { name: 'Elite Recovery', desc: 'The vampire ends one negative effect currently affecting it. It can use this action as long as it has at least 1 hit point, even while unconscious or incapacitated.' }
     6: { name: 'Momentary Transformation (Vampire Form Only)', desc: 'The vampire uses Shapechange or Mist Form, moves up to its Speed without provoking opportunity attacks, and then returns to its true form.' }
     7: { name: 'Create Spawn (1/Day)', desc: "The vampire magically raises a dead humanoid as a vampire spawn under the vampire's control." }

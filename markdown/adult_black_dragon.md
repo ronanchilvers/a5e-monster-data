@@ -18,14 +18,14 @@ stats:
     - 16
 damage_immunities: acid
 saves:
-    dexterity: 8
-    constitution: 11
-    wisdom: 7
-    charisma: 9
+    - { dexterity: 8 }
+    - { constitution: 11 }
+    - { wisdom: 7 }
+    - { charisma: 9 }
 skillsaves:
-    history: 8
-    perception: 7
-    stealth: 8
+    - { history: 8 }
+    - { perception: 7 }
+    - { stealth: 8 }
 senses: 'blindsight 60 ft., darkvision 120 ft., passive Perception 20'
 languages: 'Common, Draconic'
 traits:
@@ -44,7 +44,7 @@ actions:
     - { name: 'Acid Breath (Recharge 56)', desc: 'The dragon exhales sizzling acid in a 60-foot-long, 5-foot-wide line. Each creature in that area makes a DC 19 Dexterity saving throw, taking 63 (14d8) acid damage on a failed save or half damage on a success. A creature that fails the save is blinded until the end of its next turn.' }
 reactions:
     - { name: 'Tail Attack', desc: 'When a creature the dragon can see within 10 feet hits the dragon with a melee attack, the dragon makes a tail attack against it.' }
-'legendary actions':
+legendary_actions:
     - { name: 'The dragon can take 3 legendary actions, choosing from the options below', desc: "Only one legendary action can be used at a time and only at the end of another creature's turn. It regains spent legendary actions at the start of its turn." }
     - { name: Darkness, desc: "The dragon creates a 20-foot-radius sphere of magical darkness originating from a point it can see within 120 feet. Darkvision can't penetrate this darkness. The darkness lasts for 1 minute or until the dragon uses this action again." }
     - { name: Roar, desc: "Each creature of the dragon's choice within 120 feet that can hear it makes a DC 17 Charisma saving throw. On a failure, it is frightened for 1 minute. A creature repeats the saving throw at the end of its turns, ending the effect on itself on a success. When it succeeds on a saving throw or the effect ends for it, it is immune to Roar for 24 hours." }

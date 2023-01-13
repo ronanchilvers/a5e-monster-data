@@ -17,8 +17,8 @@ stats:
     - 14
     - 5
 saves:
-    strength: 6
-    constitution: 6
+    - { strength: 6 }
+    - { constitution: 6 }
 senses: 'darkvision 120 ft., passive Perception 12'
 languages: 'telepathy 120 ft. (can transmit but not receive thoughts and images)'
 traits:
@@ -31,7 +31,7 @@ actions:
     - { name: Bite, desc: 'Melee Weapon Attack: +6 to hit, reach 5 ft., one target. Hit: 12 (2d8 + 3) piercing damage. If the target is a creature, it makes a DC 14 Constitution saving throw. On a failure, the target contracts a disease. While diseased, the target is poisoned. The target repeats the saving throw every 24 hours, reducing its hit point maximum by 5 (1d10) on a failure (to a minimum of 1 hit point) and becoming cured on a success. The reduction in hit points lasts until the disease is cured.' }
     - { name: Swallow, desc: "If the otyugh has no other creature in its stomach, the otyugh bites a Medium or smaller creature that is stunned. On a hit, the creature is swallowed. A swallowed creature has total cover from attacks from outside the otyugh, is blinded and restrained, and takes 10 (3d6) acid damage at the start of each of the otyugh's turns." }
     - { name: 'If a swallowed creature deals 15 or more damage to the otyugh in a single turn, or if the otyugh dies, the otyugh vomits up the creature', desc: '' }
-'legendary actions':
+legendary_actions:
     - { name: 'The ur-otyugh can take 2 legendary actions, choosing from the options below', desc: "Only one legendary action can be used at a time and only at the end of another creature's turn. It regains spent legendary actions at the start of its turn." }
     - { name: 'Mad Dash', desc: 'The ur-otyugh moves up to half its Speed.' }
     - { name: Tentacle, desc: 'The ur-otyugh makes a tentacle attack. This attack has a range of 15 feet.' }

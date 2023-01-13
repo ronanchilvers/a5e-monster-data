@@ -18,14 +18,14 @@ stats:
     - 20
 damage_immunities: lightning
 saves:
-    dexterity: 7
-    constitution: 15
-    wisdom: 10
-    charisma: 12
+    - { dexterity: 7 }
+    - { constitution: 15 }
+    - { wisdom: 10 }
+    - { charisma: 12 }
 skillsaves:
-    insight: 10
-    perception: 10
-    stealth: 7
+    - { insight: 10 }
+    - { perception: 10 }
+    - { stealth: 7 }
 senses: 'blindsight 60 ft., darkvision 120 ft., passive Perception 23'
 languages: 'Common, Draconic, two more'
 traits:
@@ -48,7 +48,7 @@ reactions:
     - { name: 'Tail Attack', desc: 'When a creature the dragon can see within 10 feet hits the dragon with a melee attack, the dragon makes a tail attack against it.' }
 'bonus actions':
     - { name: 'Change Shape', desc: "The dragon magically takes the shape of a humanoid or beast, or changes back into its true form. It reverts to its true form if it dies. Any equipment it is wearing or carrying is absorbed or borne by the new form (dragon's choice). In the new form, the dragon's stats are unchanged except for its size. It can't use Lightning Pulse, Breath Weapons, Tail Attack, or Wing Attack except in dragon form. In beast form, it can attack only with its bite and claws, if appropriate to its form. If the beast form is Large or smaller, the reach of these attacks is reduced to 5 feet. In humanoid form, it can attack only with its trident." }
-'legendary actions':
+legendary_actions:
     - { name: 'The dragon can take 3 legendary actions, choosing from the options below', desc: "Only one legendary action can be used at a time and only at the end of another creature's turn. It regains spent legendary actions at the start of its turn." }
     - { name: Roar, desc: "Each creature of the dragon's choice within 120 feet that can hear it makes a DC 20 Charisma saving throw. On a failure, it is frightened for 1 minute. A creature repeats the saving throw at the end of its turns, ending the effect on itself on a success. When it succeeds on a saving throw or the effect ends for it, it is immune to Roar for 24 hours." }
     - { name: 'Wing Attack', desc: 'The dragon beats its wings. Each creature within 15 feet makes a DC 24 Dexterity saving throw. On a failure, it is pushed 10 feet away and knocked prone. The dragon can then fly up to half its fly speed.' }

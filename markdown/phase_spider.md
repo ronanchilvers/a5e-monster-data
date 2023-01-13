@@ -17,7 +17,7 @@ stats:
     - 10
     - 4
 skillsaves:
-    stealth: 4
+    - { stealth: 4 }
 senses: 'darkvision 60 ft., passive Perception 10'
 traits:
     - { name: 'Ethereal Sight', desc: 'The spider can see into both the Material Plane and Ethereal Plane.' }

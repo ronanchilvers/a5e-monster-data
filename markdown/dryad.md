@@ -18,10 +18,10 @@ stats:
     - 18
 'damage vulenrabilities': fire
 skillsaves:
-    nature: 3
-    perception: 5
-    stealth: 3
-    survival: 5
+    - { nature: 3 }
+    - { perception: 5 }
+    - { stealth: 3 }
+    - { survival: 5 }
 senses: 'darkvision 60 ft., passive Perception 14'
 languages: 'Elvish, Sylvan'
 traits:

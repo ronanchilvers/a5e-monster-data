@@ -19,16 +19,16 @@ stats:
 damage_immunities: poison
 condition_immunities: poisoned
 saves:
-    dexterity: 5
-    constitution: 7
-    wisdom: 5
-    charisma: 6
+    - { dexterity: 5 }
+    - { constitution: 7 }
+    - { wisdom: 5 }
+    - { charisma: 6 }
 skillsaves:
-    deception: 6
-    insight: 5
-    perception: 5
-    persuasion: 6
-    stealth: 5
+    - { deception: 6 }
+    - { insight: 5 }
+    - { perception: 5 }
+    - { persuasion: 6 }
+    - { stealth: 5 }
 senses: 'blindsight 30 ft., darkvision 120 ft., passive Perception 18'
 languages: 'Common, Draconic, one more'
 traits:

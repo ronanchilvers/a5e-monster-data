@@ -19,15 +19,15 @@ stats:
 damage_resistances: lightning
 condition_immunities: stunned
 saves:
-    strength: 2
-    dexterity: 6
-    constitution: 5
+    - { strength: 2 }
+    - { dexterity: 6 }
+    - { constitution: 5 }
 skillsaves:
-    athletics: 2
-    deception: 4
-    perception: 5
-    stealth: 6
-    survival: 5
+    - { athletics: 2 }
+    - { deception: 4 }
+    - { perception: 5 }
+    - { stealth: 6 }
+    - { survival: 5 }
 senses: 'passive Perception 17'
 languages: 'understands Common but cannot speak'
 traits:

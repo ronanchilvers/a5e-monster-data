@@ -18,12 +18,12 @@ stats:
     - 16
 condition_immunities: frightened
 saves:
-    constitution: 10
-    wisdom: 6
+    - { constitution: 10 }
+    - { wisdom: 6 }
 skillsaves:
-    athletics: 10
-    history: 6
-    perception: 6
+    - { athletics: 10 }
+    - { history: 6 }
+    - { perception: 6 }
 senses: 'passive Perception 18'
 languages: 'any two'
 traits:

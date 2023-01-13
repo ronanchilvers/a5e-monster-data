@@ -17,8 +17,8 @@ stats:
     - 12
     - 5
 skillsaves:
-    perception: 3
-    stealth: 3
+    - { perception: 3 }
+    - { stealth: 3 }
 senses: 'darkvision 60 ft., passive Perception 13'
 traits:
     - { name: 'Keen Sight and Smell', desc: 'The owlbear has advantage on Perception checks that rely on sight or smell.' }

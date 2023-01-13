@@ -18,14 +18,14 @@ stats:
     - 16
 damage_resistances: 'cold, fire'
 saves:
-    dexterity: 6
-    constitution: 12
-    intelligence: 8
-    wisdom: 9
+    - { dexterity: 6 }
+    - { constitution: 12 }
+    - { intelligence: 8 }
+    - { wisdom: 9 }
 skillsaves:
-    history: 8
-    insight: 9
-    nature: 8
+    - { history: 8 }
+    - { insight: 9 }
+    - { nature: 8 }
 senses: 'darkvision 120 ft., passive Perception 13'
 languages: 'Aquan, Common, Draconic'
 traits:

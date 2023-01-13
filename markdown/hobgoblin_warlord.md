@@ -17,13 +17,13 @@ stats:
     - 12
     - 14
 saves:
-    strength: 5
-    wisdom: 3
+    - { strength: 5 }
+    - { wisdom: 3 }
 skillsaves:
-    athletics: 5
-    engineering: 4
-    intimidation: 4
-    perception: 3
+    - { athletics: 5 }
+    - { engineering: 4 }
+    - { intimidation: 4 }
+    - { perception: 3 }
 senses: 'darkvision 60 ft., passive Perception 13'
 languages: 'Common, Goblin'
 traits:

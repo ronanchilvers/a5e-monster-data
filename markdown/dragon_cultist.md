@@ -17,11 +17,11 @@ stats:
     - 14
     - 14
 saves:
-    wisdom: 4
+    - { wisdom: 4 }
 skillsaves:
-    deception: 4
-    persuasion: 4
-    religion: 2
+    - { deception: 4 }
+    - { persuasion: 4 }
+    - { religion: 2 }
 senses: 'passive Perception 12'
 languages: 'any one'
 traits:

@@ -17,12 +17,12 @@ stats:
     - 10
     - 14
 saves:
-    strength: 5
-    constitution: 4
-    wisdom: 2
+    - { strength: 5 }
+    - { constitution: 4 }
+    - { wisdom: 2 }
 skillsaves:
-    athletics: 5
-    perception: 2
+    - { athletics: 5 }
+    - { perception: 2 }
 senses: 'darkvision 30 ft., passive Perception 12'
 languages: 'Aquan, Common'
 traits:

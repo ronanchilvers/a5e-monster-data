@@ -18,7 +18,7 @@ stats:
     - 8
 condition_immunities: 'grappled, prone'
 skillsaves:
-    stealth: 4
+    - { stealth: 4 }
 senses: 'darkvision 60 ft., passive Perception 12'
 traits:
     - { name: 'False Appearance', desc: 'While the mimic is motionless, it is indistinguishable from an inanimate object.' }

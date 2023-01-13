@@ -18,8 +18,8 @@ stats:
     - 8
 damage_immunities: cold
 skillsaves:
-    perception: 3
-    stealth: 3
+    - { perception: 3 }
+    - { stealth: 3 }
 senses: 'darkvision 30 ft., passive Perception 13'
 languages: 'Common, Giant, Winter Wolf'
 traits:

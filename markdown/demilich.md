@@ -19,15 +19,15 @@ stats:
 damage_immunities: 'necrotic, poison, psychic; damage from nonmagical weapons'
 condition_immunities: 'charmed, deafened, fatigue, frightened, paralyzed, petrified, poisoned, prone, stunned'
 saves:
-    strength: 6
-    constitution: 9
-    intelligence: 13
-    wisdom: 12
-    charisma: 11
+    - { strength: 6 }
+    - { constitution: 9 }
+    - { intelligence: 13 }
+    - { wisdom: 12 }
+    - { charisma: 11 }
 skillsaves:
-    arcana: 13
-    perception: 12
-    stealth: 13
+    - { arcana: 13 }
+    - { perception: 12 }
+    - { stealth: 13 }
 senses: 'truesight 60 ft., passive Perception 22'
 languages: "understands the languages it knew in life but doesn't speak"
 traits:
@@ -37,7 +37,7 @@ traits:
 actions:
     - { name: 'Devour Soul', desc: "The demilich targets one creature within 120 feet, forcing it to make a DC 17 Wisdom saving throw. On a success, or if all the large soul gems on the demilich's skull are occupied, the creature takes 40 necrotic damage, and the demilich regains the same number of hit points. If the target fails its saving throw and there is at least one unoccupied soul gem on the demilich's skull, the demilich regains 40 hit points, and the target dies instantly. Its soul is trapped in a soul gem on the demilich's skull, visible as a tiny, creature-shaped mote of light. While its soul is trapped, a creature can't be restored to life by any means. A soul that remains in a soul gem for 30 days is destroyed forever. If the demilich is defeated and a soul gem crushed, the creature is restored to life if its body is within 100 miles. A creature that succeeds on a saving throw against this effect is immune to it for 24 hours." }
     - { name: 'A demilich begins combat with one or two empty soul gems', desc: '' }
-'legendary actions':
+legendary_actions:
     - { name: 'The demilich can take 3 legendary actions, choosing from the options below', desc: "Only one legendary action can be used at a time and only at the end of another creature's turn. The demilich regains spent legendary actions at the start of its turn." }
     - { name: 'Cranial Transposition', desc: "The dust surrounding the demilich falls to the ground. The demilich and a nonmagical, unattended skull within 30 teleport, switching places. Until the demilich moves or attacks, it is indistinguishable from a nonmagical skull, and the dust composing the demilich's wraithlike body doesn't reform around it." }
     - { name: 'Dust Storm (Costs 2 Actions)', desc: "The dust of the demilich's body swirls in a 30-foot radius around the demilich. Each creature in the area makes a DC 17 Constitution saving throw. On a failure, the creature takes 21 (6d6) necrotic damage and is blinded until the end of its next turn. The demilich then moves up to its speed." }

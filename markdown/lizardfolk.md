@@ -17,9 +17,9 @@ stats:
     - 10
     - 8
 skillsaves:
-    perception: 2
-    stealth: 3
-    survival: 2
+    - { perception: 2 }
+    - { stealth: 3 }
+    - { survival: 2 }
 senses: 'passive Perception 12'
 languages: Draconic
 traits:

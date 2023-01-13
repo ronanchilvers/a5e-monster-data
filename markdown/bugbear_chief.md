@@ -17,10 +17,10 @@ stats:
     - 12
     - 10
 skillsaves:
-    athletics: 6
-    stealth: 4
-    perception: 3
-    survival: 3
+    - { athletics: 6 }
+    - { stealth: 4 }
+    - { perception: 3 }
+    - { survival: 3 }
 senses: 'darkvision 60 ft., passive Perception 15'
 languages: 'Common, Goblin'
 actions:

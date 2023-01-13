@@ -20,16 +20,16 @@ damage_resistances: 'acid, cold, fire, lightning, thunder; damage from nonmagica
 damage_immunities: 'necrotic, poison'
 condition_immunities: 'fatigue, frightened, grappled, paralyzed, poisoned, prone, restrained'
 saves:
-    dexterity: 10
-    constitution: 15
-    intelligence: 10
-    wisdom: 10
+    - { dexterity: 10 }
+    - { constitution: 15 }
+    - { intelligence: 10 }
+    - { wisdom: 10 }
 skillsaves:
-    deception: 15
-    insight: 10
-    nature: 10
-    perception: 10
-    stealth: 10
+    - { deception: 15 }
+    - { insight: 10 }
+    - { nature: 10 }
+    - { perception: 10 }
+    - { stealth: 10 }
 senses: 'darkvision 240 ft., passive Perception 20'
 languages: 'Common, Draconic, one more'
 traits:
@@ -47,7 +47,7 @@ actions:
     - { name: 'Anguished Breath (Recharge 56)', desc: 'The dragon exhales a shadowy maelstrom of anguish in a 90-foot cone. Each creature in that area makes a DC 23 Wisdom saving throw, taking 81 (18d8) necrotic damage and gaining a level of strife on a failed save or half damage on a success.' }
 reactions:
     - { name: 'Lash Out (While Bloodied)', desc: 'When a creature the dragon can see hits it with a melee weapon attack, the dragon makes a claw attack against the attacker.' }
-'legendary actions':
+legendary_actions:
     - { name: 'The dragon can take 3 legendary actions, choosing from the options below', desc: "Only one legendary action can be used at a time and only at the end of another creature's turn. It regains spent legendary actions at the start of its turn." }
     - { name: 'Corrupting Presence', desc: "Each creature of the dragon's choice within 120 feet and aware of it must succeed on a DC 18 Wisdom saving throw or gain a level of strife. Once a creature has passed or failed this saving throw, it is immune to the dragon's Corrupting Presence for the next 24 hours." }
     - { name: Lurk, desc: "If the dragon is in dim light or darkness, it magically becomes invisible until it attacks, causes a creature to make a saving throw, or enters an area of bright light. It can't use this ability if it has taken radiant damage since the end of its last turn." }

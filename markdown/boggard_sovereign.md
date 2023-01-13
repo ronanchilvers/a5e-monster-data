@@ -17,9 +17,9 @@ stats:
     - 14
     - 12
 skillsaves:
-    stealth: 3
-    perception: 3
-    intimidation: 3
+    - { stealth: 3 }
+    - { perception: 3 }
+    - { intimidation: 3 }
 senses: 'passive Perception 13'
 languages: 'Boggard, Common'
 traits:

@@ -17,7 +17,7 @@ stats:
     - 12
     - 4
 skillsaves:
-    perception: 3
+    - { perception: 3 }
 senses: 'passive Perception 13'
 traits:
     - { name: Mimicry, desc: 'The raven can imitate sounds it hears frequently, such as a simple phrase or an animal noise. Recognizing the sounds as imitation requires a DC 10 Insight check.' }

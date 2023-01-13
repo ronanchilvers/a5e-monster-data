@@ -20,7 +20,7 @@ damage_resistances: 'damage from nonmagical weapons'
 damage_immunities: 'necrotic, poison'
 condition_immunities: 'charmed, fatigue, frightened, paralyzed, poisoned'
 saves:
-    wisdom: 2
+    - { wisdom: 2 }
 senses: 'darkvision 60 ft., passive Perception 10'
 languages: 'the languages it knew in life'
 traits:

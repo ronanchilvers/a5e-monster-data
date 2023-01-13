@@ -18,14 +18,14 @@ stats:
     - 16
 damage_immunities: lightning
 saves:
-    dexterity: 4
-    constitution: 8
-    wisdom: 5
-    charisma: 7
+    - { dexterity: 4 }
+    - { constitution: 8 }
+    - { wisdom: 5 }
+    - { charisma: 7 }
 skillsaves:
-    perception: 5
-    stealth: 4
-    survival: 5
+    - { perception: 5 }
+    - { stealth: 4 }
+    - { survival: 5 }
 senses: 'blindsight 30 ft., tremorsense 30 ft., darkvision 120 ft., passive Perception 18'
 languages: 'Common, Draconic'
 traits:

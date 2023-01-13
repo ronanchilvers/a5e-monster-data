@@ -17,8 +17,8 @@ stats:
     - 12
     - 4
 skillsaves:
-    perception: 3
-    darkvision: 90
+    - { perception: 3 }
+    - { darkvision: 90 }
 senses: 'passive Perception 13'
 traits:
     - { name: 'Keen Smell', desc: 'The bear has advantage on Perception checks that rely on smell.' }

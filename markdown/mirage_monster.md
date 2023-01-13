@@ -18,7 +18,7 @@ stats:
     - 8
 condition_immunities: 'grappled, prone'
 skillsaves:
-    stealth: 4
+    - { stealth: 4 }
 senses: 'darkvision 60 ft., passive Perception 12'
 traits:
     - { name: 'False Appearance', desc: 'While the mimic is motionless, it is indistinguishable from an inanimate object.' }
@@ -34,7 +34,7 @@ actions:
     - { name: 'If a swallowed creature deals 10 or more damage to the mimic in a single turn, or if the mimic dies, the target falls prone in an unoccupied space of its choice within 5 feet of the mimic and is no longer swallowed', desc: '' }
 'bonus actions':
     - { name: Shapeshift, desc: 'The mimic changes its form to resemble an inanimate object of its approximate size or changes into its true form, which is an amorphous blob. Objects it is carrying or stuck to are not transformed. While shapeshifted, its statistics are unchanged. It reverts to its true form if it dies.' }
-'legendary actions':
+legendary_actions:
     - { name: 'The mirage monster can take 2 legendary actions, choosing from the options below', desc: "Only one legendary action can be used at a time and only at the end of another creature's turn. It regains spent legendary actions at the start of its turn." }
     - { name: 'Grasping Pseudopod', desc: 'The mirage monster makes a pseudopod attack with a range of 15 feet. On a hit, the target makes a DC 14 Strength saving throw. On a failure, the target is pulled up to 15 feet towards the mirage monster.' }
     - { name: 'Bite (Costs 2 Actions)', desc: 'The mirage monster attacks with its bite.' }

@@ -20,10 +20,10 @@ damage_resistances: 'necrotic, psychic'
 damage_immunities: poison
 condition_immunities: 'charmed, fatigue, frightened, paralyzed, poisoned, stunned'
 saves:
-    strength: 7
-    constitution: 7
-    wisdom: 4
-    charisma: 7
+    - { strength: 7 }
+    - { constitution: 7 }
+    - { wisdom: 4 }
+    - { charisma: 7 }
 senses: 'darkvision 60 ft., passive Perception 11'
 languages: 'the languages it knew in life'
 traits:

@@ -19,8 +19,8 @@ stats:
 damage_immunities: poison
 condition_immunities: poisoned
 skillsaves:
-    perception: 2
-    stealth: 4
+    - { perception: 2 }
+    - { stealth: 4 }
 senses: 'blindsight 10 ft., darkvision 60 ft., passive Perception 12'
 languages: Draconic
 traits:

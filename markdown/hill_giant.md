@@ -17,8 +17,8 @@ stats:
     - 10
     - 6
 saves:
-    strength: 8
-    constitution: 7
+    - { strength: 8 }
+    - { constitution: 7 }
 senses: 'passive Perception 10'
 languages: Giant
 traits:

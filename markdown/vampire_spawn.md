@@ -19,11 +19,11 @@ stats:
 damage_resistances: 'necrotic; damage from nonmagical, non-silvered weapons'
 'damage vulenrabilities': radiant
 saves:
-    dexterity: 5
-    wisdom: 4
+    - { dexterity: 5 }
+    - { wisdom: 4 }
 skillsaves:
-    perception: 4
-    stealth: 5
+    - { perception: 4 }
+    - { stealth: 5 }
 senses: 'darkvision 60 ft., passive Perception 14'
 languages: 'the languages it knew in life'
 traits:

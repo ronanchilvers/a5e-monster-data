@@ -18,8 +18,8 @@ stats:
     - 16
 damage_immunities: fire
 skillsaves:
-    perception: 3
-    stealth: 4
+    - { perception: 3 }
+    - { stealth: 4 }
 senses: 'blindsight 10 ft., darkvision 60 ft., passive Perception 13'
 languages: Draconic
 actions:

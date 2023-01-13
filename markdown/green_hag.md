@@ -17,14 +17,14 @@ stats:
     - 14
     - 16
 saves:
-    constitution: 4
-    wisdom: 4
+    - { constitution: 4 }
+    - { wisdom: 4 }
 skillsaves:
-    arcana: 4
-    deception: 5
-    insight: 4
-    perception: 4
-    stealth: 4
+    - { arcana: 4 }
+    - { deception: 5 }
+    - { insight: 4 }
+    - { perception: 4 }
+    - { stealth: 4 }
 senses: 'darkvision 60 ft., passive Perception 14'
 languages: 'Common, Draconic, Sylvan'
 traits:

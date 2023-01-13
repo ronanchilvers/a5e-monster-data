@@ -17,8 +17,8 @@ stats:
     - 12
     - 6
 skillsaves:
-    athletics: 8
-    perception: 4
+    - { athletics: 8 }
+    - { perception: 4 }
 senses: 'passive Perception 14'
 actions:
     - { name: Multiattack, desc: 'The ape attacks twice with its fists.' }

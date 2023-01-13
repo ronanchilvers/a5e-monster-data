@@ -19,17 +19,17 @@ stats:
 damage_resistances: 'damage from nonmagical weapons'
 condition_immunities: 'charmed, frightened, poisoned'
 saves:
-    strength: 8
-    dexterity: 10
-    constitution: 8
-    intelligence: 5
-    wisdom: 10
-    charisma: 5
+    - { strength: 8 }
+    - { dexterity: 10 }
+    - { constitution: 8 }
+    - { intelligence: 5 }
+    - { wisdom: 10 }
+    - { charisma: 5 }
 skillsaves:
-    acrobatics: 10
-    athletics: 8
-    perception: 10
-    stealth: 10
+    - { acrobatics: 10 }
+    - { athletics: 8 }
+    - { perception: 10 }
+    - { stealth: 10 }
 senses: 'passive Perception 22'
 languages: 'any one'
 traits:

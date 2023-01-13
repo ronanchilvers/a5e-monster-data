@@ -18,14 +18,14 @@ stats:
     - 16
 damage_resistances: 'lightning, thunder'
 saves:
-    strength: 12
-    constitution: 10
-    wisdom: 7
-    charisma: 7
+    - { strength: 12 }
+    - { constitution: 10 }
+    - { wisdom: 7 }
+    - { charisma: 7 }
 skillsaves:
-    insight: 7
-    perception: 7
-    persuasion: 7
+    - { insight: 7 }
+    - { perception: 7 }
+    - { persuasion: 7 }
 senses: 'passive Perception 17'
 languages: 'Common, Giant'
 traits:

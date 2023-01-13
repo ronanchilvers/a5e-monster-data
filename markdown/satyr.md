@@ -17,9 +17,9 @@ stats:
     - 10
     - 16
 skillsaves:
-    perception: 2
-    performance: 5
-    stealth: 4
+    - { perception: 2 }
+    - { performance: 5 }
+    - { stealth: 4 }
 senses: 'passive Perception 12'
 languages: 'Common, Elvish, Sylvan'
 traits:

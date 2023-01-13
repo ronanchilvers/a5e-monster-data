@@ -17,8 +17,8 @@ stats:
     - 12
     - 4
 skillsaves:
-    perception: 3
-    stealth: 5
+    - { perception: 3 }
+    - { stealth: 5 }
 senses: 'darkvision 30 ft., passive Perception 13'
 traits:
     - { name: 'Keen Hearing and Smell', desc: 'The weasel has advantage on Perception checks that rely on hearing and smell.' }

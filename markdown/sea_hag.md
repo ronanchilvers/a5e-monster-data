@@ -17,12 +17,12 @@ stats:
     - 12
     - 16
 saves:
-    constitution: 5
-    wisdom: 3
+    - { constitution: 5 }
+    - { wisdom: 3 }
 skillsaves:
-    arcana: 3
-    deception: 5
-    insight: 3
+    - { arcana: 3 }
+    - { deception: 5 }
+    - { insight: 3 }
 senses: 'darkvision 60 ft., passive Perception 11'
 languages: 'Aquan, Common, Giant'
 traits:

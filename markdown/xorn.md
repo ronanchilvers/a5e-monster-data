@@ -18,8 +18,8 @@ stats:
     - 10
 damage_resistances: 'acid; damage from nonmagical, non-adamantine weapons'
 skillsaves:
-    perception: 3
-    stealth: 3
+    - { perception: 3 }
+    - { stealth: 3 }
 senses: 'darkvision 60 ft., tremorsense 60 ft., passive Perception 16'
 languages: Terran
 traits:

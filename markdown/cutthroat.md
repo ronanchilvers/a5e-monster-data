@@ -17,16 +17,16 @@ stats:
     - 14
     - 14
 saves:
-    dexterity: 4
-    wisdom: 4
+    - { dexterity: 4 }
+    - { wisdom: 4 }
 skillsaves:
-    deception: 4
-    insight: 4
-    investigation: 3
-    perception: 4
-    persuasion: 4
-    sleight: 0
-    stealth: 4
+    - { deception: 4 }
+    - { insight: 4 }
+    - { investigation: 3 }
+    - { perception: 4 }
+    - { persuasion: 4 }
+    - { sleight: 0 }
+    - { stealth: 4 }
 senses: 'passive Perception 14'
 languages: 'any two'
 traits:

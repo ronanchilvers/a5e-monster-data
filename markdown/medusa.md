@@ -17,10 +17,10 @@ stats:
     - 14
     - 14
 skillsaves:
-    deception: 5
-    insight: 5
-    perception: 5
-    stealth: 7
+    - { deception: 5 }
+    - { insight: 5 }
+    - { perception: 5 }
+    - { stealth: 7 }
 senses: 'darkvision 60 ft., passive Perception 15'
 languages: Common
 traits:

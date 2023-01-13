@@ -18,18 +18,18 @@ stats:
     - 18
 damage_immunities: fire
 saves:
-    dexterity: 7
-    constitution: 14
-    wisdom: 10
-    charisma: 11
+    - { dexterity: 7 }
+    - { constitution: 14 }
+    - { wisdom: 10 }
+    - { charisma: 11 }
 skillsaves:
-    arcana: 12
-    history: 12
-    nature: 12
-    perception: 10
-    persuasion: 11
-    religion: 12
-    stealth: 7
+    - { arcana: 12 }
+    - { history: 12 }
+    - { nature: 12 }
+    - { perception: 10 }
+    - { persuasion: 11 }
+    - { religion: 12 }
+    - { stealth: 7 }
 senses: 'blindsight 60 ft., darkvision 120 ft., passive Perception 23'
 languages: 'Common, Draconic, three more'
 traits:
@@ -51,7 +51,7 @@ actions:
     - { name: 'Change Shape', desc: "The dragon magically takes the shape of a humanoid or beast or changes back into its true form. It reverts to its true form if it dies. Any equipment it is wearing or carrying is absorbed or borne by the new form (dragon's choice). In the new form, the dragon's stats are unchanged except for its size. It can't use Molten Spit, Breath Weapons, Tail Attack, or Wing Attack except in dragon form. In beast form, it can attack only with its bite and claws, if appropriate to its form. If the beast form is Large or smaller, the reach of these attacks is reduced to 5 feet. In humanoid form, it can attack only with its staff." }
 reactions:
     - { name: 'Tail Attack', desc: 'When a creature the dragon can see within 10 feet hits the dragon with a melee attack, the dragon makes a tail attack against it.' }
-'legendary actions':
+legendary_actions:
     - { name: 'The dragon can take 3 legendary actions, choosing from the options below', desc: "Only one legendary action can be used at a time and only at the end of another creature's turn. It regains spent legendary actions at the start of its turn." }
     - { name: Analyze, desc: "The dragon evaluates one creature it can see within 60 feet. It learns the creature's resistances, immunities, vulnerabilities, and current and maximum hit points. That creature's next attack roll against the dragon before the start of the dragon's next turn is made with disadvantage." }
     - { name: Roar, desc: "Each creature of the dragon's choice within 120 feet that can hear it makes a DC 19 Charisma saving throw. On a failure, it is frightened for 1 minute. A creature repeats the saving throw at the end of its turns, ending the effect on itself on a success. When it succeeds on a saving throw or the effect ends for it, it is immune to Roar for 24 hours." }

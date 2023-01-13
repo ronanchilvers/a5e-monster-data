@@ -19,15 +19,15 @@ stats:
 damage_immunities: 'cold, fire, necrotic, poison'
 condition_immunities: 'charmed, fatigue, frightened, poisoned, stunned'
 saves:
-    dexterity: 9
-    constitution: 12
-    intelligence: 8
-    wisdom: 10
-    charisma: 11
+    - { dexterity: 9 }
+    - { constitution: 12 }
+    - { intelligence: 8 }
+    - { wisdom: 10 }
+    - { charisma: 11 }
 skillsaves:
-    history: 8
-    intimidation: 11
-    perception: 10
+    - { history: 8 }
+    - { intimidation: 11 }
+    - { perception: 10 }
 senses: 'truesight 60 ft., passive Perception 20'
 languages: 'the languages it knew in life'
 traits:

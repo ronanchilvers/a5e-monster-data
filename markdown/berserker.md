@@ -17,14 +17,14 @@ stats:
     - 10
     - 12
 saves:
-    strength: 4
-    dexterity: 2
-    constitution: 5
+    - { strength: 4 }
+    - { dexterity: 2 }
+    - { constitution: 5 }
 skillsaves:
-    athletics: 4
-    intimidation: 3
-    perception: 2
-    survival: 2
+    - { athletics: 4 }
+    - { intimidation: 3 }
+    - { perception: 2 }
+    - { survival: 2 }
 senses: 'passive Perception 12'
 languages: 'any one'
 traits:

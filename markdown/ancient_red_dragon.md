@@ -18,14 +18,14 @@ stats:
     - 22
 damage_immunities: fire
 saves:
-    dexterity: 8
-    constitution: 17
-    wisdom: 11
-    charisma: 14
+    - { dexterity: 8 }
+    - { constitution: 17 }
+    - { wisdom: 11 }
+    - { charisma: 14 }
 skillsaves:
-    intimidation: 14
-    perception: 11
-    stealth: 8
+    - { intimidation: 14 }
+    - { perception: 11 }
+    - { stealth: 8 }
 senses: 'blindsight 60 ft., darkvision 120 ft., passive Perception 24'
 languages: 'Common, Draconic, two more'
 traits:
@@ -45,7 +45,7 @@ actions:
 reactions:
     - { name: 'Tail Attack', desc: 'When a creature the dragon can see within 10 feet hits the dragon with a melee attack, the dragon makes a tail attack against it.' }
     - { name: Taskmaster, desc: 'When a creature within 60 feet fails an ability check or saving throw, the dragon roars a command to it. The creature can roll a d10 and add it to the result of the roll, possibly turning the failure into a success.' }
-'legendary actions':
+legendary_actions:
     - { name: 'The dragon can take 3 legendary actions, choosing from the options below', desc: "Only one legendary action can be used at a time and only at the end of another creature's turn. It regains spent legendary actions at the start of its turn." }
     - { name: 'Cruel Tyranny', desc: 'The dragon uses its Cruel Tyranny action.' }
     - { name: Roar, desc: "Each creature of the dragon's choice within 120 feet that can hear it makes a DC 22 Charisma saving throw. On a failure, it is frightened for 1 minute. A creature repeats the saving throw at the end of its turns, ending the effect on itself on a success. When it succeeds on a saving throw or the effect ends for it, it is immune to Roar for 24 hours." }

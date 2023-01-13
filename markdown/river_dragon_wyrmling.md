@@ -19,12 +19,12 @@ stats:
 damage_resistances: 'damage from nonmagical weapons'
 condition_immunities: fatigue
 skillsaves:
-    acrobatics: 4
-    deception: 2
-    insight: 4
-    nature: 2
-    perception: 4
-    stealth: 4
+    - { acrobatics: 4 }
+    - { deception: 2 }
+    - { insight: 4 }
+    - { nature: 2 }
+    - { perception: 4 }
+    - { stealth: 4 }
 senses: 'darkvision 120 ft., tremorsense 90 ft. (only detects vibrations in water), passive Perception 14'
 languages: 'Aquan, Draconic'
 traits:

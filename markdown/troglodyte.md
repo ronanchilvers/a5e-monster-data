@@ -17,7 +17,7 @@ stats:
     - 12
     - 10
 skillsaves:
-    stealth: 3
+    - { stealth: 3 }
 senses: 'darkvision 120 ft., passive Perception 11'
 languages: Troglodyte
 traits:

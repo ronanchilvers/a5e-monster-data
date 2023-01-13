@@ -19,16 +19,16 @@ stats:
 damage_resistances: 'damage from nonmagical weapons'
 condition_immunities: petrified
 saves:
-    strength: 15
-    constitution: 15
-    intelligence: 10
-    wisdom: 13
-    charisma: 9
+    - { strength: 15 }
+    - { constitution: 15 }
+    - { intelligence: 10 }
+    - { wisdom: 13 }
+    - { charisma: 9 }
 skillsaves:
-    athletics: 15
-    insight: 13
-    nature: 10
-    perception: 13
+    - { athletics: 15 }
+    - { insight: 13 }
+    - { nature: 10 }
+    - { perception: 13 }
 senses: 'darkvision 120 ft., tremorsense 120 ft., passive Perception 26'
 languages: 'Common, Draconic, Terran'
 traits:
@@ -44,7 +44,7 @@ actions:
     - { name: Slam, desc: 'Melee Weapon Attack: +15 to hit, reach 10 ft., one target. Hit: 21 (3d8 + 8) bludgeoning damage, and the target is pushed up to 10 feet away, falling prone if it impacts a wall or other solid object. This attack deals an extra 9 (2d8) bludgeoning damage if the target was already prone.' }
     - { name: 'Scouring Breath (Recharge 56)', desc: 'The dragon exhales scouring sand and stones in a 90-foot cone. Each creature in that area makes a DC 23 Dexterity saving throw, taking 70 (20d6) slashing damage on a failed save or half damage on a success. A creature that fails the save is also blinded until the end of its next turn.' }
     - { name: 'Rock Spire', desc: "A permanent, 25-foot-tall, 5-foot-radius spire of rock magically rises from a point on the ground within 60 feet. A creature in the spire's area when it appears makes a DC 21 Dexterity saving throw, taking 18 (4d8) piercing damage on a failure or half damage on a success. A creature that fails this saving throw by 10 or more is impaled and restrained at the top of the spire. A creature can use an action to make a DC 13 Strength check, freeing the impaled creature on a success. The impaled creature is also freed if the spire is destroyed. The spire is an object with AC 16, 30 hit points, and immunity to poison and psychic damage." }
-'legendary actions':
+legendary_actions:
     - { name: 'The dragon can take 3 legendary actions, choosing from the options below', desc: "Only one legendary action can be used at a time and only at the end of another creature's turn. It regains spent legendary actions at the start of its turn." }
     - { name: 'Shake the Foundation', desc: 'The dragon causes the ground to roil, creating a permanent, 40-foot-radius area of difficult terrain centered on a point the dragon can see. If the dragon is bloodied, creatures in the area make a DC 23 Dexterity saving throw. On a failure, the creature takes 21 (6d6) slashing damage and falls prone. On a success, the creature takes half damage.' }
     - { name: 'Slam Attack (Costs 2 Actions)', desc: 'The dragon makes a slam attack.' }

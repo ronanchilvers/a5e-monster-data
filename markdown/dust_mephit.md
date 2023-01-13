@@ -20,8 +20,8 @@ damage_immunities: poison
 condition_immunities: poisoned
 'damage vulenrabilities': fire
 skillsaves:
-    perception: 2
-    stealth: 4
+    - { perception: 2 }
+    - { stealth: 4 }
 senses: 'darkvision 60 ft., passive Perception 12'
 languages: 'Auran, Terran'
 traits:

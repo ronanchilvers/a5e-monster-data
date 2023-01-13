@@ -17,8 +17,8 @@ stats:
     - 10
     - 14
 skillsaves:
-    arcana: 2
-    intimidation: 4
+    - { arcana: 2 }
+    - { intimidation: 4 }
 senses: 'darkvision 60 ft., passive Perception 10'
 languages: 'Common, Draconic'
 traits:

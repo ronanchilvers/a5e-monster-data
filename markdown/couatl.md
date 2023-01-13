@@ -18,13 +18,13 @@ stats:
     - 18
 damage_resistances: 'psychic, radiant; damage from nonmagical weapons'
 saves:
-    constitution: 6
-    wisdom: 7
-    charisma: 6
+    - { constitution: 6 }
+    - { wisdom: 7 }
+    - { charisma: 6 }
 skillsaves:
-    perception: 7
-    persuasion: 6
-    religion: 7
+    - { perception: 7 }
+    - { persuasion: 6 }
+    - { religion: 7 }
 senses: 'truesight 120 ft., passive Perception 17'
 languages: 'all, telepathy 120 ft.'
 traits:

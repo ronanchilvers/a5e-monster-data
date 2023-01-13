@@ -17,8 +17,8 @@ stats:
     - 14
     - 6
 skillsaves:
-    perception: 4
-    stealth: 4
+    - { perception: 4 }
+    - { stealth: 4 }
 senses: 'darkvision 30 ft., passive Perception 14'
 traits:
     - { name: 'Keen Smell', desc: 'The panther has advantage on Perception checks that rely on smell.' }

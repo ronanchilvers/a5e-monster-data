@@ -18,14 +18,14 @@ stats:
     - 12
 damage_immunities: fire
 saves:
-    strength: 11
-    dexterity: 4
-    constitution: 10
-    charisma: 5
+    - { strength: 11 }
+    - { dexterity: 4 }
+    - { constitution: 10 }
+    - { charisma: 5 }
 skillsaves:
-    athletics: 11
-    perception: 6
-    intimidation: 5
+    - { athletics: 11 }
+    - { perception: 6 }
+    - { intimidation: 5 }
 senses: 'passive Perception 16'
 languages: Giant
 traits:

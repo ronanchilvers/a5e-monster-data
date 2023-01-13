@@ -17,11 +17,11 @@ stats:
     - 14
     - 12
 saves:
-    dexterity: 5
-    wisdom: 4
-    charisma: 3
+    - { dexterity: 5 }
+    - { wisdom: 4 }
+    - { charisma: 3 }
 skillsaves:
-    perception: 4
+    - { perception: 4 }
 senses: 'passive Perception 17'
 languages: "understands Celestial, Common, Elvish, and Sylvan, but can't speak"
 traits:

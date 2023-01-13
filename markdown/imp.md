@@ -20,11 +20,11 @@ damage_resistances: 'cold; damage from nonmagical, non-silvered weapons'
 damage_immunities: 'fire, poison'
 condition_immunities: poisoned
 skillsaves:
-    deception: 4
-    insight: 3
-    perception: 3
-    persuasion: 4
-    stealth: 5
+    - { deception: 4 }
+    - { insight: 3 }
+    - { perception: 3 }
+    - { persuasion: 4 }
+    - { stealth: 5 }
 senses: 'darkvision 120 ft., passive Perception 13'
 languages: 'Infernal, telepathy 120 ft.'
 traits:

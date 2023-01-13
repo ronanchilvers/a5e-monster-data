@@ -19,15 +19,15 @@ stats:
 damage_immunities: 'necrotic, poison, psychic; damage from nonmagical weapons'
 condition_immunities: 'charmed, deafened, fatigue, frightened, paralyzed, petrified, poisoned, prone, stunned'
 saves:
-    strength: 6
-    constitution: 9
-    intelligence: 13
-    wisdom: 12
-    charisma: 11
+    - { strength: 6 }
+    - { constitution: 9 }
+    - { intelligence: 13 }
+    - { wisdom: 12 }
+    - { charisma: 11 }
 skillsaves:
-    arcana: 13
-    perception: 12
-    stealth: 13
+    - { arcana: 13 }
+    - { perception: 12 }
+    - { stealth: 13 }
 senses: 'truesight 60 ft., passive Perception 22'
 languages: "understands the languages it knew in life but doesn't speak"
 traits:
@@ -41,7 +41,7 @@ reactions:
     reactions: ['The demilich mastermind has the following additional reactions, which it can use only while bloodied:']
     0: { name: 'Reflection Arcane', desc: 'When the demilich succeeds on a saving throw against a spell targeting it, it forces the spell to also target another creature within 30 feet.' }
     1: { name: 'Skull Shock', desc: 'When the demilich takes damage from a melee attack, the attacker takes 42 (12d6) lightning damage.' }
-'legendary actions':
+legendary_actions:
     - { name: 'The demilich can take 3 legendary actions, choosing from the options below', desc: "Only one legendary action can be used at a time and only at the end of another creature's turn. The demilich regains spent legendary actions at the start of its turn." }
     - { name: 'Cranial Transposition', desc: "The dust surrounding the demilich falls to the ground. The demilich and a nonmagical, unattended skull within 30 teleport, switching places. Until the demilich moves or attacks, it is indistinguishable from a nonmagical skull, and the dust composing the demilich's wraithlike body doesn't reform around it." }
     - { name: 'Dust Storm (Costs 2 Actions)', desc: "The dust of the demilich's body swirls in a 30-foot radius around the demilich. Each creature in the area makes a DC 17 Constitution saving throw. On a failure, the creature takes 21 (6d6) necrotic damage and is blinded until the end of its next turn. The demilich then moves up to its speed." }

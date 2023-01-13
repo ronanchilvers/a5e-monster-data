@@ -19,8 +19,8 @@ stats:
 damage_immunities: 'poison, psychic'
 condition_immunities: 'blinded, charmed, deafened, exhaustion, frightened, paralyzed, petrified, poisoned'
 skillsaves:
-    perception: 0
-    stealth: 4
+    - { perception: 0 }
+    - { stealth: 4 }
 senses: 'blindsight 60 ft., passive Perception 10'
 traits:
     - { name: 'Clockwork Nature', desc: "A clockwork doesn't require air, nourishment, or rest, and is immune to disease." }

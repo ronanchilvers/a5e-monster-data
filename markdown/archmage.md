@@ -19,13 +19,13 @@ stats:
 damage_immunities: 'psychic (with mind blank)'
 condition_immunities: 'charmed (with mind blank)'
 saves:
-    intelligence: 9
-    wisdom: 7
+    - { intelligence: 9 }
+    - { wisdom: 7 }
 skillsaves:
-    arcana: 9
-    insight: 7
-    history: 9
-    perception: 7
+    - { arcana: 9 }
+    - { insight: 7 }
+    - { history: 9 }
+    - { perception: 7 }
 senses: 'passive Perception 17'
 languages: 'any four'
 traits:

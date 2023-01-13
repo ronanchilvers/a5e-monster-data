@@ -19,18 +19,18 @@ stats:
 damage_resistances: 'damage from nonmagical weapons'
 condition_immunities: fatigue
 saves:
-    dexterity: 7
-    constitution: 6
-    intelligence: 5
-    wisdom: 7
-    charisma: 5
+    - { dexterity: 7 }
+    - { constitution: 6 }
+    - { intelligence: 5 }
+    - { wisdom: 7 }
+    - { charisma: 5 }
 skillsaves:
-    acrobatics: 6
-    deception: 5
-    insight: 7
-    nature: 5
-    perception: 7
-    stealth: 7
+    - { acrobatics: 6 }
+    - { deception: 5 }
+    - { insight: 7 }
+    - { nature: 5 }
+    - { perception: 7 }
+    - { stealth: 7 }
 senses: 'darkvision 120 ft., tremorsense 120 ft. (only detects vibrations in water), passive Perception 17'
 languages: 'Aquan, Common, Draconic'
 traits:

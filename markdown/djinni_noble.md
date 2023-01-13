@@ -18,14 +18,14 @@ stats:
     - 20
 damage_resistances: 'lightning, thunder'
 saves:
-    dexterity: 10
-    intelligence: 6
-    wisdom: 7
-    charisma: 9
+    - { dexterity: 10 }
+    - { intelligence: 6 }
+    - { wisdom: 7 }
+    - { charisma: 9 }
 skillsaves:
-    acrobatics: 10
-    insight: 7
-    perception: 7
+    - { acrobatics: 10 }
+    - { insight: 7 }
+    - { perception: 7 }
 senses: 'darkvision 120 ft., passive Perception 17'
 languages: Auran
 traits:

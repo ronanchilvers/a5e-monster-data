@@ -21,7 +21,7 @@ damage_immunities: 'necrotic, poison'
 condition_immunities: 'charmed, fatigue, frightened, grappled, paralyzed, petrified, poisoned, prone, restrained'
 'damage vulenrabilities': radiant
 skillsaves:
-    stealth: 4
+    - { stealth: 4 }
 senses: 'darkvision 120 ft., passive Perception 10'
 traits:
     - { name: Amorphous, desc: 'The horde can pass through an opening as narrow as 1 inch wide without squeezing.' }

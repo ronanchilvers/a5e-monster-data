@@ -17,11 +17,11 @@ stats:
     - 12
     - 8
 saves:
-    dexterity: 5
+    - { dexterity: 5 }
 skillsaves:
-    perception: 3
-    stealth: 5
-    survival: 3
+    - { perception: 3 }
+    - { stealth: 5 }
+    - { survival: 3 }
 senses: 'darkvision 60 ft., passive Perception 13'
 languages: Ettercap
 traits:

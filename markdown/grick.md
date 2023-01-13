@@ -18,7 +18,7 @@ stats:
     - 5
 damage_resistances: 'damage from nonmagical weapons'
 skillsaves:
-    stealth: 4
+    - { stealth: 4 }
 senses: 'darkvision 60 ft., passive Perception 12'
 traits:
     - { name: Camouflage, desc: 'The grick has advantage on Stealth checks made to hide in rocky terrain.' }

@@ -19,13 +19,13 @@ stats:
 damage_immunities: 'necrotic, poison; damage from nonmagical weapons'
 condition_immunities: 'charmed, fatigue, frightened, paralyzed, poisoned'
 saves:
-    constitution: 9
-    intelligence: 6
-    wisdom: 9
-    charisma: 8
+    - { constitution: 9 }
+    - { intelligence: 6 }
+    - { wisdom: 9 }
+    - { charisma: 8 }
 skillsaves:
-    history: 6
-    religion: 6
+    - { history: 6 }
+    - { religion: 6 }
 senses: 'darkvision 60 ft., passive Perception 14'
 languages: 'the languages it knew in life'
 traits:
@@ -46,7 +46,7 @@ actions:
     - { name: 'Harm (6th-Level; V, S)', desc: "The mummy lord targets a creature within 60 feet. The target makes a DC 17 Constitution saving throw. On a failure, the creature is diseased, taking 49 (14d6) necrotic damage. Its hit point maximum is reduced by the same amount for 1 hour or until the effect is removed with a spell that removes diseases. On a successful save, the creature takes half the damage. The spell's damage can't reduce a target to less than 1 hit point." }
 reactions:
     - { name: 'Blasphemous Counterspell', desc: 'When the mummy lord is targeted by a spell using a 4th-level or lower spell slot, the attacker makes a DC 16 Constitution saving throw. On a failure, the spell is wasted, and the caster takes 3 (1d6) necrotic damage per level of the spell slot.' }
-'legendary actions':
+legendary_actions:
     - { name: 'The mummy lord can take 3 legendary actions, choosing from the options below', desc: "Only one legendary action can be used at a time and only at the end of another creature's turn. It regains spent legendary actions at the start of its turn." }
     - { name: 'Channel Negative Energy', desc: "A 60-foot-radius aura of magical negative energy surrounds the mummy lord until the end of its next turn, spreading around corners. Creatures in the aura can't regain hit points." }
     - { name: 'Whirlwind of Sand', desc: 'The mummy lord, along with its equipment, magically transforms into a whirlwind of sand and moves up to 60 feet without provoking opportunity attacks, and then reverts to its normal form.' }

@@ -18,15 +18,15 @@ stats:
     - 20
 damage_immunities: fire
 saves:
-    dexterity: 6
-    constitution: 9
-    wisdom: 5
-    charisma: 9
+    - { dexterity: 6 }
+    - { constitution: 9 }
+    - { wisdom: 5 }
+    - { charisma: 9 }
 skillsaves:
-    insight: 5
-    perception: 5
-    persuasion: 9
-    stealth: 6
+    - { insight: 5 }
+    - { perception: 5 }
+    - { persuasion: 9 }
+    - { stealth: 6 }
 senses: 'blindsight 30 ft., darkvision 120 ft., passive Perception 18'
 languages: 'Common, Draconic'
 traits:

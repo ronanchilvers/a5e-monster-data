@@ -18,14 +18,14 @@ stats:
     - 20
 damage_immunities: lightning
 saves:
-    dexterity: 8
-    constitution: 16
-    wisdom: 11
-    charisma: 13
+    - { dexterity: 8 }
+    - { constitution: 16 }
+    - { wisdom: 11 }
+    - { charisma: 13 }
 skillsaves:
-    perception: 11
-    stealth: 8
-    survival: 11
+    - { perception: 11 }
+    - { stealth: 8 }
+    - { survival: 11 }
 senses: 'blindsight 60 ft., tremorsense 60 ft., darkvision 120 ft., passive Perception 24'
 languages: 'Common, Draconic, two more'
 traits:
@@ -44,7 +44,7 @@ actions:
     - { name: Quake, desc: 'While touching natural ground, the dragon sends pulses of thunder rippling through it. Creatures within 30 feet make a DC 24 Strength saving throw, taking 22 (4d10) bludgeoning damage and falling prone on a failure. If a Large or smaller creature that fails the save is standing on sand, it also sinks partially, becoming restrained as well. A creature restrained in this way can spend half its movement to escape.' }
 reactions:
     - { name: 'Tail Attack', desc: 'When a creature the dragon can see within 10 feet hits the dragon with a melee attack, the dragon makes a tail attack against it.' }
-'legendary actions':
+legendary_actions:
     - { name: 'The dragon can take 3 legendary actions, choosing from the options below', desc: "Only one legendary action can be used at a time and only at the end of another creature's turn. It regains spent legendary actions at the start of its turn." }
     - { name: Roar, desc: "Each creature of the dragon's choice within 120 feet that can hear it makes a DC 21 Charisma saving throw. On a failure, it is frightened for 1 minute. A creature repeats the saving throw at the end of its turns, ending the effect on itself on a success. When it succeeds on a saving throw or the effect ends for it, it is immune to Roar for 24 hours." }
     - { name: 'Wing Attack', desc: 'The dragon beats its wings. Each creature within 15 feet makes a DC 24 Dexterity saving throw. On a failure, it is pushed 10 feet away and knocked prone. The dragon can then fly up to half its fly speed.' }

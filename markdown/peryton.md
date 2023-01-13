@@ -18,7 +18,7 @@ stats:
     - 12
 damage_resistances: 'damage from nonmagical weapons'
 skillsaves:
-    perception: 3
+    - { perception: 3 }
 senses: 'passive Perception 13'
 languages: "understands Common and Sylvan but can't speak"
 traits:

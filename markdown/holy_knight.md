@@ -18,15 +18,15 @@ stats:
     - 14
 condition_immunities: frightened
 saves:
-    strength: 7
-    constitution: 7
-    wisdom: 5
-    charisma: 5
+    - { strength: 7 }
+    - { constitution: 7 }
+    - { wisdom: 5 }
+    - { charisma: 5 }
 skillsaves:
-    athletics: 7
-    insight: 5
-    perception: 5
-    religion: 4
+    - { athletics: 7 }
+    - { insight: 5 }
+    - { perception: 5 }
+    - { religion: 4 }
 senses: 'passive Perception 15'
 languages: 'any two'
 traits:

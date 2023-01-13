@@ -17,9 +17,9 @@ stats:
     - 16
     - 10
 skillsaves:
-    nature: 5
-    perception: 5
-    survival: 5
+    - { nature: 5 }
+    - { perception: 5 }
+    - { survival: 5 }
 senses: 'passive Perception 17'
 languages: 'Common, Elvish, Sylvan'
 actions:

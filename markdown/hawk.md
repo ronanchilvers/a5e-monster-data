@@ -17,7 +17,7 @@ stats:
     - 14
     - 4
 skillsaves:
-    perception: 4
+    - { perception: 4 }
 senses: 'passive Perception 14'
 traits:
     - { name: 'Keen Sight', desc: 'The hawk has advantage on Perception checks that rely on sight.' }

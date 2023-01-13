@@ -18,9 +18,9 @@ stats:
     - 12
 condition_immunities: 'charmed, frightened'
 saves:
-    constitution: 4
-    wisdom: 2
-    charisma: 3
+    - { constitution: 4 }
+    - { wisdom: 2 }
+    - { charisma: 3 }
 senses: 'darkvision 60 ft., passive Perception 10'
 languages: 'Abyssal, Gnoll'
 traits:

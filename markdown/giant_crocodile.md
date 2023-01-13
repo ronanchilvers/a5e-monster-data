@@ -17,7 +17,7 @@ stats:
     - 10
     - 6
 skillsaves:
-    stealth: 3
+    - { stealth: 3 }
 senses: 'passive Perception 10'
 traits:
     - { name: 'Hold Breath', desc: 'The crocodile can hold its breath for 30 minutes.' }

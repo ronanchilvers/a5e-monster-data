@@ -19,16 +19,16 @@ stats:
 damage_resistances: 'poison, radiant; damage from nonmagical weapons'
 condition_immunities: 'fatigue, frightened, poisoned'
 saves:
-    constitution: 9
-    wisdom: 9
-    charisma: 9
+    - { constitution: 9 }
+    - { wisdom: 9 }
+    - { charisma: 9 }
 skillsaves:
-    arcana: 4
-    history: 4
-    intimidation: 9
-    perception: 9
-    persuasion: 9
-    religion: 9
+    - { arcana: 4 }
+    - { history: 4 }
+    - { intimidation: 9 }
+    - { perception: 9 }
+    - { persuasion: 9 }
+    - { religion: 9 }
 senses: 'truesight 120 ft., passive Perception 19'
 languages: All
 traits:

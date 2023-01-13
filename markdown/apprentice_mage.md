@@ -17,8 +17,8 @@ stats:
     - 10
     - 10
 skillsaves:
-    arcana: 4
-    history: 4
+    - { arcana: 4 }
+    - { history: 4 }
 senses: 'passive Perception 10'
 languages: 'any one'
 traits: {  }

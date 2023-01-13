@@ -17,12 +17,12 @@ stats:
     - 14
     - 12
 saves:
-    constitution: 11
-    intelligence: 11
-    wisdom: 8
+    - { constitution: 11 }
+    - { intelligence: 11 }
+    - { wisdom: 8 }
 skillsaves:
-    arcana: 11
-    athletics: 11
+    - { arcana: 11 }
+    - { athletics: 11 }
 senses: 'passive Perception 12'
 languages: 'any six'
 traits:

@@ -17,7 +17,7 @@ stats:
     - 12
     - 6
 skillsaves:
-    perception: 4
+    - { perception: 4 }
 senses: 'darkvision 60 ft., passive Perception 14'
 languages: "understands Draconic but can't speak"
 traits:

@@ -18,11 +18,11 @@ stats:
     - 26
 damage_immunities: 'radiant; damage from nonmagical weapons'
 saves:
-    strength: 17
-    constitution: 17
-    intelligence: 13
-    wisdom: 14
-    charisma: 15
+    - { strength: 17 }
+    - { constitution: 17 }
+    - { intelligence: 13 }
+    - { wisdom: 14 }
+    - { charisma: 15 }
 senses: 'truesight 120 ft., passive Perception 17'
 languages: 'Celestial, Common, six more'
 traits:
@@ -39,7 +39,7 @@ actions:
     - { name: 'Hold Monster (5th-Level; V, S, Concentration)', desc: 'One creature the empyrean can see within 60 feet makes a DC 23 Wisdom saving throw. On a failure, the target is paralyzed for 1 minute. The target repeats the saving throw at the end of each of its turns, ending the effect on a success.' }
 'bonus actions':
     - { name: 'Immortal Form', desc: 'The empyrean magically changes its size between Gargantuan and Medium. While Medium, the empyrean has disadvantage on Strength checks. Its statistics are otherwise unchanged.' }
-'legendary actions':
+legendary_actions:
     - { name: 'The empyrean can take 1 legendary action, choosing from the options below', desc: "Only one legendary action can be used at a time and only at the end of another creature's turn. It regains spent legendary actions at the start of its turn." }
     - { name: Attack, desc: 'The empyrean makes a weapon attack.' }
     - { name: 'Cast Spell', desc: "The empyrean casts a spell. The empyrean can't use this option if it has cast a spell since the start of its last turn." }

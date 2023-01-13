@@ -18,14 +18,14 @@ stats:
     - 14
 damage_immunities: acid
 saves:
-    dexterity: 6
-    constitution: 7
-    wisdom: 5
-    charisma: 6
+    - { dexterity: 6 }
+    - { constitution: 7 }
+    - { wisdom: 5 }
+    - { charisma: 6 }
 skillsaves:
-    history: 5
-    perception: 5
-    stealth: 6
+    - { history: 5 }
+    - { perception: 5 }
+    - { stealth: 6 }
 senses: 'blindsight 30 ft., darkvision 120 ft., passive Perception 18'
 languages: 'Common, Draconic'
 traits:

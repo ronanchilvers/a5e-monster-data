@@ -17,13 +17,13 @@ stats:
     - 18
     - 12
 saves:
-    dexterity: 7
-    wisdom: 7
+    - { dexterity: 7 }
+    - { wisdom: 7 }
 skillsaves:
-    nature: 4
-    perception: 7
-    stealth: 7
-    survival: 7
+    - { nature: 4 }
+    - { perception: 7 }
+    - { stealth: 7 }
+    - { survival: 7 }
 senses: 'passive Perception 20'
 languages: 'any two'
 traits:

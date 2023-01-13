@@ -18,7 +18,7 @@ stats:
     - 18
 damage_immunities: 'psychic; damage from nonmagical, non-silvered weapons'
 skillsaves:
-    persuasion: 7
+    - { persuasion: 7 }
 senses: 'darkvision 120 ft., passive Perception 12'
 languages: 'Celestial, Common, Giant, Sylvan'
 traits:

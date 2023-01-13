@@ -19,12 +19,12 @@ stats:
 damage_resistances: 'radiant; damage from nonmagical weapons'
 condition_immunities: 'charmed, exhaustion, frightened'
 saves:
-    wisdom: 9
-    charisma: 9
+    - { wisdom: 9 }
+    - { charisma: 9 }
 skillsaves:
-    insight: 9
-    perception: 9
-    religion: 9
+    - { insight: 9 }
+    - { perception: 9 }
+    - { religion: 9 }
 senses: 'truesight 30 ft., passive Perception 19'
 languages: 'all, telepathy 120 ft.'
 traits:

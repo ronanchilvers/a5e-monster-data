@@ -17,7 +17,7 @@ stats:
     - 14
     - 6
 skillsaves:
-    perception: 4
+    - { perception: 4 }
 senses: 'passive Perception 14'
 traits:
     - { name: 'Keen Sight', desc: 'The eagle has advantage on Perception checks that rely on sight.' }

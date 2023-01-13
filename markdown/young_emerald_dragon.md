@@ -19,15 +19,15 @@ stats:
 damage_resistances: 'psychic, thunder'
 condition_immunities: fatigue
 saves:
-    constitution: 7
-    intelligence: 8
-    wisdom: 5
-    charisma: 7
+    - { constitution: 7 }
+    - { intelligence: 8 }
+    - { wisdom: 5 }
+    - { charisma: 7 }
 skillsaves:
-    deception: 7
-    history: 8
-    perception: 5
-    stealth: 8
+    - { deception: 7 }
+    - { history: 8 }
+    - { perception: 5 }
+    - { stealth: 8 }
 senses: 'darkvision 120 ft., passive Perception 17'
 languages: 'Common, Deep Speech, Draconic, Undercommon, telepathy 120 ft.'
 traits:

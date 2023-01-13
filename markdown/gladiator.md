@@ -17,12 +17,12 @@ stats:
     - 12
     - 14
 saves:
-    strength: 7
-    constitution: 6
+    - { strength: 7 }
+    - { constitution: 6 }
 skillsaves:
-    athletics: 7
-    intimidation: 5
-    performance: 5
+    - { athletics: 7 }
+    - { intimidation: 5 }
+    - { performance: 5 }
 senses: 'passive Perception 11'
 languages: 'any one'
 traits:

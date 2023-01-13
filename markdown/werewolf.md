@@ -18,9 +18,9 @@ stats:
     - 10
 damage_immunities: 'damage from nonmagical, non-silvered weapons'
 skillsaves:
-    perception: 2
-    stealth: 4
-    survival: 2
+    - { perception: 2 }
+    - { stealth: 4 }
+    - { survival: 2 }
 senses: 'darkvision 30 ft. (wolf or hybrid form only), passive Perception 14'
 languages: Common
 traits:

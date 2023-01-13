@@ -18,14 +18,14 @@ stats:
     - 16
 damage_resistances: radiant
 saves:
-    intelligence: 7
-    wisdom: 10
-    charisma: 8
+    - { intelligence: 7 }
+    - { wisdom: 10 }
+    - { charisma: 8 }
 skillsaves:
-    insight: 10
-    medicine: 10
-    persuasion: 8
-    religion: 10
+    - { insight: 10 }
+    - { medicine: 10 }
+    - { persuasion: 8 }
+    - { religion: 10 }
 senses: 'passive Perception 15'
 languages: 'any three'
 traits:

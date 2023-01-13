@@ -18,8 +18,8 @@ stats:
     - 12
 damage_immunities: acid
 skillsaves:
-    perception: 2
-    stealth: 5
+    - { perception: 2 }
+    - { stealth: 5 }
 senses: 'blindsight 10 ft., darkvision 60 ft., passive Perception 12'
 languages: Draconic
 traits:

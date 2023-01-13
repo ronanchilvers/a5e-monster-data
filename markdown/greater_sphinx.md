@@ -19,15 +19,15 @@ stats:
 damage_immunities: 'psychic; damage from nonmagical weapons'
 condition_immunities: 'charmed, frightened, paralyzed, stunned'
 saves:
-    dexterity: 6
-    constitution: 8
-    intelligence: 8
-    wisdom: 10
+    - { dexterity: 6 }
+    - { constitution: 8 }
+    - { intelligence: 8 }
+    - { wisdom: 10 }
 skillsaves:
-    arcana: 8
-    history: 8
-    perception: 10
-    religion: 8
+    - { arcana: 8 }
+    - { history: 8 }
+    - { perception: 10 }
+    - { religion: 8 }
 senses: 'truesight 120 ft., passive Perception 20'
 languages: 'Celestial, Common, telepathy 120 ft.'
 traits:

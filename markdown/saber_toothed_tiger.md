@@ -17,8 +17,8 @@ stats:
     - 12
     - 6
 skillsaves:
-    perception: 3
-    stealth: 4
+    - { perception: 3 }
+    - { stealth: 4 }
 senses: 'passive Perception 13'
 traits:
     - { name: 'Keen Smell', desc: 'The tiger has advantage on Perception checks that rely on smell.' }

@@ -20,16 +20,16 @@ damage_resistances: 'acid, cold, fire, lightning, thunder; damage from nonmagica
 damage_immunities: 'necrotic, poison'
 condition_immunities: 'fatigue, frightened, grappled, paralyzed, poisoned, prone, restrained'
 saves:
-    dexterity: 6
-    constitution: 8
-    intelligence: 5
-    wisdom: 5
+    - { dexterity: 6 }
+    - { constitution: 8 }
+    - { intelligence: 5 }
+    - { wisdom: 5 }
 skillsaves:
-    deception: 8
-    insight: 5
-    nature: 5
-    perception: 5
-    stealth: 6
+    - { deception: 8 }
+    - { insight: 5 }
+    - { nature: 5 }
+    - { perception: 5 }
+    - { stealth: 6 }
 senses: 'darkvision 240 ft., passive Perception 15'
 languages: 'Common, Draconic'
 traits:

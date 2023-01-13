@@ -17,13 +17,13 @@ stats:
     - 10
     - 14
 saves:
-    strength: 5
-    constitution: 4
-    wisdom: 2
+    - { strength: 5 }
+    - { constitution: 4 }
+    - { wisdom: 2 }
 skillsaves:
-    athletics: 5
-    history: 0
-    perception: 2
+    - { athletics: 5 }
+    - { history: 0 }
+    - { perception: 2 }
 senses: 'passive Perception 12'
 languages: 'any two'
 traits:

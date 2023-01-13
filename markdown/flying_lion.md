@@ -17,7 +17,7 @@ stats:
     - 16
     - 8
 skillsaves:
-    perception: 5
+    - { perception: 5 }
 senses: 'passive Perception 15'
 traits:
     - { name: 'Keen Smell', desc: 'The flying lion has advantage on Perception checks that rely on smell.' }

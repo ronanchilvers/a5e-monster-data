@@ -17,13 +17,13 @@ stats:
     - 14
     - 14
 saves:
-    intelligence: 5
-    wisdom: 4
-    charisma: 4
+    - { intelligence: 5 }
+    - { wisdom: 4 }
+    - { charisma: 4 }
 skillsaves:
-    deception: 4
-    insight: 4
-    stealth: 5
+    - { deception: 4 }
+    - { insight: 4 }
+    - { stealth: 5 }
 senses: 'blindsight 60 ft. (blind beyond this radius), passive Perception 12'
 languages: "understands Deep Speech but can't speak, telepathy 120 ft."
 actions:

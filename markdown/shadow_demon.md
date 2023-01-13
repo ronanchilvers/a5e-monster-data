@@ -21,11 +21,11 @@ damage_immunities: 'cold, lightning, necrotic, poison'
 condition_immunities: 'charmed, fatigue, grappled, paralyzed, petrified, poisoned, prone, restrained'
 'damage vulenrabilities': radiant
 saves:
-    dexterity: 5
-    constitution: 2
-    charisma: 5
+    - { dexterity: 5 }
+    - { constitution: 2 }
+    - { charisma: 5 }
 skillsaves:
-    stealth: 5
+    - { stealth: 5 }
 senses: 'darkvision 120 ft., passive Perception 12'
 languages: 'Abyssal, telepathy 120 ft.'
 traits:

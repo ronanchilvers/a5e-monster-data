@@ -18,8 +18,8 @@ stats:
     - 20
 damage_resistances: 'bludgeoning and slashing from nonmagical weapons'
 skillsaves:
-    deception: 10
-    insight: 8
+    - { deception: 10 }
+    - { insight: 8 }
 senses: 'darkvision 60 ft., passive Perception 13'
 languages: 'Common, Infernal, one other'
 traits:

@@ -17,8 +17,8 @@ stats:
     - 14
     - 5
 saves:
-    strength: 6
-    constitution: 6
+    - { strength: 6 }
+    - { constitution: 6 }
 senses: 'darkvision 120 ft., passive Perception 12'
 languages: 'telepathy 120 ft. (can transmit but not receive thoughts and images)'
 actions:

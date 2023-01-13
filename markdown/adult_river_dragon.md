@@ -19,18 +19,18 @@ stats:
 damage_resistances: 'damage from nonmagical weapons'
 condition_immunities: fatigue
 saves:
-    dexterity: 9
-    constitution: 8
-    intelligence: 6
-    wisdom: 9
-    charisma: 7
+    - { dexterity: 9 }
+    - { constitution: 8 }
+    - { intelligence: 6 }
+    - { wisdom: 9 }
+    - { charisma: 7 }
 skillsaves:
-    acrobatics: 8
-    deception: 7
-    insight: 9
-    nature: 6
-    perception: 9
-    stealth: 9
+    - { acrobatics: 8 }
+    - { deception: 7 }
+    - { insight: 9 }
+    - { nature: 6 }
+    - { perception: 9 }
+    - { stealth: 9 }
 senses: 'darkvision 120 ft., tremorsense 200 ft. (only detects vibrations in water), passive Perception 19'
 languages: 'Aquan, Common, Draconic'
 traits:
@@ -50,7 +50,7 @@ reactions:
     - { name: 'Snap Back (While Bloodied)', desc: 'When a creature the dragon can see hits it with a melee weapon attack, the dragon makes a bite attack against the attacker.' }
 'bonus actions':
     - { name: Whirlpool, desc: 'A cylindrical, 15-foot-tall, 10-foot-radius whirlpool or waterspout magically appears in the water or air, centered on a point within 60 feet. Creatures in the area make a DC 18 Strength saving throw. On a failure, a creature takes 17 (5d6) bludgeoning damage and is knocked prone and pushed up to 15 feet. On a failure, a creature takes half damage.' }
-'legendary actions':
+legendary_actions:
     - { name: 'The dragon can take 3 legendary actions, choosing from the options below', desc: "Only one legendary action can be used at a time and only at the end of another creature's turn. It regains spent legendary actions at the start of its turn." }
     - { name: 'Dart Away', desc: 'The dragon swims up to half its speed.' }
     - { name: Lurk, desc: 'The dragon takes the Hide action.' }

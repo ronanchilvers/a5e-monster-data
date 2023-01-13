@@ -20,16 +20,16 @@ damage_resistances: 'acid, cold, fire, lightning, thunder; damage from nonmagica
 damage_immunities: 'necrotic, poison'
 condition_immunities: 'fatigue, frightened, grappled, paralyzed, poisoned, prone, restrained'
 saves:
-    dexterity: 8
-    constitution: 12
-    intelligence: 8
-    wisdom: 8
+    - { dexterity: 8 }
+    - { constitution: 12 }
+    - { intelligence: 8 }
+    - { wisdom: 8 }
 skillsaves:
-    deception: 12
-    insight: 8
-    nature: 8
-    perception: 8
-    stealth: 8
+    - { deception: 12 }
+    - { insight: 8 }
+    - { nature: 8 }
+    - { perception: 8 }
+    - { stealth: 8 }
 senses: 'darkvision 240 ft., passive Perception 18'
 languages: 'Common, Draconic'
 traits:
@@ -45,7 +45,7 @@ actions:
     - { name: Claws, desc: 'Melee Weapon Attack: +12 to hit, reach 5 ft., one target. Hit: 19 (3d8 + 6) slashing damage plus 4 (1d8) necrotic damage.' }
     - { name: 'Grasp of Shadows', desc: 'The dragon targets a creature within 60 feet, forcing it to make a DC 16 Dexterity saving throw. On a failure, it is grappled by tendrils of shadow (escape DC 20) and restrained while grappled this way. The effect ends if the dragon is incapacitated or uses this ability again.' }
     - { name: 'Anguished Breath (Recharge 56)', desc: 'The dragon exhales a shadowy maelstrom of anguish in a 60-foot cone. Each creature in that area makes a DC 20 Wisdom saving throw, taking 67 (15d8) necrotic damage and gaining a level of strife on a failed save or half damage on a success.' }
-'legendary actions':
+legendary_actions:
     - { name: 'The dragon can take 3 legendary actions, choosing from the options below', desc: "Only one legendary action can be used at a time and only at the end of another creature's turn. It regains spent legendary actions at the start of its turn." }
     - { name: 'Corrupting Presence', desc: "Each creature of the dragon's choice within 120 feet and aware of it must succeed on a DC 16 Wisdom saving throw or gain a level of strife. Once a creature has passed or failed this saving throw, it is immune to the dragon's Corrupting Presence for the next 24 hours." }
     - { name: Lurk, desc: "If the dragon is in dim light or darkness, it magically becomes invisible until it attacks, causes a creature to make a saving throw, or enters an area of bright light. It can't use this ability if it has taken radiant damage since the end of its last turn." }

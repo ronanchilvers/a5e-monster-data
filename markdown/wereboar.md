@@ -18,7 +18,7 @@ stats:
     - 10
 damage_immunities: 'damage from nonmagical, non-silvered weapons'
 skillsaves:
-    perception: 2
+    - { perception: 2 }
 senses: 'passive Perception 12'
 languages: Common
 traits:

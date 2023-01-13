@@ -18,15 +18,15 @@ stats:
     - 18
 damage_immunities: cold
 saves:
-    dexterity: 6
-    constitution: 9
-    wisdom: 4
-    charisma: 8
+    - { dexterity: 6 }
+    - { constitution: 9 }
+    - { wisdom: 4 }
+    - { charisma: 8 }
 skillsaves:
-    arcana: 6
-    history: 6
-    perception: 4
-    stealth: 6
+    - { arcana: 6 }
+    - { history: 6 }
+    - { perception: 4 }
+    - { stealth: 6 }
 senses: 'blindsight 30 ft., darkvision 120 ft., passive Perception 17'
 languages: 'Common, Draconic'
 traits:

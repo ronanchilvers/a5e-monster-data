@@ -20,15 +20,15 @@ damage_resistances: 'cold; damage from nonmagical, non-silvered weapons'
 damage_immunities: 'fire, poison'
 condition_immunities: poisoned
 saves:
-    dexterity: 9
-    constitution: 13
-    intelligence: 12
-    wisdom: 10
-    charisma: 13
+    - { dexterity: 9 }
+    - { constitution: 13 }
+    - { intelligence: 12 }
+    - { wisdom: 10 }
+    - { charisma: 13 }
 skillsaves:
-    athletics: 14
-    insight: 10
-    perception: 10
+    - { athletics: 14 }
+    - { insight: 10 }
+    - { perception: 10 }
 senses: 'truesight 120 ft., passive Perception 21'
 languages: 'Infernal, telepathy 120 ft.'
 traits:

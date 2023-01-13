@@ -19,9 +19,9 @@ stats:
 damage_resistances: 'fire, psychic, radiant; bludgeoning, piercing, slashing'
 condition_immunities: 'charmed, frightened, grappled, paralyzed, petrified, prone, restrained, stunned'
 saves:
-    intelligence: 5
-    wisdom: 4
-    charisma: 3
+    - { intelligence: 5 }
+    - { wisdom: 4 }
+    - { charisma: 3 }
 senses: 'darkvision 60 ft., passive Perception 12'
 languages: 'telepathy 120 ft.'
 traits:

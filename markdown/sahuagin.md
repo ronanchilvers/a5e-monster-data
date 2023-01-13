@@ -17,7 +17,7 @@ stats:
     - 12
     - 10
 skillsaves:
-    perception: 3
+    - { perception: 3 }
 senses: 'darkvision 120 ft., passive Perception 13'
 languages: Sahuagin
 traits:

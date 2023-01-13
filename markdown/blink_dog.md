@@ -17,8 +17,8 @@ stats:
     - 12
     - 10
 skillsaves:
-    perception: 3
-    stealth: 5
+    - { perception: 3 }
+    - { stealth: 5 }
 senses: 'passive Perception 13'
 languages: "Blink Dog; understands but can't speak Sylvan"
 traits:

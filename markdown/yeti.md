@@ -18,8 +18,8 @@ stats:
     - 16
 damage_immunities: cold
 skillsaves:
-    perception: 3
-    stealth: 3
+    - { perception: 3 }
+    - { stealth: 3 }
 senses: 'passive Perception 13'
 languages: Yeti
 traits:

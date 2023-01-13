@@ -18,7 +18,7 @@ stats:
     - 5
 condition_immunities: petrified
 skillsaves:
-    perception: 4
+    - { perception: 4 }
 senses: 'passive Perception 14'
 actions:
     - { name: Gore, desc: 'Melee Weapon Attack: +8 to hit, reach 5 ft., one target. Hit: 18 (2d12 + 5) piercing damage, and the target makes a DC 16 Strength saving throw, falling prone on a failure. If the gorgon moves at least 20 feet straight towards the target before the attack, the attack deals an extra 6 (1d12) piercing damage.' }

@@ -17,9 +17,9 @@ stats:
     - 12
     - 6
 saves:
-    strength: 5
+    - { strength: 5 }
 skillsaves:
-    athletics: 5
+    - { athletics: 5 }
 senses: 'passive Perception 11'
 actions:
     - { name: Ram, desc: 'Melee Weapon Attack: +5 to hit, reach 5 ft., one target. Hit: 8 (2d4+3) bludgeoning damage. If the target is a creature and the goat moves at least 20 feet straight towards the target before the attack, the target takes an additional 5 (2d4) bludgeoning damage and makes a DC 13 Strength saving throw, falling prone on a failure.' }

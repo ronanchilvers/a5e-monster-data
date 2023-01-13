@@ -18,14 +18,14 @@ stats:
     - 16
 damage_resistances: 'cold, fire'
 saves:
-    dexterity: 6
-    constitution: 12
-    intelligence: 8
-    wisdom: 9
+    - { dexterity: 6 }
+    - { constitution: 12 }
+    - { intelligence: 8 }
+    - { wisdom: 9 }
 skillsaves:
-    history: 8
-    insight: 9
-    nature: 8
+    - { history: 8 }
+    - { insight: 9 }
+    - { nature: 8 }
 senses: 'darkvision 120 ft., passive Perception 13'
 languages: 'Aquan, Common, Draconic'
 traits:
@@ -44,7 +44,7 @@ reactions:
     - { name: Tail, desc: 'When the dragon turtle is hit by an opportunity attack, it makes a tail attack.' }
 'bonus actions':
     - { name: Claws, desc: 'Melee Weapon Attack: +13 to hit, reach 15 ft., one target. Hit: 25 (4d8 + 7) slashing damage.' }
-'legendary actions':
+legendary_actions:
     - { name: 'The dragon turtle can take 3 legendary actions, choosing from the options below', desc: "Only one legendary action can be used at a time and only at the end of another creature's turn. It regains spent legendary actions at the start of its turn." }
     - { name: 'Claw Kick', desc: 'The dragon turtle makes a claws attack and then moves up to half its speed without provoking opportunity attacks.' }
     - { name: 'Emerald Radiance (1/Day)', desc: 'Searing green light emanates from the dragon turtle. Each creature within 90 feet makes a DC 17 Dexterity saving throw, taking 70 (20d6) radiant damage on a failure or half damage on a success. A creature that fails the saving throw is blinded until the end of its next turn.' }

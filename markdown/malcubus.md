@@ -18,11 +18,11 @@ stats:
     - 20
 damage_resistances: 'cold, fire, lightning, poison; damage from nonmagical weapons'
 skillsaves:
-    deception: 7
-    insight: 5
-    perception: 5
-    persuasion: 7
-    stealth: 5
+    - { deception: 7 }
+    - { insight: 5 }
+    - { perception: 5 }
+    - { persuasion: 7 }
+    - { stealth: 5 }
 senses: 'darkvision 60 ft., passive Perception 15'
 languages: 'Abyssal, Common, Infernal, telepathy 60 ft.'
 traits:

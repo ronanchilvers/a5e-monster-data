@@ -17,7 +17,7 @@ stats:
     - 10
     - 10
 skillsaves:
-    intimidation: 2
+    - { intimidation: 2 }
 senses: 'passive Perception 10'
 languages: 'any one'
 actions:

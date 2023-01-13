@@ -17,12 +17,12 @@ stats:
     - 12
     - 14
 skillsaves:
-    deception: 4
-    history: 2
-    insight: 3
-    intimidation: 4
-    performance: 4
-    persuasion: 4
+    - { deception: 4 }
+    - { history: 2 }
+    - { insight: 3 }
+    - { intimidation: 4 }
+    - { performance: 4 }
+    - { persuasion: 4 }
 senses: 'passive Perception 11'
 languages: 'any two'
 actions:

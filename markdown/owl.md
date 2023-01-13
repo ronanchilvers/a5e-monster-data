@@ -17,8 +17,8 @@ stats:
     - 12
     - 6
 skillsaves:
-    perception: 3
-    stealth: 3
+    - { perception: 3 }
+    - { stealth: 3 }
 senses: 'darkvision 120 ft., passive Perception 13'
 traits:
     - { name: Flyby, desc: "The owl doesn't provoke opportunity attacks when it flies out of a creature's reach." }

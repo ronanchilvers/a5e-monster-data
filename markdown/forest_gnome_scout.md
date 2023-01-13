@@ -17,12 +17,12 @@ stats:
     - 14
     - 10
 saves:
-    dexterity: 5
+    - { dexterity: 5 }
 skillsaves:
-    nature: 2
-    perception: 4
-    stealth: 5
-    survival: 4
+    - { nature: 2 }
+    - { perception: 4 }
+    - { stealth: 5 }
+    - { survival: 4 }
 senses: 'passive Perception 16'
 languages: 'any one'
 traits:

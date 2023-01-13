@@ -17,11 +17,11 @@ stats:
     - 10
     - 10
 saves:
-    strength: 4
-    constitution: 4
+    - { strength: 4 }
+    - { constitution: 4 }
 skillsaves:
-    perception: 2
-    survival: 2
+    - { perception: 2 }
+    - { survival: 2 }
 senses: 'passive Perception 12'
 languages: 'any one'
 actions:

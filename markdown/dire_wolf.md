@@ -17,8 +17,8 @@ stats:
     - 12
     - 6
 skillsaves:
-    perception: 3
-    stealth: 4
+    - { perception: 3 }
+    - { stealth: 4 }
 senses: 'darkvision 30 ft., passive Perception 13'
 traits:
     - { name: 'Keen Hearing and Smell', desc: 'The wolf has advantage on Perception checks that rely on hearing and smell.' }

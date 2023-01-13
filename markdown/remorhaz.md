@@ -18,8 +18,8 @@ stats:
     - 5
 damage_immunities: 'cold, fire'
 saves:
-    intelligence: 1
-    wisdom: 5
+    - { intelligence: 1 }
+    - { wisdom: 5 }
 senses: 'darkvision 60 ft., tremorsense 60 ft., passive Perception 11'
 traits:
     - { name: 'Heated Body', desc: "A creature that starts its turn grappled by the remorhaz, touches it, or hits it with a melee attack while within 5 feet takes 10 (3d6) fire damage, or 21 (6d6) fire damage if the remorhaz is bloodied. A creature can take this damage only once on a turn. If the remorhaz has been subjected to cold damage since the end of its last turn, this trait doesn't function." }

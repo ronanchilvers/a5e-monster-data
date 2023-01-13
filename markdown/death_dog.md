@@ -17,8 +17,8 @@ stats:
     - 12
     - 6
 skillsaves:
-    perception: 3
-    stealth: 4
+    - { perception: 3 }
+    - { stealth: 4 }
 senses: 'darkvision 120 ft., passive Perception 18'
 traits:
     - { name: 'Two Heads', desc: "The death dog has advantage on Perception checks and on saving throws made to resist being blinded, charmed, deafened, frightened, stunned, or knocked unconscious, and it can't be flanked." }

@@ -18,15 +18,15 @@ stats:
     - 16
 damage_resistances: 'cold; damage from nonmagical, non-silvered weapons'
 saves:
-    intelligence: 6
-    wisdom: 7
-    charisma: 7
+    - { intelligence: 6 }
+    - { wisdom: 7 }
+    - { charisma: 7 }
 skillsaves:
-    athletics: 8
-    deception: 7
-    insight: 7
-    perception: 7
-    stealth: 7
+    - { athletics: 8 }
+    - { deception: 7 }
+    - { insight: 7 }
+    - { perception: 7 }
+    - { stealth: 7 }
 senses: 'darkvision 120 ft., passive Perception 16'
 languages: 'Infernal, telepathy 120 ft.'
 traits:

@@ -17,7 +17,7 @@ stats:
     - 10
     - 12
 skillsaves:
-    any: 0
+    - { any: 0 }
 senses: 'passive Perception 10'
 languages: 'Common, unlimited-range telepathy with aboleth'
 traits:

@@ -17,8 +17,8 @@ stats:
     - 14
     - 10
 skillsaves:
-    medicine: 4
-    religion: 2
+    - { medicine: 4 }
+    - { religion: 2 }
 senses: 'passive Perception 12'
 languages: 'any one'
 traits: {  }

@@ -19,17 +19,17 @@ stats:
 damage_immunities: psychic
 condition_immunities: fatigue
 saves:
-    constitution: 13
-    intelligence: 15
-    wisdom: 14
-    charisma: 12
+    - { constitution: 13 }
+    - { intelligence: 15 }
+    - { wisdom: 14 }
+    - { charisma: 12 }
 skillsaves:
-    arcana: 15
-    deception: 12
-    history: 15
-    insight: 14
-    perception: 14
-    persuasion: 12
+    - { arcana: 15 }
+    - { deception: 12 }
+    - { history: 15 }
+    - { insight: 14 }
+    - { perception: 14 }
+    - { persuasion: 12 }
 senses: 'darkvision 120 ft., passive Perception 27'
 languages: 'Common, Deep Speech, Draconic, Undercommon, telepathy 120 ft.'
 traits:
@@ -48,7 +48,7 @@ actions:
     - { name: 'Prognosticate (3/Day)', desc: 'The dragon psionically makes a prediction of an event up to 300 years in the future. This prediction has a 75 percent chance of being perfectly accurate and a 25 percent chance of being partially or wholly wrong. Alternatively, the dragon can choose to gain truesight to a range of 120 feet for 1 minute.' }
 reactions:
     - { name: 'Prophesy Doom (When Bloodied)', desc: "When a language-using creature suffering ongoing psychic damage targets the dragon with an attack or spell, the dragon telepathically prophesies the attacker's doom. The attacker makes a DC 20 Intelligence saving throw. On a failure, the target magically gains the doomed condition. It is aware that it will die due to some bizarre circumstance within 13 (2d12) hours. In addition to the normal means of removing the condition, this doom can be avoided by a spell that can predict the future, such as augury, contact other plane, or foresight. The dragon can end the effect as an action." }
-'legendary actions':
+legendary_actions:
     - { name: 'The dragon can take 3 legendary actions, choosing from the options below', desc: "Only one legendary action can be used at a time and only at the end of another creature's turn. It regains spent legendary actions at the start of its turn." }
     - { name: Foretell, desc: "The dragon psionically catches a glimpse of a fast-approaching moment and plans accordingly. The dragon rolls a d20 and records the number rolled. Until the end of the dragon's next turn, the dragon can replace the result of any d20 rolled by it or a creature within 120 feet with the foretold number. Each foretold roll can be used only once." }
     - { name: 'Psionic Wave (Costs 2 Actions)', desc: 'The dragon uses Psionic Wave.' }

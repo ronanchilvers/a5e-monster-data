@@ -20,15 +20,15 @@ damage_resistances: 'cold, lightning'
 damage_immunities: 'necrotic, poison; damage from nonmagical weapons'
 condition_immunities: 'charmed, fatigue, frightened, paralyzed, poisoned'
 saves:
-    constitution: 11
-    intelligence: 12
-    wisdom: 10
+    - { constitution: 11 }
+    - { intelligence: 12 }
+    - { wisdom: 10 }
 skillsaves:
-    arcana: 12
-    history: 12
-    insight: 10
-    perception: 10
-    religion: 12
+    - { arcana: 12 }
+    - { history: 12 }
+    - { insight: 10 }
+    - { perception: 10 }
+    - { religion: 12 }
 senses: 'truesight 120 ft., passive Perception 20'
 languages: 'any six'
 traits:
@@ -58,7 +58,7 @@ reactions:
     - { name: 'Death Aura', desc: 'The aura casts purple light. Each living creature that ends its turn inside the aura takes 17 (5d6) necrotic damage, and the lich regains the same number of hit points.' }
     - { name: 'Shield Aura', desc: 'The aura casts orange light. It has 35 hit points. Whenever the lich would take damage, the aura takes the damage instead, and the aura visibly weakens. If the damage reduces the aura to 0 hit points, the aura disappears, and the lich takes any excess damage.' }
     - { name: 'Spell Shield Aura', desc: "The aura casts blue light. Any spell cast with a 5th-level or lower spell slot from outside the aura can't affect anything inside the aura. Using a spell to target something inside the aura or include the aura's space in an area has no effect on anything inside." }
-'legendary actions':
+legendary_actions:
     - { name: 'The lich can take 3 legendary actions, choosing from the options below', desc: "Only one legendary action can be used at a time and only at the end of another creature's turn. It regains spent legendary actions at the start of its turn." }
     - { name: 'Cast Spell', desc: 'The lich casts cantrip or a 1st-level spell. The lich can use 2 legendary actions to cast a 2nd-level spell or 3 legendary actions to cast a 3rd-level spell.' }
     - { name: 'Paralyzing Touch (Costs 2 Actions)', desc: 'The lich uses Paralyzing Touch.' }

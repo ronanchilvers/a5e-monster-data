@@ -17,7 +17,7 @@ stats:
     - 16
     - 10
 skillsaves:
-    perception: 5
+    - { perception: 5 }
 senses: 'darkvision 60 ft., passive Perception 18'
 languages: 'Abyssal, Undercommon'
 traits:

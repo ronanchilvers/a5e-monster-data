@@ -18,15 +18,15 @@ stats:
     - 16
 condition_immunities: 'charmed, unconscious'
 saves:
-    dexterity: 6
-    wisdom: 5
-    charisma: 5
+    - { dexterity: 6 }
+    - { wisdom: 5 }
+    - { charisma: 5 }
 skillsaves:
-    deception: 5
-    nature: 3
-    perception: 5
-    stealth: 6
-    survival: 5
+    - { deception: 5 }
+    - { nature: 3 }
+    - { perception: 5 }
+    - { stealth: 6 }
+    - { survival: 5 }
 senses: 'passive Perception 15'
 languages: 'Common, Elvish, Sylvan'
 traits:

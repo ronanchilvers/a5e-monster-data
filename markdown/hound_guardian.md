@@ -19,7 +19,7 @@ stats:
 damage_immunities: 'poison; damage from nonmagical, non-adamantine weapons'
 condition_immunities: 'charmed, fatigue, frightened, paralyzed, petrified, poisoned'
 skillsaves:
-    perception: 3
+    - { perception: 3 }
 senses: 'darkvision 60 ft., passive Perception 13'
 languages: "understands the languages of its creator but can't speak"
 traits:

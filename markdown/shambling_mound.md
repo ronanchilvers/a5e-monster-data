@@ -20,7 +20,7 @@ damage_resistances: 'cold, fire, piercing'
 damage_immunities: lightning
 condition_immunities: 'blinded, deafened, fatigue'
 skillsaves:
-    stealth: 3
+    - { stealth: 3 }
 senses: 'blindsight 60 ft. (blind beyond this radius), passive Perception 11'
 traits:
     - { name: 'Lightning Absorption', desc: 'When the shambling mound would be subjected to lightning damage, it instead regains hit points equal to the lightning damage dealt.' }

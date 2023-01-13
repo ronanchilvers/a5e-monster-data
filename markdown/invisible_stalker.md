@@ -20,8 +20,8 @@ damage_resistances: 'damage from nonmagical weapons'
 damage_immunities: poison
 condition_immunities: 'fatigue, grappled, paralyzed, petrified, poisoned, prone, restrained, unconscious'
 skillsaves:
-    perception: 5
-    stealth: 7
+    - { perception: 5 }
+    - { stealth: 7 }
 senses: 'darkvision 60 ft., passive Perception 15'
 languages: 'Auran, Common'
 traits:

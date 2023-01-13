@@ -17,7 +17,7 @@ stats:
     - 10
     - 4
 saves:
-    strength: 3
+    - { strength: 3 }
 senses: 'passive Perception 10'
 traits:
     - { name: 'Beast of Burden', desc: 'The mule is considered Large when calculating its carrying capacity.' }

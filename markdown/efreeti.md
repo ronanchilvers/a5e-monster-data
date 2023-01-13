@@ -18,14 +18,14 @@ stats:
     - 16
 damage_immunities: fire
 saves:
-    dexterity: 8
-    intelligence: 6
-    wisdom: 7
-    charisma: 7
+    - { dexterity: 8 }
+    - { intelligence: 6 }
+    - { wisdom: 7 }
+    - { charisma: 7 }
 skillsaves:
-    athletics: 10
-    intimidation: 7
-    perception: 7
+    - { athletics: 10 }
+    - { intimidation: 7 }
+    - { perception: 7 }
 senses: 'darkvision 120 ft., passive Perception 17'
 languages: Ignan
 traits:

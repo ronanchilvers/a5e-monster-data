@@ -17,12 +17,12 @@ stats:
     - 12
     - 14
 saves:
-    constitution: 5
-    wisdom: 3
+    - { constitution: 5 }
+    - { wisdom: 3 }
 skillsaves:
-    perception: 3
-    stealth: 3
-    survival: 3
+    - { perception: 3 }
+    - { stealth: 3 }
+    - { survival: 3 }
 senses: 'passive Perception 15'
 languages: Draconic
 traits:

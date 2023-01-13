@@ -17,13 +17,13 @@ stats:
     - 16
     - 12
 saves:
-    wisdom: 5
-    charisma: 3
+    - { wisdom: 5 }
+    - { charisma: 3 }
 skillsaves:
-    medicine: 5
-    insight: 5
-    persuasion: 3
-    religion: 3
+    - { medicine: 5 }
+    - { insight: 5 }
+    - { persuasion: 3 }
+    - { religion: 3 }
 senses: 'passive Perception 13, blindsight 10 ft.'
 languages: 'any two'
 traits:

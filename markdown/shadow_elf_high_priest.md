@@ -17,14 +17,14 @@ stats:
     - 18
     - 16
 saves:
-    intelligence: 4
-    wisdom: 7
-    charisma: 6
+    - { intelligence: 4 }
+    - { wisdom: 7 }
+    - { charisma: 6 }
 skillsaves:
-    medicine: 7
-    insight: 7
-    persuasion: 6
-    religion: 4
+    - { medicine: 7 }
+    - { insight: 7 }
+    - { persuasion: 6 }
+    - { religion: 4 }
 senses: 'passive Perception 14, darkvision 120 ft.'
 languages: 'any three'
 traits:

@@ -17,9 +17,9 @@ stats:
     - 8
     - 18
 skillsaves:
-    stealth: 7
-    persuasion: 8
-    deception: 8
+    - { stealth: 7 }
+    - { persuasion: 8 }
+    - { deception: 8 }
 senses: 'darkvision 60 ft., passive Perception 9'
 languages: 'Common, Goblin'
 traits:

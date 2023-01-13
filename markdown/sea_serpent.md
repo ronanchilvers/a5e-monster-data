@@ -17,11 +17,11 @@ stats:
     - 14
     - 8
 saves:
-    constitution: 11
-    dexterity: 5
-    intelligence: 2
-    wisdom: 7
-    charisma: 4
+    - { constitution: 11 }
+    - { dexterity: 5 }
+    - { intelligence: 2 }
+    - { wisdom: 7 }
+    - { charisma: 4 }
 senses: 'darkvision 60 ft., passive Perception 12'
 traits:
     - { name: Amphibious, desc: 'The serpent can breathe air and water.' }

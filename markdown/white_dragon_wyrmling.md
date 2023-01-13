@@ -18,8 +18,8 @@ stats:
     - 10
 damage_immunities: cold
 skillsaves:
-    perception: 2
-    stealth: 3
+    - { perception: 2 }
+    - { stealth: 3 }
 senses: 'blindsight 10 ft., darkvision 60 ft., passive Perception 12'
 languages: Draconic
 traits:

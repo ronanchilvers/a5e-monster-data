@@ -18,14 +18,14 @@ stats:
     - 16
 damage_immunities: cold
 saves:
-    dexterity: 8
-    constitution: 15
-    wisdom: 10
-    charisma: 10
+    - { dexterity: 8 }
+    - { constitution: 15 }
+    - { wisdom: 10 }
+    - { charisma: 10 }
 skillsaves:
-    intimidation: 10
-    perception: 10
-    stealth: 8
+    - { intimidation: 10 }
+    - { perception: 10 }
+    - { stealth: 8 }
 senses: 'blindsight 60 ft., darkvision 120 ft., passive Perception 23'
 languages: 'Common, Draconic'
 traits:
@@ -43,12 +43,12 @@ actions:
     - { name: 'Cold Breath (Recharge 56)', desc: 'The dragon exhales a 90-foot cone of frost. Each creature in the area makes a DC 23 Constitution saving throw. On a failure, it takes 66 (19d6) cold damage, and its speed is reduced to 0 until the end of its next turn. On a success, it takes half damage.' }
 reactions:
     - { name: 'Tail Attack', desc: 'When a creature the dragon can see within 10 feet hits the dragon with a melee attack, the dragon makes a tail attack against it.' }
-'legendary actions':
+legendary_actions:
     0: { name: 'The dragon can take 3 legendary actions, choosing from the options below', desc: "Only one legendary action can be used at a time and only at the end of another creature's turn. It regains spent legendary actions at the start of its turn." }
     1: { name: Roar, desc: "Each creature of the dragon's choice within 120 feet that can hear it makes a DC 18 Charisma saving throw. On a failure, it is frightened for 1 minute. A creature repeats the saving throw at the end of its turn, ending the effect on itself on a success. When it succeeds on a saving throw or the effect ends for it, it is immune to Roar for 24 hours." }
     2: { name: 'Wing Attack', desc: 'The dragon beats its wings. Each creature within 15 feet makes a DC 23 Dexterity saving throw. On a failure, it is pushed 10 feet away and knocked prone. The dragon can then fly up to half its fly speed.' }
     3: { name: 'Raging Storm (1/Day, Bloodied Only)', desc: 'For 1 minute, gusts of sleet emanate from the dragon in a 40-foot-radius sphere, spreading around corners. The area is lightly obscured, the ground is difficult terrain, and nonmagical flames are extinguished. The first time a creature other than the dragon moves on its turn while in the area, it must succeed on a DC 18 Dexterity saving throw or take 11 (2d10) cold damage and fall prone (or fall if it is flying).' }
-    'legendary actions': ['The dragon has the following additional legendary actions, which it can use only while bloodied:']
+    legendary_actions: ['The dragon has the following additional legendary actions, which it can use only while bloodied:']
     4: { name: 'Elite Recovery', desc: 'The dragon ends one negative effect currently affecting it. It can do so as long as it has at least 1 hit point, even while unconscious or incapacitated.' }
     5: { name: 'Mortal Terror (Gaze)', desc: 'A creature within 120 feet makes a saving throw against Roar, even if it has already successfully saved within the past 24 hours.' }
     6: { name: 'Gathering Storm (Costs 2 Actions)', desc: 'The dragon recharges its breath weapon.' }

@@ -17,9 +17,9 @@ stats:
     - 10
     - 10
 skillsaves:
-    perception: 2
-    insight: 2
-    nature: 2
+    - { perception: 2 }
+    - { insight: 2 }
+    - { nature: 2 }
 senses: 'passive Perception 14'
 languages: 'any one'
 actions:

@@ -17,10 +17,10 @@ stats:
     - 14
     - 8
 saves:
-    dexterity: 4
+    - { dexterity: 4 }
 skillsaves:
-    perception: 4
-    stealth: 4
+    - { perception: 4 }
+    - { stealth: 4 }
 senses: 'darkvision 60 ft., passive Perception 14'
 traits:
     - { name: 'Mirror Image', desc: "A magical illusion cloaks the phase monster, creating a reflection of the monster nearby and concealing its precise location. While the monster is not incapacitated, attack rolls against it have disadvantage. When a creature hits the phase monster with an attack, this trait stops working until the end of the phase monster's next turn." }

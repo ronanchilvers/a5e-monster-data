@@ -18,10 +18,10 @@ stats:
     - 8
 condition_immunities: blinded
 skillsaves:
-    athletics: 4
-    engineering: 4
-    perception: 2
-    stealth: 4
+    - { athletics: 4 }
+    - { engineering: 4 }
+    - { perception: 2 }
+    - { stealth: 4 }
 senses: 'blindsight 30 ft., or 10 ft. while deafened (blind beyond this radius), passive Perception 14'
 languages: 'Undercommon; telepathy 60ft.'
 traits:

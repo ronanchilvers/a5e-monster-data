@@ -17,11 +17,11 @@ stats:
     - 10
     - 4
 saves:
-    strength: 14
-    constitution: 11
-    intelligence: 1
-    wisdom: 5
-    charisma: 2
+    - { strength: 14 }
+    - { constitution: 11 }
+    - { intelligence: 1 }
+    - { wisdom: 5 }
+    - { charisma: 2 }
 senses: 'blindsight 30 ft., tremorsense 60 ft., passive Perception 15'
 traits:
     - { name: Tunneler, desc: 'The worm can tunnel through earth and solid rock, leaving behind a 10-foot-diameter tunnel.' }

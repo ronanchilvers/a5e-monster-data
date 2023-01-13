@@ -20,9 +20,9 @@ damage_immunities: poison
 condition_immunities: 'fatigue, poisoned'
 'damage vulenrabilities': bludgeoning
 saves:
-    strength: 5
-    dexterity: 5
-    constitution: 4
+    - { strength: 5 }
+    - { dexterity: 5 }
+    - { constitution: 4 }
 senses: 'darkvision 60 ft., passive Perception 9'
 languages: "understands the languages it knew in life but can't speak"
 traits:

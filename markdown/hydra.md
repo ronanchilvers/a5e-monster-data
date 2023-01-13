@@ -17,8 +17,8 @@ stats:
     - 12
     - 6
 skillsaves:
-    perception: 5
-    stealth: 5
+    - { perception: 5 }
+    - { stealth: 5 }
 senses: 'darkvision 60 ft., passive Perception 15'
 traits:
     - { name: 'Hold Breath', desc: 'The hydra can hold its breath for 1 hour.' }
@@ -31,7 +31,7 @@ traits:
 actions:
     - { name: Multiattack, desc: 'The hydra bites once with each of its heads.' }
     - { name: Bite, desc: 'Melee Weapon Attack: +9 to hit, reach 15 ft., one target. Hit: 10 (1d10 + 5) piercing damage.' }
-'legendary actions':
+legendary_actions:
     - { name: 'The hydra can take 2 legendary actions, choosing from the options below', desc: "Only one legendary action can be used at a time and only at the end of another creature's turn. It regains spent legendary actions at the start of its turn." }
     - { name: Rush, desc: "The hydra moves or swims up to half its Speed without provoking opportunity attacks. If this movement would pass through the space of creatures that are not incapacitated or prone, each creature makes a DC 17 Strength saving throw. On a failure, the creature is knocked prone and the hydra can enter its space without treating it as difficult terrain. On a success, the hydra can't enter the creature's space, and the hydra's movement ends. If this movement ends while the hydra is sharing a space with a creature, the creature is pushed to the nearest unoccupied space." }
     - { name: Wrap, desc: "Melee Weapon Attack: +9 to hit, reach 10 ft., one Medium or smaller creature. Hit: The target is grappled (escape DC 17) and restrained until this grappled ends. The hydra can grapple one creature for each of its heads. When one of the hydra's heads is killed while it is grappling a creature, the creature that killed the head can choose one creature to free from the grapple." }

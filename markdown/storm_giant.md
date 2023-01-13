@@ -19,16 +19,16 @@ stats:
 damage_resistances: cold
 damage_immunities: 'lightning, thunder'
 saves:
-    strength: 14
-    constitution: 10
-    wisdom: 9
-    charisma: 9
+    - { strength: 14 }
+    - { constitution: 10 }
+    - { wisdom: 9 }
+    - { charisma: 9 }
 skillsaves:
-    arcana: 8
-    athletics: 14
-    history: 8
-    insight: 9
-    perception: 9
+    - { arcana: 8 }
+    - { athletics: 14 }
+    - { history: 8 }
+    - { insight: 9 }
+    - { perception: 9 }
 senses: 'passive Perception 19'
 languages: 'Common, Giant'
 traits:

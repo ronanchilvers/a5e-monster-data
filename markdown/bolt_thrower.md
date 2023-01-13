@@ -19,7 +19,7 @@ stats:
 damage_immunities: 'poison, psychic'
 condition_immunities: 'blinded, charmed, deafened, exhaustion, frightened, paralyzed, petrified, poisoned'
 skillsaves:
-    perception: 0
+    - { perception: 0 }
 senses: 'blindsight 120 ft. (blind beyond that range), passive Perception 14'
 traits:
     - { name: 'Clockwork Sights', desc: 'The bolt-thrower does not have disadvantage on attack rolls when making ranged attacks within 5 feet of a hostile creature.' }

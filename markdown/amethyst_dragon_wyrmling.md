@@ -19,10 +19,10 @@ stats:
 damage_resistances: 'force, psychic'
 condition_immunities: fatigue
 skillsaves:
-    deception: 4
-    insight: 2
-    perception: 2
-    persuasion: 4
+    - { deception: 4 }
+    - { insight: 2 }
+    - { perception: 2 }
+    - { persuasion: 4 }
 senses: 'darkvision 120 ft., passive Perception 12'
 languages: 'Deep Speech, Draconic, Undercommon, telepathy 120 ft.'
 traits:

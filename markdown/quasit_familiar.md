@@ -20,7 +20,7 @@ damage_resistances: 'cold, fire, lightning; damage from nonmagical weapons'
 damage_immunities: poison
 condition_immunities: poisoned
 skillsaves:
-    stealth: 5
+    - { stealth: 5 }
 senses: 'darkvision 120 ft., passive Perception 11'
 languages: 'Abyssal, Common'
 traits:

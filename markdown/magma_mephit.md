@@ -20,8 +20,8 @@ damage_immunities: 'fire, poison'
 condition_immunities: poisoned
 'damage vulenrabilities': cold
 skillsaves:
-    perception: 2
-    stealth: 3
+    - { perception: 2 }
+    - { stealth: 3 }
 senses: 'darkvision 60 ft., passive Perception 12'
 languages: 'Ignan, Terran'
 traits:

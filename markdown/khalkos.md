@@ -19,15 +19,15 @@ stats:
 damage_resistances: 'fire, psychic, radiant'
 condition_immunities: charmed
 saves:
-    intelligence: 8
-    wisdom: 7
-    charisma: 7
+    - { intelligence: 8 }
+    - { wisdom: 7 }
+    - { charisma: 7 }
 skillsaves:
-    deception: 7
-    insight: 7
-    perception: 7
-    persuasion: 7
-    religion: 8
+    - { deception: 7 }
+    - { insight: 7 }
+    - { perception: 7 }
+    - { persuasion: 7 }
+    - { religion: 8 }
 senses: 'darkvision 60 ft., passive Perception 17'
 languages: 'Abyssal, Celestial, Infernal, telepathy 120 ft.'
 traits:

@@ -19,11 +19,11 @@ stats:
 damage_resistances: 'cold, fire, thunder'
 damage_immunities: 'lightning; damage from nonmagical weapons'
 saves:
-    strength: 18
-    constitution: 16
-    dexterity: 8
-    intelligence: 14
-    wisdom: 12
+    - { strength: 18 }
+    - { constitution: 16 }
+    - { dexterity: 8 }
+    - { intelligence: 14 }
+    - { wisdom: 12 }
 senses: 'truesight 120 ft., passive Perception 14'
 languages: "understands Primordial but can't speak, telepathy 120 ft."
 traits:
@@ -45,7 +45,7 @@ actions:
     8: { name: 'Tentacle Flail', desc: 'The Kraken makes a tentacle attack against each creature of its choice within its reach.' }
     9: { name: Maelstrom, desc: "The Kraken summons a whirlpool and hurricane winds. Each creature within 90 feet of the kraken that isn't secured to an immovable object makes a DC 26 Strength check. On a failure, the creature takes 35 (10d6) bludgeoning damage, is pulled 45 feet straight towards the Kraken, and falls prone. Unsecured objects are pulled 45 feet straight towards the Kraken." }
     10: { name: 'Thundercrack (1/Day)', desc: "If the Kraken is outside and not underwater, a 10-foot-radius, sky-high column of lightning strikes a point the Kraken can see. Each creature and object in the area makes a DC 26 Dexterity saving throw, taking 35 (10d6) lightning damage and 35 (10d6) thunder damage on a failure or half damage on a success. All creatures other than the Kraken within 120 feet of the area that can see the lightning, including creatures inside the area, make a DC 26 Constitution saving throw. On a failure, a creature is blinded until the beginning of the Kraken's next turn." }
-'legendary actions':
+legendary_actions:
     - { name: 'The kraken can take 3 legendary actions, choosing from the options below', desc: "Only one legendary action can be used at a time and only at the end of another creature's turn. It regains spent legendary actions at the start of its turn." }
     - { name: Tentacle, desc: 'The kraken makes one tentacle attack.' }
     - { name: Fling, desc: 'The kraken uses Fling.' }

@@ -17,15 +17,15 @@ stats:
     - 12
     - 14
 saves:
-    constitution: 4
-    dexterity: 5
+    - { constitution: 4 }
+    - { dexterity: 5 }
 skillsaves:
-    acrobatics: 4
-    athletics: 4
-    deception: 4
-    intimidation: 4
-    stealth: 5
-    survival: 3
+    - { acrobatics: 4 }
+    - { athletics: 4 }
+    - { deception: 4 }
+    - { intimidation: 4 }
+    - { stealth: 5 }
+    - { survival: 3 }
 senses: 'passive Perception 11'
 languages: 'any two'
 traits:

@@ -20,10 +20,10 @@ damage_resistances: 'piercing and slashing damage from nonmagical, non-adamantin
 damage_immunities: poison
 condition_immunities: 'fatigue, petrified, poisoned, unconscious'
 saves:
-    strength: 4
-    constitution: 5
+    - { strength: 4 }
+    - { constitution: 5 }
 skillsaves:
-    perception: 4
+    - { perception: 4 }
 senses: 'darkvision 60 ft., passive Perception 14'
 languages: Terran
 traits:

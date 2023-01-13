@@ -17,8 +17,8 @@ stats:
     - 12
     - 12
 skillsaves:
-    stealth: 4
-    intimidation: 3
+    - { stealth: 4 }
+    - { intimidation: 3 }
 senses: 'darkvision 60 ft., passive Perception 11'
 languages: 'Common, Goblin'
 actions:

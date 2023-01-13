@@ -19,16 +19,16 @@ stats:
 damage_resistances: 'damage from nonmagical weapons'
 condition_immunities: petrified
 saves:
-    strength: 8
-    constitution: 8
-    intelligence: 5
-    wisdom: 7
-    charisma: 4
+    - { strength: 8 }
+    - { constitution: 8 }
+    - { intelligence: 5 }
+    - { wisdom: 7 }
+    - { charisma: 4 }
 skillsaves:
-    athletics: 8
-    insight: 7
-    nature: 5
-    perception: 7
+    - { athletics: 8 }
+    - { insight: 7 }
+    - { nature: 5 }
+    - { perception: 7 }
 senses: 'darkvision 120 ft., tremorsense 60 ft., passive Perception 20'
 languages: 'Common, Draconic, Terran'
 traits:

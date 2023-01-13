@@ -17,7 +17,7 @@ stats:
     - 10
     - 14
 saves:
-    wisdom: 2
+    - { wisdom: 2 }
 senses: 'passive Perception 10'
 languages: Common
 actions:

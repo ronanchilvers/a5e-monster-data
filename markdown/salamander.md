@@ -19,8 +19,8 @@ stats:
 damage_resistances: 'damage from nonmagical weapons'
 damage_immunities: fire
 saves:
-    constitution: 5
-    wisdom: 3
+    - { constitution: 5 }
+    - { wisdom: 3 }
 senses: 'darkvision 60 ft., passive Perception 10'
 languages: Ignan
 traits:

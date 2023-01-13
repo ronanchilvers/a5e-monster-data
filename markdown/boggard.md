@@ -17,8 +17,8 @@ stats:
     - 10
     - 10
 skillsaves:
-    stealth: 4
-    survival: 2
+    - { stealth: 4 }
+    - { survival: 2 }
 senses: 'passive Perception 10'
 languages: Boggard
 traits:

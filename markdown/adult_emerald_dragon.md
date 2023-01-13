@@ -19,15 +19,15 @@ stats:
 damage_resistances: 'psychic, thunder'
 condition_immunities: fatigue
 saves:
-    constitution: 10
-    intelligence: 12
-    wisdom: 7
-    charisma: 10
+    - { constitution: 10 }
+    - { intelligence: 12 }
+    - { wisdom: 7 }
+    - { charisma: 10 }
 skillsaves:
-    deception: 10
-    history: 12
-    perception: 7
-    stealth: 12
+    - { deception: 10 }
+    - { history: 12 }
+    - { perception: 7 }
+    - { stealth: 12 }
 senses: 'darkvision 120 ft., passive Perception 17'
 languages: 'Common, Deep Speech, Draconic, Undercommon, telepathy 120 ft.'
 traits:
@@ -44,7 +44,7 @@ actions:
     - { name: 'Maddening Breath (Recharge 56)', desc: 'The dragon screams, stripping flesh from bones and reason from minds in a 60-foot cone. Each creature in that area makes a DC 18 Constitution saving throw, taking 71 (13d10) thunder damage on a failed save or half damage on a success. Creatures that fail this saving throw by 10 or more are also psionically confused until the end of their next turn.' }
 reactions:
     - { name: 'Spiteful Retort (While Bloodied)', desc: 'When a creature the dragon can see damages the dragon, the dragon lashes out with a psionic screech. The attacker makes a DC 15 Wisdom saving throw, taking 18 (4d8) thunder damage on a failed save or half damage on a success. Confused creatures make this saving throw with disadvantage.' }
-'legendary actions':
+legendary_actions:
     - { name: 'The dragon can take 3 legendary actions, choosing from the options below', desc: "Only one legendary action can be used at a time and only at the end of another creature's turn. It regains spent legendary actions at the start of its turn." }
     - { name: 'Paranoid Ranting', desc: 'The dragon psionically rants nonsense at a creature that can hear it within 60 feet. The target makes a DC 15 Wisdom saving throw. On a failed save, the creature gains a randomly determined short-term mental stress effect or madness.' }
     - { name: 'Pandorum (Costs 2 Actions)', desc: 'The dragon psionically targets one creature within 60 feet. The target makes a DC 15 Wisdom saving throw, becoming confused on a failure. While confused in this way, the target regards their allies as traitorous enemies. When rolling to determine its actions, treat a roll of 1 to 4 as a result of 8. The target repeats the saving throw at the end of each of its turns, ending the effect on a success.' }

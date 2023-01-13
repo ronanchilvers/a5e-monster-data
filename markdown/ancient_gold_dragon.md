@@ -18,15 +18,15 @@ stats:
     - 28
 damage_immunities: fire
 saves:
-    dexterity: 10
-    constitution: 17
-    wisdom: 11
-    charisma: 17
+    - { dexterity: 10 }
+    - { constitution: 17 }
+    - { wisdom: 11 }
+    - { charisma: 17 }
 skillsaves:
-    insight: 11
-    perception: 11
-    persuasion: 17
-    stealth: 10
+    - { insight: 11 }
+    - { perception: 11 }
+    - { persuasion: 17 }
+    - { stealth: 10 }
 senses: 'blindsight 60 ft., darkvision 120 ft., passive Perception 24'
 languages: 'Common, Draconic, two more'
 traits:
@@ -48,7 +48,7 @@ actions:
 reactions:
     - { name: 'Tail Attack', desc: 'When a creature the dragon can see within 10 feet hits the dragon with a melee attack, the dragon makes a tail attack against it.' }
     - { name: Vanguard, desc: 'When another creature the dragon can see within 20 feet is hit by an attack, the dragon deflects the attack, turning the hit into a miss.' }
-'legendary actions':
+legendary_actions:
     - { name: 'The dragon can take 3 legendary actions, choosing from the options below', desc: "Only one legendary action can be used at a time and only at the end of another creature's turn. It regains spent legendary actions at the start of its turn." }
     - { name: Roar, desc: "Each creature of the dragon's choice within 120 feet that can hear it makes a DC 25 Charisma saving throw. On a failure, it is frightened for 1 minute. A creature repeats the saving throw at the end of its turns, ending the effect on itself on a success. When it succeeds on a saving throw or the effect ends for it, it is immune to Roar for 24 hours." }
     - { name: 'Wing Attack', desc: 'The dragon beats its wings. Each creature within 15 feet makes a DC 26 Dexterity saving throw. On a failure, it is pushed 10 feet away and knocked prone. The dragon can then fly up to half its fly speed.' }

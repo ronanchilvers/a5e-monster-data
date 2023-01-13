@@ -17,8 +17,8 @@ stats:
     - 10
     - 10
 skillsaves:
-    animal: 0
-    survival: 3
+    - { animal: 0 }
+    - { survival: 3 }
 senses: 'passive Perception 10'
 languages: Giant
 traits:

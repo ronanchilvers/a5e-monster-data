@@ -17,7 +17,7 @@ stats:
     - 14
     - 10
 skillsaves:
-    perception: 4
+    - { perception: 4 }
 senses: 'passive Perception 14'
 languages: "Giant Eagle, understands but can't speak Common and Auran"
 traits:

@@ -18,16 +18,16 @@ stats:
     - 20
 condition_immunities: 'charmed, paralyzed, poisoned, unconscious'
 saves:
-    dexterity: 9
-    wisdom: 9
-    charisma: 9
+    - { dexterity: 9 }
+    - { wisdom: 9 }
+    - { charisma: 9 }
 skillsaves:
-    arcana: 7
-    history: 7
-    insight: 9
-    nature: 7
-    perception: 9
-    persuasion: 9
+    - { arcana: 7 }
+    - { history: 7 }
+    - { insight: 9 }
+    - { nature: 7 }
+    - { perception: 9 }
+    - { persuasion: 9 }
 senses: 'truesight 60 ft., passive Perception 19'
 languages: 'Common, Elvish, Sylvan, two more'
 traits:

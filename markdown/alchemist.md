@@ -18,14 +18,14 @@ stats:
     - 13
 damage_resistances: 'fire, poison'
 saves:
-    dexterity: 6
-    constitution: 5
-    wisdom: 5
+    - { dexterity: 6 }
+    - { constitution: 5 }
+    - { wisdom: 5 }
 skillsaves:
-    arcana: 7
-    investigation: 7
-    nature: 7
-    perception: 5
+    - { arcana: 7 }
+    - { investigation: 7 }
+    - { nature: 7 }
+    - { perception: 5 }
 senses: 'passive Perception 15'
 languages: 'any four'
 traits:

@@ -19,9 +19,9 @@ stats:
 damage_immunities: 'poison, psychic'
 condition_immunities: 'blinded, charmed, deafened, exhaustion, frightened, paralyzed, petrified, poisoned'
 skillsaves:
-    athletics: 5
-    perception: 0
-    survival: 0
+    - { athletics: 5 }
+    - { perception: 0 }
+    - { survival: 0 }
 senses: 'blindsight 120 ft. (blind beyond that range), passive Perception 12'
 traits:
     - { name: 'False Appearance', desc: 'While motionless, the sentinel is indistinguishable from normal armor.' }

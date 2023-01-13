@@ -17,7 +17,7 @@ stats:
     - 12
     - 6
 skillsaves:
-    perception: 3
+    - { perception: 3 }
 senses: 'passive Perception 13'
 traits:
     - { name: 'Keen Sight and Smell', desc: 'The vulture has advantage on Perception checks that rely on sight and smell.' }

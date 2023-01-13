@@ -17,9 +17,9 @@ stats:
     - 10
     - 8
 saves:
-    intelligence: -1
+    - { intelligence: -1 }
 skillsaves:
-    perception: 3
+    - { perception: 3 }
 senses: 'darkvision 60 ft., tremorsense 60 ft., passive Perception 13'
 traits:
     - { name: 'Steely Hide', desc: 'If a creature targets the bulette with a melee attack using a nonmagical weapon and rolls a natural 1 on the attack roll, the weapon breaks.' }

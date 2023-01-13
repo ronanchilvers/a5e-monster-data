@@ -21,13 +21,13 @@ damage_immunities: 'necrotic, poison'
 condition_immunities: 'charmed, exhaustion, frightened, poisoned'
 'damage vulenrabilities': radiant
 saves:
-    wisdom: 12
-    charisma: 12
+    - { wisdom: 12 }
+    - { charisma: 12 }
 skillsaves:
-    athletics: 11
-    insight: 12
-    perception: 12
-    religion: 12
+    - { athletics: 11 }
+    - { insight: 12 }
+    - { perception: 12 }
+    - { religion: 12 }
 senses: 'truesight 60 ft., passive Perception 22'
 languages: 'all, telepathy 120 ft.'
 traits:

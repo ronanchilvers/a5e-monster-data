@@ -17,12 +17,12 @@ stats:
     - 16
     - 16
 skillsaves:
-    deception: 6
-    insight: 6
-    intimidation: 6
-    perception: 6
-    persuasion: 6
-    stealth: 5
+    - { deception: 6 }
+    - { insight: 6 }
+    - { intimidation: 6 }
+    - { perception: 6 }
+    - { persuasion: 6 }
+    - { stealth: 5 }
 senses: 'passive Perception 16'
 languages: 'any two'
 actions:

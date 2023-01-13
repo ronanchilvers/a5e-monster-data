@@ -17,8 +17,8 @@ stats:
     - 10
     - 10
 skillsaves:
-    perception: 2
-    survival: 2
+    - { perception: 2 }
+    - { survival: 2 }
 senses: 'darkvision 60 ft., passive Perception 12'
 languages: 'Common, Goblin'
 traits:

@@ -18,12 +18,12 @@ stats:
     - 12
 damage_immunities: fire
 skillsaves:
-    arcana: 4
-    history: 4
-    nature: 4
-    perception: 3
-    religion: 4
-    stealth: 3
+    - { arcana: 4 }
+    - { history: 4 }
+    - { nature: 4 }
+    - { perception: 3 }
+    - { religion: 4 }
+    - { stealth: 3 }
 senses: 'blindsight 10 ft., darkvision 60 ft., passive Perception 13'
 languages: Draconic
 traits:

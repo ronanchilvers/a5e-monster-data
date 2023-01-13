@@ -18,8 +18,8 @@ stats:
     - 1
 condition_immunities: 'blinded, charmed, deafened, fatigue, frightened, prone, restrained, stunned'
 saves:
-    intelligence: -1
-    charisma: -1
+    - { intelligence: -1 }
+    - { charisma: -1 }
 senses: 'blindsight 90 ft. (blind beyond this radius), passive Perception 11'
 traits:
     - { name: 'Ethereal and Material', desc: "The dead man's fingers lives simultaneously on the Ethereal and Material Planes. Its senses extend into both planes, and it can touch and be touched by creatures on both planes." }

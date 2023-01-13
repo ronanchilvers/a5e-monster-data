@@ -17,9 +17,9 @@ stats:
     - 12
     - 16
 skillsaves:
-    arcana: 4
-    perception: 3
-    stealth: 7
+    - { arcana: 4 }
+    - { perception: 3 }
+    - { stealth: 7 }
 senses: 'darkvision 60 ft., passive Perception 13'
 languages: 'Draconic, Sylvan, telepathy 60 ft. (with other dragons only)'
 traits:

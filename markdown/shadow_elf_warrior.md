@@ -17,10 +17,10 @@ stats:
     - 14
     - 10
 skillsaves:
-    athletics: 3
-    stealth: 3
-    perception: 4
-    survival: 4
+    - { athletics: 3 }
+    - { stealth: 3 }
+    - { perception: 4 }
+    - { survival: 4 }
 senses: 'passive Perception 14, darkvision 120 ft.'
 languages: 'any one'
 traits:

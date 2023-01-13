@@ -18,14 +18,14 @@ stats:
     - 12
 damage_resistances: necrotic
 saves:
-    dexterity: 6
-    intelligence: 4
-    wisdom: 4
+    - { dexterity: 6 }
+    - { intelligence: 4 }
+    - { wisdom: 4 }
 skillsaves:
-    acrobatics: 6
-    deception: 4
-    perception: 4
-    stealth: 6
+    - { acrobatics: 6 }
+    - { deception: 4 }
+    - { perception: 4 }
+    - { stealth: 6 }
 senses: 'blindsight 10 ft., darkvision 60 ft., passive Perception 14'
 languages: 'Draconic plus any two'
 traits:

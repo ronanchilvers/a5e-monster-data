@@ -18,14 +18,14 @@ stats:
     - 14
 damage_immunities: cold
 saves:
-    dexterity: 6
-    constitution: 11
-    wisdom: 7
-    charisma: 7
+    - { dexterity: 6 }
+    - { constitution: 11 }
+    - { wisdom: 7 }
+    - { charisma: 7 }
 skillsaves:
-    intimidation: 7
-    perception: 7
-    stealth: 6
+    - { intimidation: 7 }
+    - { perception: 7 }
+    - { stealth: 6 }
 senses: 'blindsight 60 ft., darkvision 120 ft., passive Perception 20'
 languages: 'Common, Draconic'
 traits:
@@ -42,7 +42,7 @@ actions:
     - { name: 'Cold Breath (Recharge 56)', desc: 'The dragon exhales a 60-foot cone of frost. Each creature in the area makes a DC 19 Constitution saving throw. On a failure, it takes 52 (15d6) cold damage, and its speed is reduced to 0 until the end of its next turn. On a success, it takes half damage.' }
 reactions:
     - { name: 'Tail Attack', desc: 'When a creature the dragon can see within 10 feet hits the dragon with a melee attack, the dragon makes a tail attack against it.' }
-'legendary actions':
+legendary_actions:
     - { name: 'The dragon can take 3 legendary actions, choosing from the options below', desc: "Only one legendary action can be used at a time and only at the end of another creature's turn. It regains spent legendary actions at the start of its turn." }
     - { name: Roar, desc: "Each creature of the dragon's choice within 120 feet that can hear it makes a DC 15 Charisma saving throw. On a failure, it is frightened for 1 minute. A creature repeats the saving throw at the end of its turn, ending the effect on itself on a success. When it succeeds on a saving throw or the effect ends for it, it is immune to Roar for 24 hours." }
     - { name: 'Wing Attack', desc: 'The dragon beats its wings. Each creature within 15 feet makes a DC 19 Dexterity saving throw. On a failure, it is pushed 10 feet away and knocked prone. The dragon can then fly up to half its fly speed.' }

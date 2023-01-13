@@ -17,10 +17,10 @@ stats:
     - 12
     - 16
 skillsaves:
-    arcana: 5
-    deception: 6
-    perception: 4
-    stealth: 3
+    - { arcana: 5 }
+    - { deception: 6 }
+    - { perception: 4 }
+    - { stealth: 3 }
 senses: 'darkvision 60 ft., passive Perception 14'
 languages: 'Common, Giant'
 traits:

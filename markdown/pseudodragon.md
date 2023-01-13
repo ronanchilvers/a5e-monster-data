@@ -17,8 +17,8 @@ stats:
     - 12
     - 10
 skillsaves:
-    perception: 3
-    stealth: 4
+    - { perception: 3 }
+    - { stealth: 4 }
 senses: 'blindsight 10 ft., darkvision 60 ft., passive Perception 16'
 languages: "understands Common and Draconic but can't speak"
 traits:

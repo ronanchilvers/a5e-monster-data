@@ -17,8 +17,8 @@ stats:
     - 10
     - 4
 skillsaves:
-    perception: 2
-    stealth: 3
+    - { perception: 2 }
+    - { stealth: 3 }
 senses: 'darkvision 30 ft., passive Perception 12'
 traits:
     - { name: Amphibious, desc: 'The frog can breathe air and water.' }

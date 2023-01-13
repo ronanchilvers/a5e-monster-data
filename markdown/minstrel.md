@@ -17,12 +17,12 @@ stats:
     - 12
     - 16
 saves:
-    dexterity: 5
-    charisma: 5
+    - { dexterity: 5 }
+    - { charisma: 5 }
 skillsaves:
-    deception: 5
-    performance: 5
-    persuasion: 5
+    - { deception: 5 }
+    - { performance: 5 }
+    - { persuasion: 5 }
 senses: 'passive Perception 11'
 languages: 'any three'
 traits: {  }

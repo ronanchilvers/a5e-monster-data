@@ -17,7 +17,7 @@ stats:
     - 10
     - 4
 skillsaves:
-    perception: 2
+    - { perception: 2 }
 senses: 'blindsight 10 ft., passive Perception 12'
 actions:
     - { name: Bite, desc: 'Melee Weapon Attack: +6 to hit, reach 10 ft., one target. Hit: 13 (2d8+4) piercing damage.' }

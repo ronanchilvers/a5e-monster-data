@@ -20,11 +20,11 @@ damage_resistances: 'acid, cold, fire, lightning, thunder; damage from nonmagica
 damage_immunities: 'necrotic, poison'
 condition_immunities: 'fatigue, frightened, grappled, paralyzed, poisoned, prone, restrained'
 skillsaves:
-    deception: 4
-    insight: 2
-    nature: 2
-    perception: 2
-    stealth: 4
+    - { deception: 4 }
+    - { insight: 2 }
+    - { nature: 2 }
+    - { perception: 2 }
+    - { stealth: 4 }
 senses: 'darkvision 120 ft., passive Perception 12'
 languages: Draconic
 traits:
