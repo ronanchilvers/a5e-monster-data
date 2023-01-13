@@ -2,6 +2,6 @@
 .gitignore export-ignore
 composer.json export-ignore
 composer.lock export-ignore
-data/* export-ignore
+data export-ignore
 process.php export-ignore
 README.md export-ignore
