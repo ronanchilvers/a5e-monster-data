@@ -1,0 +1,6 @@
+{
+    "require": {
+        "symfony/yaml": "^6.2",
+        "ronanchilvers/utility": "^2.0"
+    }
+}

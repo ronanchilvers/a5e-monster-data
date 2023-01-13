@@ -1,0 +1,58 @@
+---
+statblock: true
+name: 'Adult Shadow Dragon - A5E'
+source: 'Level Up: Monstrous Menagerie'
+size: Huge
+type: Dragon
+cr: 19
+ac: '18 (natural armor)'
+hp: 212
+hit_dice: 17
+speed: '40 ft., climb 40 ft., fly 80 ft., swim 40 ft.'
+stats:
+    - 22
+    - 14
+    - 22
+    - 14
+    - 14
+    - 23
+damage_resistances: 'acid, cold, fire, lightning, thunder; damage from nonmagical weapons'
+damage_immunities: 'necrotic, poison'
+condition_immunities: 'fatigue, frightened, grappled, paralyzed, poisoned, prone, restrained'
+saves:
+    dexterity: 8
+    constitution: 12
+    intelligence: 8
+    wisdom: 8
+skillsaves:
+    deception: 12
+    insight: 8
+    nature: 8
+    perception: 8
+    stealth: 8
+senses: 'darkvision 240 ft., passive Perception 18'
+languages: 'Common, Draconic'
+traits:
+    0: { name: Evil, desc: 'The dragon radiates an Evil aura.' }
+    1: { name: 'Incorporeal Movement', desc: 'The dragon can move through other creatures and objects. It takes 11 (2d10) force damage if it ends its turn inside an object.' }
+    2: { name: 'Legendary Resistance (3/Day)', desc: 'When the dragon fails a saving throw, it can choose to succeed instead. When it does, it becomes more solid, losing its Incorporeal trait and its damage resistances, until the end of its next turn.' }
+    3: { name: 'Essence Link', desc: 'The essence dragon is spiritually linked to a specific area or landmark. The dragon gains no benefit from a long rest when more than 1 mile away from its linked area. If the dragon dies, the area it is linked to loses its vital essence until it forms a new essence dragon, which can take centuries. When a creature first enters an area that has lost its vital essence in this way, they gain a level of fatigue and a level of strife. This fatigue and strife can be removed only by completing a long rest outside the area.' }
+    4: { name: 'Innate Spellcasting', desc: "The dragon's spellcasting ability is Charisma (save DC 20). It can innately cast the following spells, requiring no material components." }
+    traits: [' 3/day each:darkness, detect evil and good, bane, create undead']
+actions:
+    - { name: Multiattack, desc: 'The dragon uses Grasp of Shadows, then attacks once with its bite and twice with its claws.' }
+    - { name: Bite, desc: 'Melee Weapon Attack: +12 to hit, reach 10 ft., one target. Hit: 22 (3d10 + 6) piercing damage plus 4 (1d8) necrotic damage.' }
+    - { name: Claws, desc: 'Melee Weapon Attack: +12 to hit, reach 5 ft., one target. Hit: 19 (3d8 + 6) slashing damage plus 4 (1d8) necrotic damage.' }
+    - { name: 'Grasp of Shadows', desc: 'The dragon targets a creature within 60 feet, forcing it to make a DC 16 Dexterity saving throw. On a failure, it is grappled by tendrils of shadow (escape DC 20) and restrained while grappled this way. The effect ends if the dragon is incapacitated or uses this ability again.' }
+    - { name: 'Anguished Breath (Recharge 56)', desc: 'The dragon exhales a shadowy maelstrom of anguish in a 60-foot cone. Each creature in that area makes a DC 20 Wisdom saving throw, taking 67 (15d8) necrotic damage and gaining a level of strife on a failed save or half damage on a success.' }
+'legendary actions':
+    - { name: 'The dragon can take 3 legendary actions, choosing from the options below', desc: "Only one legendary action can be used at a time and only at the end of another creature's turn. It regains spent legendary actions at the start of its turn." }
+    - { name: 'Corrupting Presence', desc: "Each creature of the dragon's choice within 120 feet and aware of it must succeed on a DC 16 Wisdom saving throw or gain a level of strife. Once a creature has passed or failed this saving throw, it is immune to the dragon's Corrupting Presence for the next 24 hours." }
+    - { name: Lurk, desc: "If the dragon is in dim light or darkness, it magically becomes invisible until it attacks, causes a creature to make a saving throw, or enters an area of bright light. It can't use this ability if it has taken radiant damage since the end of its last turn." }
+    - { name: 'Slip Through Shadows', desc: "If the dragon is in dim light or darkness, it magically teleports up to 45 feet to an unoccupied space that is also in dim light or darkness. The dragon can't use this ability if it has taken radiant damage since the end of its last turn." }
+    - { name: 'Horrid Whispers (Costs 2 Actions)', desc: 'A creature that can hear the dragon makes a DC 21 Wisdom saving throw. On a failure, the creature takes 13 (3d8) psychic damage, and the dragon regains the same number of hit points.' }
+combat:
+    - { name: 'While individual dragons have their own personalities and tactics, most rely heavily on their breath weapons', desc: 'They use them whenever they can, preferably from maximum distance and while flying above their enemies.' }
+    - { name: 'When fighting in the open, dragons often circle above their enemies as they wait for their breath weapons to recharge', desc: "They only close to melee if their enemies deal significant damage with ranged attacks, or if they can savage an enemy cut off from its allies. Once bloodied, dragons become more aggressive, attacking with bite and claws when their breath weapons aren't available." }
+    - { name: 'If a dragon is protecting its lair, it utilizes lair features, traps, allies, and architecture such as escape tunnels to keep up a hit-and-run fight, reappearing only when it has a fully-recharged breath weapon', desc: 'If the dragon is forced into melee combat, it uses its bite and claws against a single foe. If it has legendary actions like Roar and Wing Attack, it uses them to disperse its other enemies.' }
+    - { name: 'If reduced to less than one-fourth its hit points while fighting in the open, a dragon flies away', desc: 'However, it fights to the death to defend its lair, unless it can regain the upper hand through tricks or bargains.' }
