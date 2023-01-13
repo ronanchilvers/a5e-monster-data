@@ -6,7 +6,7 @@ use Ronanchilvers\Utility\Str;
 use Symfony\Component\Yaml\Yaml;
 
 $dataDir = "./data";
-$outputDir = "./yaml";
+$outputDir = "./markdown";
 
 $filename = null;
 if (isset($argv[1])) {
@@ -71,10 +71,11 @@ while ($entry = readdir($handle)) {
         echo sprintf("Item: %s\n", $item['title']);
         $content = $item["contents"];
 
-        $yamlFilename = Str::snake($item['title']) . ".yml";
+        $monsterName = $item['title'];
+        $mdFilename = Str::snake($monsterName) . ".md";
         $output = [
             'statblock' => true,
-            'name' => sprintf('%s - A5E', $item['title']),
+            'name' => sprintf('%s - A5E', $monsterName),
             'source' => 'Level Up: Monstrous Menagerie',
         ];
         $section = null;
@@ -103,6 +104,7 @@ while ($entry = readdir($handle)) {
 
                     switch ($label) {
 
+                        case "ac":
                         case "cr":
                             $value = explode(" ", strip_tags($value));
                             $output[strtolower($label)] = (int) $value[0];
@@ -112,7 +114,7 @@ while ($entry = readdir($handle)) {
                             list($hp, $hitDice) = explode("(", $value);
                             @list($hitDice, $bloodied) = explode(";", $hitDice);
                             $output["hp"] = (int) trim($hp);
-                            $output["hit_dice"] = (int) trim($hitDice);
+                            $output["hit_dice"] = trim($hitDice);
                             break;
 
                         case "saves":
@@ -192,10 +194,13 @@ while ($entry = readdir($handle)) {
             $output[$section] = $sectionData;
         }
     }
-    file_put_contents(
-        $outputDir . DIRECTORY_SEPARATOR . $yamlFilename,
-        "---\n" . Yaml::dump($output)
-    );
-    // @TODO Remove var_dump
-    // var_dump($data); exit();
+    $markdown = "---\n";
+    $markdown .= Yaml::dump($output) . "\n";
+    $markdown .= "---\n";
+    $markdown .= "```statblock\nmonster: {$monsterName} - A5E\n```\n";
+    $markdownPath = $outputDir . DIRECTORY_SEPARATOR . $mdFilename;
+    if (!file_put_contents($markdownPath, $markdown)) {
+        echo sprintf("Error: Unable to write markdown to %s\n", $markdownPath);
+        exit(1);
+    }
 }
