@@ -127,7 +127,7 @@ while ($entry = readdir($handle)) {
                                 if (isset($statLabels[$stat])) {
                                     $stat = $statLabels[$stat];
                                 }
-                                $value[$stat] = (int) $val;
+                                $value[] = [$stat => (int) $val];
                             }
                             $output[$label] = $value;
                             break;
