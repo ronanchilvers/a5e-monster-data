@@ -16,17 +16,18 @@ $labelDiscard = [
     "Proficiency Bonus",
 ];
 $labelTransform = [
-    "Armor Class"          => "ac",
-    "Hit Points"           => "hp",
-    "Movement"             => "speed",
-    "Challenge Rating"     => "cr",
-    "Abilities"            => "traits",
-    "Damage Immunities"    => "damage_immunities",
+    "Armor Class"           => "ac",
+    "Hit Points"            => "hp",
+    "Movement"              => "speed",
+    "Challenge Rating"      => "cr",
+    "Abilities"             => "traits",
+    "Damage Immunities"     => "damage_immunities",
     "Damage Resistances"    => "damage_resistances",
-    "Condition Immunities" => "condition_immunities",
+    "Condition Immunities"  => "condition_immunities",
     "Condition Resistances" => "condition_resistances",
     "Skills"                => 'skillsaves',
-    "Saves"                => 'saves',
+    "Saves"                 => 'saves',
+    "Legendary Actions"     => 'legendary_actions',
 ];
 $statLabels = [
     'str' => 'strength',
