@@ -2,6 +2,8 @@
 
 This repository contains the monster data from the Level Up Advanced 5th Edition Dungeons & Dragons game in markdown format as YAML frontmatter. The files are generated from [the monster card JSON files](https://www.enworld.org/resources/a5e-monster-card-json-files.1617/) created by [Thomas Stump](https://www.enworld.org/members/thomas-stump.6909139/). The processing is done by a simple (and slightly nasty) PHP script which parses the original JSON and produces markdown files, embedding the monster data as frontmatter using the [YAML format](https://github.com/valentine195/obsidian-5e-statblocks#full-example) supported by [Jeremy Valentine's](https://github.com/valentine195) excellent [Obsidian TTRPG Statblocks](https://github.com/valentine195/obsidian-5e-statblocks) plugin.
 
+The `markdown` directory contains the most recently generated files by me. You can grab a copy of them by [downloading the latest release](https://github.com/ronanchilvers/a5e-monster-data/releases).
+
 ## Processing the files
 
 You'll need PHP installed locally.
