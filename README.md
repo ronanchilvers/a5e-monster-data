@@ -9,7 +9,7 @@ You'll need PHP installed locally.
 - Clone this repository locally
 - Run `composer install` to pull in the requirements
 - Download the [latest data from the EN World resources page](https://www.enworld.org/resources/a5e-monster-card-json-files.1617/)
-- Unzip the data and copy the JSON files directly into the `data` directory. The files may unzip into a new directory - make sure you copy or move the JSON files themselves into data. Don't just move the unzipped directory.
+- Unzip the data and copy the JSON files directly into the `data` directory. The files may unzip into a new directory. Make sure you copy or move the JSON files themselves - don't just move the unzipped directory.
 - Run the script like this
 ```
 php process.php
