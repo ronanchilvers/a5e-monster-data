@@ -6,7 +6,7 @@ This repository contains the monster data from the Level Up Advanced 5th Edition
 
 - Download the 'Source code' bundle you prefer from the [latest release page](https://github.com/ronanchilvers/a5e-monster-data/releases). Both the `zip` and `tar.gz` contain the same data.
 - Unpack the archive you downloaded
-- Copy the files in the unpacked `markdown` folder into a subdirectory of your Obsidian vault, making sure that it is in a location that [TTRPG Statblocks is configured to look in for monster files](https://github.com/valentine195/obsidian-5e-statblocks#bestiary-folder).
+- Copy the unpacked `Level Up 5E Monster Data` folder into a subdirectory of your Obsidian vault, making sure that it is in a location that [TTRPG Statblocks is configured to look in for monster files](https://github.com/valentine195/obsidian-5e-statblocks#bestiary-folder).
 - Restart Obsidian
 
 The Level Up monsters should now be available as statblocks - **just make sure to add '- A5E' at the end of the name**:
@@ -38,5 +38,5 @@ You'll need PHP installed locally.
 ```
 php process.php
 ```
-- You should end up with a load of markdown files in the `markdown` directory
+- You should end up with a load of markdown files in the `Level Up 5E Monster Data` directory
 - Test them by copying them into your Obsidian vault and trying out a statblock
