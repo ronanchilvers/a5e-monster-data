@@ -6,7 +6,7 @@ use Ronanchilvers\Utility\Str;
 use Symfony\Component\Yaml\Yaml;
 
 $dataDir = "./data";
-$outputDir = "./markdown";
+$outputDir = "./Level Up 5E Monster Data";
 
 $filename = null;
 if (isset($argv[1])) {
