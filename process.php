@@ -60,7 +60,7 @@ while ($entry = readdir($handle)) {
         echo sprintf("Failed reading file: %s\n", $entry);
         continue;
     }
-    $json = utf8_encode($json); // Fix invalid encoding
+    $json = @utf8_encode($json); // Fix invalid encoding
     $json = str_replace(['', ' '], ["'", ""], $json);
     if (!$data = json_decode($json, true)) {
         echo sprintf("Failed decoding json: %s\n", $entry);
@@ -73,7 +73,9 @@ while ($entry = readdir($handle)) {
         $content = $item["contents"];
 
         $monsterName = $item['title'];
-        $mdFilename = Str::snake($monsterName) . ".md";
+        // $mdFilename = Str::snake($monsterName) . ".md";
+        $mdFilename = preg_replace('/[^A-z0-9\s]+]/', '', $monsterName) . ".md";
+        $mdFilename = preg_replace('/[\s]{2,}/', ' ', $mdFilename);
         $output = [
             'statblock' => true,
             'name' => sprintf('%s - A5E', $monsterName),
