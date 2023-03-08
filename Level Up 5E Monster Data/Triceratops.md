@@ -1,6 +1,6 @@
 ---
 statblock: true
-name: 'Triceratops - A5E'
+name: Triceratops
 source: 'Level Up: Monstrous Menagerie'
 size: Huge
 type: Beast
@@ -23,5 +23,5 @@ actions:
 
 ---
 ```statblock
-monster: Triceratops - A5E
+monster: Triceratops
 ```

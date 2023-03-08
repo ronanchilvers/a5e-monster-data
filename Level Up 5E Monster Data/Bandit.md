@@ -1,6 +1,6 @@
 ---
 statblock: true
-name: 'Bandit - A5E'
+name: Bandit
 source: 'Level Up: Monstrous Menagerie'
 size: Medium
 type: Humanoid
@@ -25,5 +25,5 @@ actions:
 
 ---
 ```statblock
-monster: Bandit - A5E
+monster: Bandit
 ```

@@ -1,6 +1,6 @@
 ---
 statblock: true
-name: 'Cockatrice - A5E'
+name: Cockatrice
 source: 'Level Up: Monstrous Menagerie'
 size: Small
 type: Monstrosity
@@ -26,5 +26,5 @@ combat:
 
 ---
 ```statblock
-monster: Cockatrice - A5E
+monster: Cockatrice
 ```

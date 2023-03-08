@@ -1,6 +1,6 @@
 ---
 statblock: true
-name: 'Killer Whale - A5E'
+name: 'Killer Whale'
 source: 'Level Up: Monstrous Menagerie'
 size: Huge
 type: Beast
@@ -26,5 +26,5 @@ actions:
 
 ---
 ```statblock
-monster: Killer Whale - A5E
+monster: Killer Whale
 ```

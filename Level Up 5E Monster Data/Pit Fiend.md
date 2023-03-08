@@ -1,6 +1,6 @@
 ---
 statblock: true
-name: 'Pit Fiend - A5E'
+name: 'Pit Fiend'
 source: 'Level Up: Monstrous Menagerie'
 size: Large
 type: Fiend
@@ -54,5 +54,5 @@ combat:
 
 ---
 ```statblock
-monster: Pit Fiend - A5E
+monster: Pit Fiend
 ```

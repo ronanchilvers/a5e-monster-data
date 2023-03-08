@@ -1,6 +1,6 @@
 ---
 statblock: true
-name: 'Kech - A5E'
+name: Kech
 source: 'Level Up: Monstrous Menagerie'
 size: Medium
 type: Humanoid
@@ -32,5 +32,5 @@ combat:
 
 ---
 ```statblock
-monster: Kech - A5E
+monster: Kech
 ```

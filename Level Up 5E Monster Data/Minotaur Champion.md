@@ -1,6 +1,6 @@
 ---
 statblock: true
-name: 'Minotaur Champion - A5E'
+name: 'Minotaur Champion'
 source: 'Level Up: Monstrous Menagerie'
 size: Huge
 type: Monstrosity
@@ -40,5 +40,5 @@ combat:
 
 ---
 ```statblock
-monster: Minotaur Champion - A5E
+monster: Minotaur Champion
 ```

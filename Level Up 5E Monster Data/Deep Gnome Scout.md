@@ -1,6 +1,6 @@
 ---
 statblock: true
-name: 'Deep Gnome Scout - A5E'
+name: 'Deep Gnome Scout'
 source: 'Level Up: Monstrous Menagerie'
 size: Medium
 type: Humanoid
@@ -37,5 +37,5 @@ actions:
 
 ---
 ```statblock
-monster: Deep Gnome Scout - A5E
+monster: Deep Gnome Scout
 ```

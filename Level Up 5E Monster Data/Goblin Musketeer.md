@@ -1,6 +1,6 @@
 ---
 statblock: true
-name: 'Goblin Musketeer - A5E'
+name: 'Goblin Musketeer'
 source: 'Level Up: Monstrous Menagerie'
 size: Small
 type: Humanoid
@@ -31,5 +31,5 @@ combat:
 
 ---
 ```statblock
-monster: Goblin Musketeer - A5E
+monster: Goblin Musketeer
 ```

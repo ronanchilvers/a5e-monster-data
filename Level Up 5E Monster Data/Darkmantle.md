@@ -1,6 +1,6 @@
 ---
 statblock: true
-name: 'Darkmantle - A5E'
+name: Darkmantle
 source: 'Level Up: Monstrous Menagerie'
 size: Small
 type: Monstrosity
@@ -29,5 +29,5 @@ combat:
 
 ---
 ```statblock
-monster: Darkmantle - A5E
+monster: Darkmantle
 ```

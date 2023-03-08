@@ -1,6 +1,6 @@
 ---
 statblock: true
-name: 'Phase Monster - A5E'
+name: 'Phase Monster'
 source: 'Level Up: Monstrous Menagerie'
 size: Large
 type: Monstrosity
@@ -36,5 +36,5 @@ combat:
 
 ---
 ```statblock
-monster: Phase Monster - A5E
+monster: Phase Monster
 ```

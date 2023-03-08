@@ -1,6 +1,6 @@
 ---
 statblock: true
-name: 'Cyclops Myrmidon - A5E'
+name: 'Cyclops Myrmidon'
 source: 'Level Up: Monstrous Menagerie'
 size: Huge
 type: Giant
@@ -37,5 +37,5 @@ combat:
 
 ---
 ```statblock
-monster: Cyclops Myrmidon - A5E
+monster: Cyclops Myrmidon
 ```

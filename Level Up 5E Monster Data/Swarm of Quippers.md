@@ -1,6 +1,6 @@
 ---
 statblock: true
-name: 'Swarm of Quippers - A5E'
+name: 'Swarm of Quippers'
 source: 'Level Up: Monstrous Menagerie'
 size: Medium
 type: Beast
@@ -27,5 +27,5 @@ actions:
 
 ---
 ```statblock
-monster: Swarm of Quippers - A5E
+monster: Swarm of Quippers
 ```

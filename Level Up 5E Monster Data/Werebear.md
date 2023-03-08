@@ -1,6 +1,6 @@
 ---
 statblock: true
-name: 'Werebear - A5E'
+name: Werebear
 source: 'Level Up: Monstrous Menagerie'
 size: Medium
 type: Humanoid
@@ -38,5 +38,5 @@ combat:
 
 ---
 ```statblock
-monster: Werebear - A5E
+monster: Werebear
 ```

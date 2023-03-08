@@ -1,6 +1,6 @@
 ---
 statblock: true
-name: 'High Priest - A5E'
+name: 'High Priest'
 source: 'Level Up: Monstrous Menagerie'
 size: Medium
 type: Humanoid
@@ -42,5 +42,5 @@ actions:
 
 ---
 ```statblock
-monster: High Priest - A5E
+monster: High Priest
 ```

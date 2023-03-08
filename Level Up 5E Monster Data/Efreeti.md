@@ -1,6 +1,6 @@
 ---
 statblock: true
-name: 'Efreeti - A5E'
+name: Efreeti
 source: 'Level Up: Monstrous Menagerie'
 size: Large
 type: Elemental
@@ -44,5 +44,5 @@ combat:
 
 ---
 ```statblock
-monster: Efreeti - A5E
+monster: Efreeti
 ```

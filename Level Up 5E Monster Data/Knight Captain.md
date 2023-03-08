@@ -1,6 +1,6 @@
 ---
 statblock: true
-name: 'Knight Captain - A5E'
+name: 'Knight Captain'
 source: 'Level Up: Monstrous Menagerie'
 size: Medium
 type: Humanoid
@@ -39,5 +39,5 @@ actions:
 
 ---
 ```statblock
-monster: Knight Captain - A5E
+monster: Knight Captain
 ```

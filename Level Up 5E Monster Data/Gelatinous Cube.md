@@ -1,6 +1,6 @@
 ---
 statblock: true
-name: 'Gelatinous Cube - A5E'
+name: 'Gelatinous Cube'
 source: 'Level Up: Monstrous Menagerie'
 size: Large
 type: Ooze
@@ -33,5 +33,5 @@ combat:
 
 ---
 ```statblock
-monster: Gelatinous Cube - A5E
+monster: Gelatinous Cube
 ```

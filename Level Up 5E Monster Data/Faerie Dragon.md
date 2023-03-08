@@ -1,6 +1,6 @@
 ---
 statblock: true
-name: 'Faerie Dragon - A5E'
+name: 'Faerie Dragon'
 source: 'Level Up: Monstrous Menagerie'
 size: Tiny
 type: Dragon
@@ -38,5 +38,5 @@ combat:
 
 ---
 ```statblock
-monster: Faerie Dragon - A5E
+monster: Faerie Dragon
 ```

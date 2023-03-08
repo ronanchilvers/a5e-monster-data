@@ -1,6 +1,6 @@
 ---
 statblock: true
-name: 'Otyugh - A5E'
+name: Otyugh
 source: 'Level Up: Monstrous Menagerie'
 size: Large
 type: Aberration
@@ -34,5 +34,5 @@ combat:
 
 ---
 ```statblock
-monster: Otyugh - A5E
+monster: Otyugh
 ```

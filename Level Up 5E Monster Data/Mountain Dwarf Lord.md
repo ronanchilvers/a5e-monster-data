@@ -1,6 +1,6 @@
 ---
 statblock: true
-name: 'Mountain Dwarf Lord - A5E'
+name: 'Mountain Dwarf Lord'
 source: 'Level Up: Monstrous Menagerie'
 size: Medium
 type: Humanoid
@@ -41,5 +41,5 @@ reactions:
 
 ---
 ```statblock
-monster: Mountain Dwarf Lord - A5E
+monster: Mountain Dwarf Lord
 ```

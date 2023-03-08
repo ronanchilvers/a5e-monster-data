@@ -1,6 +1,6 @@
 ---
 statblock: true
-name: 'Forest Gnome Illusionist - A5E'
+name: 'Forest Gnome Illusionist'
 source: 'Level Up: Monstrous Menagerie'
 size: Medium
 type: Humanoid
@@ -46,5 +46,5 @@ reactions:
 
 ---
 ```statblock
-monster: Forest Gnome Illusionist - A5E
+monster: Forest Gnome Illusionist
 ```

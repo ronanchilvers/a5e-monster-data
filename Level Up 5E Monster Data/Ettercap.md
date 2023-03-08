@@ -1,6 +1,6 @@
 ---
 statblock: true
-name: 'Ettercap - A5E'
+name: Ettercap
 source: 'Level Up: Monstrous Menagerie'
 size: Medium
 type: Monstrosity
@@ -41,5 +41,5 @@ combat:
 
 ---
 ```statblock
-monster: Ettercap - A5E
+monster: Ettercap
 ```

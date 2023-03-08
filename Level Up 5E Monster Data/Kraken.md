@@ -1,6 +1,6 @@
 ---
 statblock: true
-name: 'Kraken - A5E'
+name: Kraken
 source: 'Level Up: Monstrous Menagerie'
 size: Gargantuan
 type: Monstrosity
@@ -49,5 +49,5 @@ combat:
 
 ---
 ```statblock
-monster: Kraken - A5E
+monster: Kraken
 ```

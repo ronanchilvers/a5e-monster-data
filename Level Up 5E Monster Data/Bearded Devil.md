@@ -1,6 +1,6 @@
 ---
 statblock: true
-name: 'Bearded Devil - A5E'
+name: 'Bearded Devil'
 source: 'Level Up: Monstrous Menagerie'
 size: Medium
 type: Fiend
@@ -38,5 +38,5 @@ combat:
 
 ---
 ```statblock
-monster: Bearded Devil - A5E
+monster: Bearded Devil
 ```

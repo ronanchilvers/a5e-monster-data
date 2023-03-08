@@ -1,6 +1,6 @@
 ---
 statblock: true
-name: 'Bandit Captain - A5E'
+name: 'Bandit Captain'
 source: 'Level Up: Monstrous Menagerie'
 size: Medium
 type: Humanoid
@@ -37,5 +37,5 @@ reactions:
 
 ---
 ```statblock
-monster: Bandit Captain - A5E
+monster: Bandit Captain
 ```

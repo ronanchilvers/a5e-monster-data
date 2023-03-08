@@ -1,6 +1,6 @@
 ---
 statblock: true
-name: 'Death Dog - A5E'
+name: 'Death Dog'
 source: 'Level Up: Monstrous Menagerie'
 size: Medium
 type: Monstrosity
@@ -28,5 +28,5 @@ actions:
 
 ---
 ```statblock
-monster: Death Dog - A5E
+monster: Death Dog
 ```

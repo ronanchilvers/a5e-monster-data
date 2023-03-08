@@ -1,6 +1,6 @@
 ---
 statblock: true
-name: 'Flesh Guardian - A5E'
+name: 'Flesh Guardian'
 source: 'Level Up: Monstrous Menagerie'
 size: Medium
 type: Construct
@@ -38,5 +38,5 @@ combat:
 
 ---
 ```statblock
-monster: Flesh Guardian - A5E
+monster: Flesh Guardian
 ```

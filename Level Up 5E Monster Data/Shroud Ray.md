@@ -1,6 +1,6 @@
 ---
 statblock: true
-name: 'Shroud Ray - A5E'
+name: 'Shroud Ray'
 source: 'Level Up: Monstrous Menagerie'
 size: Large
 type: Aberration
@@ -41,5 +41,5 @@ combat:
 
 ---
 ```statblock
-monster: Shroud Ray - A5E
+monster: Shroud Ray
 ```

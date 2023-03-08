@@ -1,6 +1,6 @@
 ---
 statblock: true
-name: 'Arcane Blademaster - A5E'
+name: 'Arcane Blademaster'
 source: 'Level Up: Monstrous Menagerie'
 size: Medium
 type: Humanoid
@@ -49,5 +49,5 @@ actions:
 
 ---
 ```statblock
-monster: Arcane Blademaster - A5E
+monster: Arcane Blademaster
 ```

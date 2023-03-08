@@ -1,6 +1,6 @@
 ---
 statblock: true
-name: 'Skeleton Horde - A5E'
+name: 'Skeleton Horde'
 source: 'Level Up: Monstrous Menagerie'
 size: Large
 type: Undead
@@ -31,5 +31,5 @@ combat:
 
 ---
 ```statblock
-monster: Skeleton Horde - A5E
+monster: Skeleton Horde
 ```

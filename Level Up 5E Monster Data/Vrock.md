@@ -1,6 +1,6 @@
 ---
 statblock: true
-name: 'Vrock - A5E'
+name: Vrock
 source: 'Level Up: Monstrous Menagerie'
 size: Large
 type: Fiend
@@ -41,5 +41,5 @@ combat:
 
 ---
 ```statblock
-monster: Vrock - A5E
+monster: Vrock
 ```

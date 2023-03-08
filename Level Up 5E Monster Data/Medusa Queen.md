@@ -1,6 +1,6 @@
 ---
 statblock: true
-name: 'Medusa Queen - A5E'
+name: 'Medusa Queen'
 source: 'Level Up: Monstrous Menagerie'
 size: Medium
 type: Monstrosity
@@ -41,5 +41,5 @@ combat:
 
 ---
 ```statblock
-monster: Medusa Queen - A5E
+monster: Medusa Queen
 ```

@@ -1,6 +1,6 @@
 ---
 statblock: true
-name: 'Ettin - A5E'
+name: Ettin
 source: 'Level Up: Monstrous Menagerie'
 size: Large
 type: Giant
@@ -38,5 +38,5 @@ combat:
 
 ---
 ```statblock
-monster: Ettin - A5E
+monster: Ettin
 ```

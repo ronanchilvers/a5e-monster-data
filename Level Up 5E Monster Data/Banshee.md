@@ -1,6 +1,6 @@
 ---
 statblock: true
-name: 'Banshee - A5E'
+name: Banshee
 source: 'Level Up: Monstrous Menagerie'
 size: Medium
 type: Undead
@@ -39,5 +39,5 @@ combat:
 
 ---
 ```statblock
-monster: Banshee - A5E
+monster: Banshee
 ```

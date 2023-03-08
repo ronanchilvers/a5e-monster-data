@@ -1,6 +1,6 @@
 ---
 statblock: true
-name: 'Titanic Kraken - A5E'
+name: 'Titanic Kraken'
 source: 'Level Up: Monstrous Menagerie'
 size: Titanic
 type: Monstrosity
@@ -55,5 +55,5 @@ combat:
 
 ---
 ```statblock
-monster: Titanic Kraken - A5E
+monster: Titanic Kraken
 ```

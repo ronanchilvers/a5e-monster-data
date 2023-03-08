@@ -1,6 +1,6 @@
 ---
 statblock: true
-name: 'Yobbo - A5E'
+name: Yobbo
 source: 'Level Up: Monstrous Menagerie'
 size: Small
 type: Humanoid
@@ -32,5 +32,5 @@ combat:
 
 ---
 ```statblock
-monster: Yobbo - A5E
+monster: Yobbo
 ```

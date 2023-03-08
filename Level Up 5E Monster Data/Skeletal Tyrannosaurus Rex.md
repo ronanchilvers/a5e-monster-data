@@ -1,6 +1,6 @@
 ---
 statblock: true
-name: 'Skeletal Tyrannosaurus Rex - A5E'
+name: 'Skeletal Tyrannosaurus Rex'
 source: 'Level Up: Monstrous Menagerie'
 size: Huge
 type: Undead
@@ -31,5 +31,5 @@ combat:
 
 ---
 ```statblock
-monster: Skeletal Tyrannosaurus Rex - A5E
+monster: Skeletal Tyrannosaurus Rex
 ```

@@ -1,6 +1,6 @@
 ---
 statblock: true
-name: 'Abominable Snowman - A5E'
+name: 'Abominable Snowman'
 source: 'Level Up: Monstrous Menagerie'
 size: Large
 type: Monstrosity
@@ -41,5 +41,5 @@ combat:
 
 ---
 ```statblock
-monster: Abominable Snowman - A5E
+monster: Abominable Snowman
 ```

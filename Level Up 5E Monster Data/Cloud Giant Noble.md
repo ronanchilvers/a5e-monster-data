@@ -1,6 +1,6 @@
 ---
 statblock: true
-name: 'Cloud Giant Noble - A5E'
+name: 'Cloud Giant Noble'
 source: 'Level Up: Monstrous Menagerie'
 size: Huge
 type: Giant
@@ -50,5 +50,5 @@ combat:
 
 ---
 ```statblock
-monster: Cloud Giant Noble - A5E
+monster: Cloud Giant Noble
 ```

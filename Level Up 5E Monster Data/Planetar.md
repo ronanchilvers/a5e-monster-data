@@ -1,6 +1,6 @@
 ---
 statblock: true
-name: 'Planetar - A5E'
+name: Planetar
 source: 'Level Up: Monstrous Menagerie'
 size: Large
 type: Celestial
@@ -52,5 +52,5 @@ combat:
 
 ---
 ```statblock
-monster: Planetar - A5E
+monster: Planetar
 ```

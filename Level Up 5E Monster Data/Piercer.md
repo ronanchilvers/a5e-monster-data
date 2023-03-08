@@ -1,6 +1,6 @@
 ---
 statblock: true
-name: 'Piercer - A5E'
+name: Piercer
 source: 'Level Up: Monstrous Menagerie'
 size: Small
 type: Monstrosity
@@ -26,5 +26,5 @@ combat:
 
 ---
 ```statblock
-monster: Piercer - A5E
+monster: Piercer
 ```

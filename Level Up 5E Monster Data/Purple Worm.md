@@ -1,6 +1,6 @@
 ---
 statblock: true
-name: 'Purple Worm - A5E'
+name: 'Purple Worm'
 source: 'Level Up: Monstrous Menagerie'
 size: Gargantuan
 type: Monstrosity
@@ -37,5 +37,5 @@ combat:
 
 ---
 ```statblock
-monster: Purple Worm - A5E
+monster: Purple Worm
 ```

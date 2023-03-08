@@ -1,6 +1,6 @@
 ---
 statblock: true
-name: 'Roc Juvenile - A5E'
+name: 'Roc Juvenile'
 source: 'Level Up: Monstrous Menagerie'
 size: Huge
 type: Beast
@@ -33,5 +33,5 @@ reactions:
 
 ---
 ```statblock
-monster: Roc Juvenile - A5E
+monster: Roc Juvenile
 ```

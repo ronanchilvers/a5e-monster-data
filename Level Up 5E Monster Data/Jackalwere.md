@@ -1,6 +1,6 @@
 ---
 statblock: true
-name: 'Jackalwere - A5E'
+name: Jackalwere
 source: 'Level Up: Monstrous Menagerie'
 size: Medium
 type: Fiend
@@ -40,5 +40,5 @@ combat:
 
 ---
 ```statblock
-monster: Jackalwere - A5E
+monster: Jackalwere
 ```

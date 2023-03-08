@@ -1,6 +1,6 @@
 ---
 statblock: true
-name: 'Gnoll Demonfang - A5E'
+name: 'Gnoll Demonfang'
 source: 'Level Up: Monstrous Menagerie'
 size: Medium
 type: Humanoid
@@ -34,5 +34,5 @@ combat:
 
 ---
 ```statblock
-monster: Gnoll Demonfang - A5E
+monster: Gnoll Demonfang
 ```

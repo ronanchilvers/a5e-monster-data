@@ -1,6 +1,6 @@
 ---
 statblock: true
-name: 'Dretch - A5E'
+name: Dretch
 source: 'Level Up: Monstrous Menagerie'
 size: Small
 type: Fiend
@@ -31,5 +31,5 @@ combat:
 
 ---
 ```statblock
-monster: Dretch - A5E
+monster: Dretch
 ```

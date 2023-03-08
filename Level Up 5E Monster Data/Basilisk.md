@@ -1,6 +1,6 @@
 ---
 statblock: true
-name: 'Basilisk - A5E'
+name: Basilisk
 source: 'Level Up: Monstrous Menagerie'
 size: Medium
 type: Monstrosity
@@ -27,5 +27,5 @@ combat:
 
 ---
 ```statblock
-monster: Basilisk - A5E
+monster: Basilisk
 ```

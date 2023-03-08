@@ -1,6 +1,6 @@
 ---
 statblock: true
-name: 'Young Bronze Dragon - A5E'
+name: 'Young Bronze Dragon'
 source: 'Level Up: Monstrous Menagerie'
 size: Large
 type: Dragon
@@ -59,5 +59,5 @@ combat:
 
 ---
 ```statblock
-monster: Young Bronze Dragon - A5E
+monster: Young Bronze Dragon
 ```

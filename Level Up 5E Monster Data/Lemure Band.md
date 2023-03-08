@@ -1,6 +1,6 @@
 ---
 statblock: true
-name: 'Lemure Band - A5E'
+name: 'Lemure Band'
 source: 'Level Up: Monstrous Menagerie'
 size: Large
 type: Fiend
@@ -35,5 +35,5 @@ combat:
 
 ---
 ```statblock
-monster: Lemure Band - A5E
+monster: Lemure Band
 ```

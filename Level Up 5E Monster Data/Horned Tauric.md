@@ -1,6 +1,6 @@
 ---
 statblock: true
-name: 'Horned Tauric - A5E'
+name: 'Horned Tauric'
 source: 'Level Up: Monstrous Menagerie'
 size: Large
 type: Fey
@@ -33,5 +33,5 @@ combat:
 
 ---
 ```statblock
-monster: Horned Tauric - A5E
+monster: Horned Tauric
 ```

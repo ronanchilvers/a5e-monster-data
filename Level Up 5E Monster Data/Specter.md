@@ -1,6 +1,6 @@
 ---
 statblock: true
-name: 'Specter - A5E'
+name: Specter
 source: 'Level Up: Monstrous Menagerie'
 size: Medium
 type: Undead
@@ -34,5 +34,5 @@ combat:
 
 ---
 ```statblock
-monster: Specter - A5E
+monster: Specter
 ```

@@ -1,6 +1,6 @@
 ---
 statblock: true
-name: 'Adult River Dragon - A5E'
+name: 'Adult River Dragon'
 source: 'Level Up: Monstrous Menagerie'
 size: Huge
 type: Dragon
@@ -64,5 +64,5 @@ combat:
 
 ---
 ```statblock
-monster: Adult River Dragon - A5E
+monster: Adult River Dragon
 ```

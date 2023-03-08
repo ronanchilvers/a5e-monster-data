@@ -1,6 +1,6 @@
 ---
 statblock: true
-name: 'Khalkos - A5E'
+name: Khalkos
 source: 'Level Up: Monstrous Menagerie'
 size: Medium
 type: Aberration
@@ -48,5 +48,5 @@ combat:
 
 ---
 ```statblock
-monster: Khalkos - A5E
+monster: Khalkos
 ```

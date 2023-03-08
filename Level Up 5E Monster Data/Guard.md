@@ -1,6 +1,6 @@
 ---
 statblock: true
-name: 'Guard - A5E'
+name: Guard
 source: 'Level Up: Monstrous Menagerie'
 size: Medium
 type: Humanoid
@@ -26,5 +26,5 @@ actions:
 
 ---
 ```statblock
-monster: Guard - A5E
+monster: Guard
 ```

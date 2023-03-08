@@ -1,6 +1,6 @@
 ---
 statblock: true
-name: 'Demilich - A5E'
+name: Demilich
 source: 'Level Up: Monstrous Menagerie'
 size: Tiny
 type: Undead
@@ -48,5 +48,5 @@ combat:
 
 ---
 ```statblock
-monster: Demilich - A5E
+monster: Demilich
 ```

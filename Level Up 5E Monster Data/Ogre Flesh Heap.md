@@ -1,6 +1,6 @@
 ---
 statblock: true
-name: 'Ogre Flesh Heap - A5E'
+name: 'Ogre Flesh Heap'
 source: 'Level Up: Monstrous Menagerie'
 size: Large
 type: Undead
@@ -34,5 +34,5 @@ reactions:
 
 ---
 ```statblock
-monster: Ogre Flesh Heap - A5E
+monster: Ogre Flesh Heap
 ```

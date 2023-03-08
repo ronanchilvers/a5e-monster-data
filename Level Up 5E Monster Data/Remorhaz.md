@@ -1,6 +1,6 @@
 ---
 statblock: true
-name: 'Remorhaz - A5E'
+name: Remorhaz
 source: 'Level Up: Monstrous Menagerie'
 size: Huge
 type: Monstrosity
@@ -33,5 +33,5 @@ combat:
 
 ---
 ```statblock
-monster: Remorhaz - A5E
+monster: Remorhaz
 ```

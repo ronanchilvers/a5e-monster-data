@@ -1,6 +1,6 @@
 ---
 statblock: true
-name: 'Fire Giant - A5E'
+name: 'Fire Giant'
 source: 'Level Up: Monstrous Menagerie'
 size: Huge
 type: Giant
@@ -42,5 +42,5 @@ combat:
 
 ---
 ```statblock
-monster: Fire Giant - A5E
+monster: Fire Giant
 ```

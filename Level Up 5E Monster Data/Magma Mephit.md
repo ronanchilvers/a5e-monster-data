@@ -1,6 +1,6 @@
 ---
 statblock: true
-name: 'Magma Mephit - A5E'
+name: 'Magma Mephit'
 source: 'Level Up: Monstrous Menagerie'
 size: Small
 type: Elemental
@@ -37,5 +37,5 @@ combat:
 
 ---
 ```statblock
-monster: Magma Mephit - A5E
+monster: Magma Mephit
 ```

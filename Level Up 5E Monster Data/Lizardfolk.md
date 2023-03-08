@@ -1,6 +1,6 @@
 ---
 statblock: true
-name: 'Lizardfolk - A5E'
+name: Lizardfolk
 source: 'Level Up: Monstrous Menagerie'
 size: Medium
 type: Humanoid
@@ -35,5 +35,5 @@ combat:
 
 ---
 ```statblock
-monster: Lizardfolk - A5E
+monster: Lizardfolk
 ```

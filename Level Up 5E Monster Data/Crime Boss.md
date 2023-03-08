@@ -1,6 +1,6 @@
 ---
 statblock: true
-name: 'Crime Boss - A5E'
+name: 'Crime Boss'
 source: 'Level Up: Monstrous Menagerie'
 size: Medium
 type: Humanoid
@@ -37,5 +37,5 @@ reactions:
 
 ---
 ```statblock
-monster: Crime Boss - A5E
+monster: Crime Boss
 ```

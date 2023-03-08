@@ -1,6 +1,6 @@
 ---
 statblock: true
-name: 'Giant Hyena - A5E'
+name: 'Giant Hyena'
 source: 'Level Up: Monstrous Menagerie'
 size: Large
 type: Beast
@@ -24,5 +24,5 @@ actions:
 
 ---
 ```statblock
-monster: Giant Hyena - A5E
+monster: Giant Hyena
 ```

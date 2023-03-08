@@ -1,6 +1,6 @@
 ---
 statblock: true
-name: 'Faerie Eater Troll - A5E'
+name: 'Faerie Eater Troll'
 source: 'Level Up: Monstrous Menagerie'
 size: Large
 type: Giant
@@ -37,5 +37,5 @@ combat:
 
 ---
 ```statblock
-monster: Faerie Eater Troll - A5E
+monster: Faerie Eater Troll
 ```

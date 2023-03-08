@@ -1,6 +1,6 @@
 ---
 statblock: true
-name: 'Phase Spider - A5E'
+name: 'Phase Spider'
 source: 'Level Up: Monstrous Menagerie'
 size: Large
 type: Monstrosity
@@ -30,5 +30,5 @@ actions:
 
 ---
 ```statblock
-monster: Phase Spider - A5E
+monster: Phase Spider
 ```

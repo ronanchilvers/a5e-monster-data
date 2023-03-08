@@ -1,6 +1,6 @@
 ---
 statblock: true
-name: 'Intellect Devourer - A5E'
+name: 'Intellect Devourer'
 source: 'Level Up: Monstrous Menagerie'
 size: Tiny
 type: Aberration
@@ -36,5 +36,5 @@ combat:
 
 ---
 ```statblock
-monster: Intellect Devourer - A5E
+monster: Intellect Devourer
 ```

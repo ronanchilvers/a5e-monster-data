@@ -1,6 +1,6 @@
 ---
 statblock: true
-name: 'Alchemist - A5E'
+name: Alchemist
 source: 'Level Up: Monstrous Menagerie'
 size: Medium
 type: Humanoid
@@ -49,5 +49,5 @@ reactions:
 
 ---
 ```statblock
-monster: Alchemist - A5E
+monster: Alchemist
 ```

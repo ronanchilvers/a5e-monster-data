@@ -1,6 +1,6 @@
 ---
 statblock: true
-name: 'Tarrasque - A5E'
+name: Tarrasque
 source: 'Level Up: Monstrous Menagerie'
 size: Titanic
 type: Monstrosity
@@ -57,5 +57,5 @@ combat:
 
 ---
 ```statblock
-monster: Tarrasque - A5E
+monster: Tarrasque
 ```

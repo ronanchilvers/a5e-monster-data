@@ -78,7 +78,7 @@ while ($entry = readdir($handle)) {
         $mdFilename = preg_replace('/[\s]{2,}/', ' ', $mdFilename);
         $output = [
             'statblock' => true,
-            'name' => sprintf('%s - A5E', $monsterName),
+            'name' => sprintf('%s', $monsterName),
             'source' => 'Level Up: Monstrous Menagerie',
         ];
         $section = null;
@@ -200,7 +200,7 @@ while ($entry = readdir($handle)) {
     $markdown = "---\n";
     $markdown .= Yaml::dump($output) . "\n";
     $markdown .= "---\n";
-    $markdown .= "```statblock\nmonster: {$monsterName} - A5E\n```\n";
+    $markdown .= "```statblock\nmonster: {$monsterName}\n```\n";
     $markdownPath = $outputDir . DIRECTORY_SEPARATOR . $mdFilename;
     if (!file_put_contents($markdownPath, $markdown)) {
         echo sprintf("Error: Unable to write markdown to %s\n", $markdownPath);

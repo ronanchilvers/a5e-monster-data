@@ -1,6 +1,6 @@
 ---
 statblock: true
-name: 'Animated Armor - A5E'
+name: 'Animated Armor'
 source: 'Level Up: Monstrous Menagerie'
 size: Medium
 type: Construct
@@ -30,5 +30,5 @@ combat:
 
 ---
 ```statblock
-monster: Animated Armor - A5E
+monster: Animated Armor
 ```

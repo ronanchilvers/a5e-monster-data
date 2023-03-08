@@ -1,6 +1,6 @@
 ---
 statblock: true
-name: 'Half-Shadow Dragon Assassin - A5E'
+name: 'Half-Shadow Dragon Assassin'
 source: 'Level Up: Monstrous Menagerie'
 size: Medium
 type: Humanoid
@@ -43,5 +43,5 @@ actions:
 
 ---
 ```statblock
-monster: Half-Shadow Dragon Assassin - A5E
+monster: Half-Shadow Dragon Assassin
 ```

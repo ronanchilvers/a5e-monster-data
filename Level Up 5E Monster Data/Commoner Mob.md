@@ -1,6 +1,6 @@
 ---
 statblock: true
-name: 'Commoner Mob - A5E'
+name: 'Commoner Mob'
 source: 'Level Up: Monstrous Menagerie'
 size: Huge
 type: Humanoid
@@ -29,5 +29,5 @@ actions:
 
 ---
 ```statblock
-monster: Commoner Mob - A5E
+monster: Commoner Mob
 ```

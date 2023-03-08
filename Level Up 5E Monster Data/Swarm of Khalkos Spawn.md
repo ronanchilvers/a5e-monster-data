@@ -1,6 +1,6 @@
 ---
 statblock: true
-name: 'Swarm of Khalkos Spawn - A5E'
+name: 'Swarm of Khalkos Spawn'
 source: 'Level Up: Monstrous Menagerie'
 size: Medium
 type: Aberration
@@ -36,5 +36,5 @@ combat:
 
 ---
 ```statblock
-monster: Swarm of Khalkos Spawn - A5E
+monster: Swarm of Khalkos Spawn
 ```

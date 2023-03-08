@@ -1,6 +1,6 @@
 ---
 statblock: true
-name: 'Kobold Broodguard Dragon Servitor - A5E'
+name: 'Kobold Broodguard Dragon Servitor'
 source: 'Level Up: Monstrous Menagerie'
 size: Small
 type: Humanoid
@@ -34,5 +34,5 @@ reactions:
 
 ---
 ```statblock
-monster: Kobold Broodguard Dragon Servitor - A5E
+monster: Kobold Broodguard Dragon Servitor
 ```

@@ -1,6 +1,6 @@
 ---
 statblock: true
-name: 'Magmin - A5E'
+name: Magmin
 source: 'Level Up: Monstrous Menagerie'
 size: Small
 type: Elemental
@@ -32,5 +32,5 @@ combat:
 
 ---
 ```statblock
-monster: Magmin - A5E
+monster: Magmin
 ```

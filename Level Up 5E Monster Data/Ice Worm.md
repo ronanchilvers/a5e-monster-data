@@ -1,6 +1,6 @@
 ---
 statblock: true
-name: 'Ice Worm - A5E'
+name: 'Ice Worm'
 source: 'Level Up: Monstrous Menagerie'
 size: Gargantuan
 type: Monstrosity
@@ -38,5 +38,5 @@ combat:
 
 ---
 ```statblock
-monster: Ice Worm - A5E
+monster: Ice Worm
 ```

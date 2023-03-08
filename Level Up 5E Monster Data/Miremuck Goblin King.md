@@ -1,6 +1,6 @@
 ---
 statblock: true
-name: 'Miremuck Goblin King - A5E'
+name: 'Miremuck Goblin King'
 source: 'Level Up: Monstrous Menagerie'
 size: Medium
 type: Humanoid
@@ -34,5 +34,5 @@ combat:
 
 ---
 ```statblock
-monster: Miremuck Goblin King - A5E
+monster: Miremuck Goblin King
 ```

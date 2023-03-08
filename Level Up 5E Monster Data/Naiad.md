@@ -1,6 +1,6 @@
 ---
 statblock: true
-name: 'Naiad - A5E'
+name: Naiad
 source: 'Level Up: Monstrous Menagerie'
 size: Medium
 type: Fey
@@ -35,5 +35,5 @@ combat:
 
 ---
 ```statblock
-monster: Naiad - A5E
+monster: Naiad
 ```

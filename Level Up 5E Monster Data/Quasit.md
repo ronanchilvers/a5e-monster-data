@@ -1,6 +1,6 @@
 ---
 statblock: true
-name: 'Quasit - A5E'
+name: Quasit
 source: 'Level Up: Monstrous Menagerie'
 size: Tiny
 type: Fiend
@@ -37,5 +37,5 @@ combat:
 
 ---
 ```statblock
-monster: Quasit - A5E
+monster: Quasit
 ```

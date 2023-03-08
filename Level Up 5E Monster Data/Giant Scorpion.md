@@ -1,6 +1,6 @@
 ---
 statblock: true
-name: 'Giant Scorpion - A5E'
+name: 'Giant Scorpion'
 source: 'Level Up: Monstrous Menagerie'
 size: Large
 type: Beast
@@ -24,5 +24,5 @@ actions:
 
 ---
 ```statblock
-monster: Giant Scorpion - A5E
+monster: Giant Scorpion
 ```

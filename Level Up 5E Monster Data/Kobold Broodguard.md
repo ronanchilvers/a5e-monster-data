@@ -1,6 +1,6 @@
 ---
 statblock: true
-name: 'Kobold Broodguard - A5E'
+name: 'Kobold Broodguard'
 source: 'Level Up: Monstrous Menagerie'
 size: Small
 type: Humanoid
@@ -31,5 +31,5 @@ reactions:
 
 ---
 ```statblock
-monster: Kobold Broodguard - A5E
+monster: Kobold Broodguard
 ```

@@ -1,6 +1,6 @@
 ---
 statblock: true
-name: 'Lacedon - A5E'
+name: Lacedon
 source: 'Level Up: Monstrous Menagerie'
 size: Medium
 type: Undead
@@ -32,5 +32,5 @@ combat:
 
 ---
 ```statblock
-monster: Lacedon - A5E
+monster: Lacedon
 ```

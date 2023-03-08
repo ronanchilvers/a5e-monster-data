@@ -1,6 +1,6 @@
 ---
 statblock: true
-name: 'Bugbear - A5E'
+name: Bugbear
 source: 'Level Up: Monstrous Menagerie'
 size: Medium
 type: Humanoid
@@ -33,5 +33,5 @@ combat:
 
 ---
 ```statblock
-monster: Bugbear - A5E
+monster: Bugbear
 ```

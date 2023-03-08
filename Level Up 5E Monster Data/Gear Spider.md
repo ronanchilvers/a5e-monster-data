@@ -1,6 +1,6 @@
 ---
 statblock: true
-name: 'Gear Spider - A5E'
+name: 'Gear Spider'
 source: 'Level Up: Monstrous Menagerie'
 size: Tiny
 type: Construct
@@ -35,5 +35,5 @@ combat:
 
 ---
 ```statblock
-monster: Gear Spider - A5E
+monster: Gear Spider
 ```

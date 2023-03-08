@@ -1,6 +1,6 @@
 ---
 statblock: true
-name: 'Kobold - A5E'
+name: Kobold
 source: 'Level Up: Monstrous Menagerie'
 size: Small
 type: Humanoid
@@ -27,5 +27,5 @@ actions:
 
 ---
 ```statblock
-monster: Kobold - A5E
+monster: Kobold
 ```

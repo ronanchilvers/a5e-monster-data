@@ -1,6 +1,6 @@
 ---
 statblock: true
-name: 'Pirate Captain - A5E'
+name: 'Pirate Captain'
 source: 'Level Up: Monstrous Menagerie'
 size: Medium
 type: Humanoid
@@ -40,5 +40,5 @@ reactions:
 
 ---
 ```statblock
-monster: Pirate Captain - A5E
+monster: Pirate Captain
 ```

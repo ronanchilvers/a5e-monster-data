@@ -1,6 +1,6 @@
 ---
 statblock: true
-name: 'Water Elemental - A5E'
+name: 'Water Elemental'
 source: 'Level Up: Monstrous Menagerie'
 size: Large
 type: Elemental
@@ -34,5 +34,5 @@ combat:
 
 ---
 ```statblock
-monster: Water Elemental - A5E
+monster: Water Elemental
 ```

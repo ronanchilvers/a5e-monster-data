@@ -1,6 +1,6 @@
 ---
 statblock: true
-name: 'Fomorian - A5E'
+name: Fomorian
 source: 'Level Up: Monstrous Menagerie'
 size: Huge
 type: Fey
@@ -36,5 +36,5 @@ combat:
 
 ---
 ```statblock
-monster: Fomorian - A5E
+monster: Fomorian
 ```

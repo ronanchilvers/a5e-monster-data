@@ -1,6 +1,6 @@
 ---
 statblock: true
-name: 'Revenant - A5E'
+name: Revenant
 source: 'Level Up: Monstrous Menagerie'
 size: Medium
 type: Undead
@@ -40,5 +40,5 @@ combat:
 
 ---
 ```statblock
-monster: Revenant - A5E
+monster: Revenant
 ```

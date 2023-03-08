@@ -1,6 +1,6 @@
 ---
 statblock: true
-name: 'Walking Statue - A5E'
+name: 'Walking Statue'
 source: 'Level Up: Monstrous Menagerie'
 size: Large
 type: Construct
@@ -31,5 +31,5 @@ combat:
 
 ---
 ```statblock
-monster: Walking Statue - A5E
+monster: Walking Statue
 ```

@@ -1,6 +1,6 @@
 ---
 statblock: true
-name: 'Vampire Spawn - A5E'
+name: 'Vampire Spawn'
 source: 'Level Up: Monstrous Menagerie'
 size: Medium
 type: Undead
@@ -41,5 +41,5 @@ combat:
 
 ---
 ```statblock
-monster: Vampire Spawn - A5E
+monster: Vampire Spawn
 ```

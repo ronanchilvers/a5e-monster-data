@@ -1,6 +1,6 @@
 ---
 statblock: true
-name: "Will-o'-Wisp - A5E"
+name: "Will-o'-Wisp"
 source: 'Level Up: Monstrous Menagerie'
 size: Small
 type: Undead
@@ -35,5 +35,5 @@ combat:
 
 ---
 ```statblock
-monster: Will-o'-Wisp - A5E
+monster: Will-o'-Wisp
 ```

@@ -1,6 +1,6 @@
 ---
 statblock: true
-name: 'Divi - A5E'
+name: Divi
 source: 'Level Up: Monstrous Menagerie'
 size: Large
 type: Elemental
@@ -47,5 +47,5 @@ combat:
 
 ---
 ```statblock
-monster: Divi - A5E
+monster: Divi
 ```

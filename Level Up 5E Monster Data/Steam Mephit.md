@@ -1,6 +1,6 @@
 ---
 statblock: true
-name: 'Steam Mephit - A5E'
+name: 'Steam Mephit'
 source: 'Level Up: Monstrous Menagerie'
 size: Small
 type: Elemental
@@ -32,5 +32,5 @@ combat:
 
 ---
 ```statblock
-monster: Steam Mephit - A5E
+monster: Steam Mephit
 ```

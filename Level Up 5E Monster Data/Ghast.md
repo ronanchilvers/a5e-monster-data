@@ -1,6 +1,6 @@
 ---
 statblock: true
-name: 'Ghast - A5E'
+name: Ghast
 source: 'Level Up: Monstrous Menagerie'
 size: Medium
 type: Undead
@@ -33,5 +33,5 @@ combat:
 
 ---
 ```statblock
-monster: Ghast - A5E
+monster: Ghast
 ```

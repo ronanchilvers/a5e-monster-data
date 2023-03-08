@@ -1,6 +1,6 @@
 ---
 statblock: true
-name: 'Saber-Toothed Tiger - A5E'
+name: 'Saber-Toothed Tiger'
 source: 'Level Up: Monstrous Menagerie'
 size: Large
 type: Beast
@@ -30,5 +30,5 @@ actions:
 
 ---
 ```statblock
-monster: Saber-Toothed Tiger - A5E
+monster: Saber-Toothed Tiger
 ```

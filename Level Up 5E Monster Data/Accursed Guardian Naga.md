@@ -1,6 +1,6 @@
 ---
 statblock: true
-name: 'Accursed Guardian Naga - A5E'
+name: 'Accursed Guardian Naga'
 source: 'Level Up: Monstrous Menagerie'
 size: Large
 type: Monstrosity
@@ -47,5 +47,5 @@ combat:
 
 ---
 ```statblock
-monster: Accursed Guardian Naga - A5E
+monster: Accursed Guardian Naga
 ```

@@ -1,6 +1,6 @@
 ---
 statblock: true
-name: 'Flumph - A5E'
+name: Flumph
 source: 'Level Up: Monstrous Menagerie'
 size: Small
 type: Aberration
@@ -32,5 +32,5 @@ combat:
 
 ---
 ```statblock
-monster: Flumph - A5E
+monster: Flumph
 ```

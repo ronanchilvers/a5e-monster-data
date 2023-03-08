@@ -1,6 +1,6 @@
 ---
 statblock: true
-name: 'Boggard - A5E'
+name: Boggard
 source: 'Level Up: Monstrous Menagerie'
 size: Medium
 type: Humanoid
@@ -33,5 +33,5 @@ combat:
 
 ---
 ```statblock
-monster: Boggard - A5E
+monster: Boggard
 ```

@@ -1,6 +1,6 @@
 ---
 statblock: true
-name: 'Skeletal Champion - A5E'
+name: 'Skeletal Champion'
 source: 'Level Up: Monstrous Menagerie'
 size: Medium
 type: Undead
@@ -38,5 +38,5 @@ combat:
 
 ---
 ```statblock
-monster: Skeletal Champion - A5E
+monster: Skeletal Champion
 ```

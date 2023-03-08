@@ -1,6 +1,6 @@
 ---
 statblock: true
-name: 'Dread Knight Champion - A5E'
+name: 'Dread Knight Champion'
 source: 'Level Up: Monstrous Menagerie'
 size: Medium
 type: Undead
@@ -49,5 +49,5 @@ combat:
 
 ---
 ```statblock
-monster: Dread Knight Champion - A5E
+monster: Dread Knight Champion
 ```

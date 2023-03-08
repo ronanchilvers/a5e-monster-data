@@ -1,6 +1,6 @@
 ---
 statblock: true
-name: 'Rug of Smothering - A5E'
+name: 'Rug of Smothering'
 source: 'Level Up: Monstrous Menagerie'
 size: Large
 type: Construct
@@ -33,5 +33,5 @@ combat:
 
 ---
 ```statblock
-monster: Rug of Smothering - A5E
+monster: Rug of Smothering
 ```

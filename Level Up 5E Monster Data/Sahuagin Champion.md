@@ -1,6 +1,6 @@
 ---
 statblock: true
-name: 'Sahuagin Champion - A5E'
+name: 'Sahuagin Champion'
 source: 'Level Up: Monstrous Menagerie'
 size: Medium
 type: Humanoid
@@ -44,5 +44,5 @@ combat:
 
 ---
 ```statblock
-monster: Sahuagin Champion - A5E
+monster: Sahuagin Champion
 ```

@@ -1,6 +1,6 @@
 ---
 statblock: true
-name: 'Crusher - A5E'
+name: Crusher
 source: 'Level Up: Monstrous Menagerie'
 size: Large
 type: Construct
@@ -34,5 +34,5 @@ combat:
 
 ---
 ```statblock
-monster: Crusher - A5E
+monster: Crusher
 ```

@@ -1,6 +1,6 @@
 ---
 statblock: true
-name: 'Scrag - A5E'
+name: Scrag
 source: 'Level Up: Monstrous Menagerie'
 size: Large
 type: Giant
@@ -36,5 +36,5 @@ combat:
 
 ---
 ```statblock
-monster: Scrag - A5E
+monster: Scrag
 ```

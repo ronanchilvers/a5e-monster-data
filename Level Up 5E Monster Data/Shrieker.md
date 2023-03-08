@@ -1,6 +1,6 @@
 ---
 statblock: true
-name: 'Shrieker - A5E'
+name: Shrieker
 source: 'Level Up: Monstrous Menagerie'
 size: Medium
 type: Plant
@@ -28,5 +28,5 @@ combat:
 
 ---
 ```statblock
-monster: Shrieker - A5E
+monster: Shrieker
 ```

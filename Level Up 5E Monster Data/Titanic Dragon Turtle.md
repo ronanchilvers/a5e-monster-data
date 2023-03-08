@@ -1,6 +1,6 @@
 ---
 statblock: true
-name: 'Titanic Dragon Turtle - A5E'
+name: 'Titanic Dragon Turtle'
 source: 'Level Up: Monstrous Menagerie'
 size: Titanic
 type: Dragon
@@ -55,5 +55,5 @@ combat:
 
 ---
 ```statblock
-monster: Titanic Dragon Turtle - A5E
+monster: Titanic Dragon Turtle
 ```

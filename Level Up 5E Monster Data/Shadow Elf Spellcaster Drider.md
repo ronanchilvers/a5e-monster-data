@@ -1,6 +1,6 @@
 ---
 statblock: true
-name: 'Shadow Elf Spellcaster Drider - A5E'
+name: 'Shadow Elf Spellcaster Drider'
 source: 'Level Up: Monstrous Menagerie'
 size: Large
 type: Monstrosity
@@ -43,5 +43,5 @@ combat:
 
 ---
 ```statblock
-monster: Shadow Elf Spellcaster Drider - A5E
+monster: Shadow Elf Spellcaster Drider
 ```

@@ -1,6 +1,6 @@
 ---
 statblock: true
-name: 'Hezrou - A5E'
+name: Hezrou
 source: 'Level Up: Monstrous Menagerie'
 size: Large
 type: Fiend
@@ -43,5 +43,5 @@ combat:
 
 ---
 ```statblock
-monster: Hezrou - A5E
+monster: Hezrou
 ```

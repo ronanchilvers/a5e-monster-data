@@ -1,6 +1,6 @@
 ---
 statblock: true
-name: 'Owlbear - A5E'
+name: Owlbear
 source: 'Level Up: Monstrous Menagerie'
 size: Large
 type: Monstrosity
@@ -31,5 +31,5 @@ combat:
 
 ---
 ```statblock
-monster: Owlbear - A5E
+monster: Owlbear
 ```

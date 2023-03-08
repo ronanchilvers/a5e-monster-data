@@ -1,6 +1,6 @@
 ---
 statblock: true
-name: 'Sand Worm - A5E'
+name: 'Sand Worm'
 source: 'Level Up: Monstrous Menagerie'
 size: Gargantuan
 type: Monstrosity
@@ -40,5 +40,5 @@ combat:
 
 ---
 ```statblock
-monster: Sand Worm - A5E
+monster: Sand Worm
 ```

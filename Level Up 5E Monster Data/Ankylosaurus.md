@@ -1,6 +1,6 @@
 ---
 statblock: true
-name: 'Ankylosaurus - A5E'
+name: Ankylosaurus
 source: 'Level Up: Monstrous Menagerie'
 size: Huge
 type: Beast
@@ -22,5 +22,5 @@ actions:
 
 ---
 ```statblock
-monster: Ankylosaurus - A5E
+monster: Ankylosaurus
 ```

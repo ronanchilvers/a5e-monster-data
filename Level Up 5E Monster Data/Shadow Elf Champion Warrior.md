@@ -1,6 +1,6 @@
 ---
 statblock: true
-name: 'Shadow Elf Champion Warrior - A5E'
+name: 'Shadow Elf Champion Warrior'
 source: 'Level Up: Monstrous Menagerie'
 size: Medium
 type: Humanoid
@@ -40,5 +40,5 @@ actions:
 
 ---
 ```statblock
-monster: Shadow Elf Champion Warrior - A5E
+monster: Shadow Elf Champion Warrior
 ```

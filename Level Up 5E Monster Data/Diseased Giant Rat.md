@@ -1,6 +1,6 @@
 ---
 statblock: true
-name: 'Diseased Giant Rat - A5E'
+name: 'Diseased Giant Rat'
 source: 'Level Up: Monstrous Menagerie'
 size: Small
 type: Beast
@@ -25,5 +25,5 @@ actions:
 
 ---
 ```statblock
-monster: Diseased Giant Rat - A5E
+monster: Diseased Giant Rat
 ```

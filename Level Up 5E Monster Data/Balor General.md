@@ -1,6 +1,6 @@
 ---
 statblock: true
-name: 'Balor General - A5E'
+name: 'Balor General'
 source: 'Level Up: Monstrous Menagerie'
 size: Huge
 type: Fiend
@@ -52,5 +52,5 @@ combat:
 
 ---
 ```statblock
-monster: Balor General - A5E
+monster: Balor General
 ```

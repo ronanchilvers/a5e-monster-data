@@ -1,6 +1,6 @@
 ---
 statblock: true
-name: 'Green Hag - A5E'
+name: 'Green Hag'
 source: 'Level Up: Monstrous Menagerie'
 size: Medium
 type: Fey
@@ -46,5 +46,5 @@ combat:
 
 ---
 ```statblock
-monster: Green Hag - A5E
+monster: Green Hag
 ```

@@ -1,6 +1,6 @@
 ---
 statblock: true
-name: 'Revilock - A5E'
+name: Revilock
 source: 'Level Up: Monstrous Menagerie'
 size: Medium
 type: Humanoid
@@ -42,5 +42,5 @@ combat:
 
 ---
 ```statblock
-monster: Revilock - A5E
+monster: Revilock
 ```

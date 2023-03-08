@@ -1,6 +1,6 @@
 ---
 statblock: true
-name: 'Xorn - A5E'
+name: Xorn
 source: 'Level Up: Monstrous Menagerie'
 size: Medium
 type: Elemental
@@ -35,5 +35,5 @@ combat:
 
 ---
 ```statblock
-monster: Xorn - A5E
+monster: Xorn
 ```

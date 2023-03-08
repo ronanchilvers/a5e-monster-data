@@ -1,6 +1,6 @@
 ---
 statblock: true
-name: 'Bulette - A5E'
+name: Bulette
 source: 'Level Up: Monstrous Menagerie'
 size: Large
 type: Monstrosity
@@ -35,5 +35,5 @@ combat:
 
 ---
 ```statblock
-monster: Bulette - A5E
+monster: Bulette
 ```

@@ -1,6 +1,6 @@
 ---
 statblock: true
-name: 'Goblin Dreadnought - A5E'
+name: 'Goblin Dreadnought'
 source: 'Level Up: Monstrous Menagerie'
 size: Small
 type: Humanoid
@@ -30,5 +30,5 @@ combat:
 
 ---
 ```statblock
-monster: Goblin Dreadnought - A5E
+monster: Goblin Dreadnought
 ```

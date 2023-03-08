@@ -1,6 +1,6 @@
 ---
 statblock: true
-name: 'Cyclops - A5E'
+name: Cyclops
 source: 'Level Up: Monstrous Menagerie'
 size: Huge
 type: Giant
@@ -37,5 +37,5 @@ combat:
 
 ---
 ```statblock
-monster: Cyclops - A5E
+monster: Cyclops
 ```

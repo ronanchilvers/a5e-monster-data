@@ -1,6 +1,6 @@
 ---
 statblock: true
-name: 'White Dragon Wyrmling - A5E'
+name: 'White Dragon Wyrmling'
 source: 'Level Up: Monstrous Menagerie'
 size: Medium
 type: Dragon
@@ -35,5 +35,5 @@ combat:
 
 ---
 ```statblock
-monster: White Dragon Wyrmling - A5E
+monster: White Dragon Wyrmling
 ```

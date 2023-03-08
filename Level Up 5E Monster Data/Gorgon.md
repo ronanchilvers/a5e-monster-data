@@ -1,6 +1,6 @@
 ---
 statblock: true
-name: 'Gorgon - A5E'
+name: Gorgon
 source: 'Level Up: Monstrous Menagerie'
 size: Large
 type: Monstrosity
@@ -31,5 +31,5 @@ combat:
 
 ---
 ```statblock
-monster: Gorgon - A5E
+monster: Gorgon
 ```

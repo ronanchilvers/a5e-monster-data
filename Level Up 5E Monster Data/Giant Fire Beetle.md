@@ -1,6 +1,6 @@
 ---
 statblock: true
-name: 'Giant Fire Beetle - A5E'
+name: 'Giant Fire Beetle'
 source: 'Level Up: Monstrous Menagerie'
 size: Small
 type: Beast
@@ -24,5 +24,5 @@ actions:
 
 ---
 ```statblock
-monster: Giant Fire Beetle - A5E
+monster: Giant Fire Beetle
 ```

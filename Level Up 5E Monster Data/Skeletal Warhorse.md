@@ -1,6 +1,6 @@
 ---
 statblock: true
-name: 'Skeletal Warhorse - A5E'
+name: 'Skeletal Warhorse'
 source: 'Level Up: Monstrous Menagerie'
 size: Large
 type: Undead
@@ -29,5 +29,5 @@ combat:
 
 ---
 ```statblock
-monster: Skeletal Warhorse - A5E
+monster: Skeletal Warhorse
 ```

@@ -1,6 +1,6 @@
 ---
 statblock: true
-name: 'Scarecrow - A5E'
+name: Scarecrow
 source: 'Level Up: Monstrous Menagerie'
 size: Medium
 type: Construct
@@ -36,5 +36,5 @@ combat:
 
 ---
 ```statblock
-monster: Scarecrow - A5E
+monster: Scarecrow
 ```

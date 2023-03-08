@@ -1,6 +1,6 @@
 ---
 statblock: true
-name: 'Aboleth Thrall - A5E'
+name: 'Aboleth Thrall'
 source: 'Level Up: Monstrous Menagerie'
 size: Medium
 type: Humanoid
@@ -31,5 +31,5 @@ combat:
 
 ---
 ```statblock
-monster: Aboleth Thrall - A5E
+monster: Aboleth Thrall
 ```

@@ -1,6 +1,6 @@
 ---
 statblock: true
-name: 'Khalkos Spawn - A5E'
+name: 'Khalkos Spawn'
 source: 'Level Up: Monstrous Menagerie'
 size: Tiny
 type: Aberration
@@ -34,5 +34,5 @@ combat:
 
 ---
 ```statblock
-monster: Khalkos Spawn - A5E
+monster: Khalkos Spawn
 ```

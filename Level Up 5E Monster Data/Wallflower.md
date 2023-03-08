@@ -1,6 +1,6 @@
 ---
 statblock: true
-name: 'Wallflower - A5E'
+name: Wallflower
 source: 'Level Up: Monstrous Menagerie'
 size: Medium
 type: Plant
@@ -31,5 +31,5 @@ combat:
 
 ---
 ```statblock
-monster: Wallflower - A5E
+monster: Wallflower
 ```

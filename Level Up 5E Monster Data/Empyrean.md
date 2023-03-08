@@ -1,6 +1,6 @@
 ---
 statblock: true
-name: 'Empyrean - A5E'
+name: Empyrean
 source: 'Level Up: Monstrous Menagerie'
 size: Gargantuan
 type: Celestial
@@ -50,5 +50,5 @@ combat:
 
 ---
 ```statblock
-monster: Empyrean - A5E
+monster: Empyrean
 ```

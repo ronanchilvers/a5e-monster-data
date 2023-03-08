@@ -1,6 +1,6 @@
 ---
 statblock: true
-name: 'Zombie - A5E'
+name: Zombie
 source: 'Level Up: Monstrous Menagerie'
 size: Medium
 type: Undead
@@ -29,5 +29,5 @@ actions:
 
 ---
 ```statblock
-monster: Zombie - A5E
+monster: Zombie
 ```

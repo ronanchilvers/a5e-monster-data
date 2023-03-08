@@ -1,6 +1,6 @@
 ---
 statblock: true
-name: 'Fire Giant War Priest - A5E'
+name: 'Fire Giant War Priest'
 source: 'Level Up: Monstrous Menagerie'
 size: Huge
 type: Giant
@@ -44,5 +44,5 @@ combat:
 
 ---
 ```statblock
-monster: Fire Giant War Priest - A5E
+monster: Fire Giant War Priest
 ```

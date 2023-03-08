@@ -1,6 +1,6 @@
 ---
 statblock: true
-name: 'Unicorn - A5E'
+name: Unicorn
 source: 'Level Up: Monstrous Menagerie'
 size: Large
 type: Celestial
@@ -39,5 +39,5 @@ combat:
 
 ---
 ```statblock
-monster: Unicorn - A5E
+monster: Unicorn
 ```

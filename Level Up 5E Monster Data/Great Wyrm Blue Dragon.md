@@ -1,6 +1,6 @@
 ---
 statblock: true
-name: 'Great Wyrm Blue Dragon - A5E'
+name: 'Great Wyrm Blue Dragon'
 source: 'Level Up: Monstrous Menagerie'
 size: Gargantuan
 type: Dragon
@@ -63,5 +63,5 @@ combat:
 
 ---
 ```statblock
-monster: Great Wyrm Blue Dragon - A5E
+monster: Great Wyrm Blue Dragon
 ```

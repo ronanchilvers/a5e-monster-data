@@ -1,6 +1,6 @@
 ---
 statblock: true
-name: 'Stirge - A5E'
+name: Stirge
 source: 'Level Up: Monstrous Menagerie'
 size: Tiny
 type: Beast
@@ -25,5 +25,5 @@ combat:
 
 ---
 ```statblock
-monster: Stirge - A5E
+monster: Stirge
 ```

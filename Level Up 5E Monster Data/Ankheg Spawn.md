@@ -1,6 +1,6 @@
 ---
 statblock: true
-name: 'Ankheg Spawn - A5E'
+name: 'Ankheg Spawn'
 source: 'Level Up: Monstrous Menagerie'
 size: Medium
 type: Monstrosity
@@ -27,5 +27,5 @@ combat:
 
 ---
 ```statblock
-monster: Ankheg Spawn - A5E
+monster: Ankheg Spawn
 ```

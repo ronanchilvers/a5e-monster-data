@@ -1,6 +1,6 @@
 ---
 statblock: true
-name: 'Flying Sword - A5E'
+name: 'Flying Sword'
 source: 'Level Up: Monstrous Menagerie'
 size: Small
 type: Construct
@@ -32,5 +32,5 @@ combat:
 
 ---
 ```statblock
-monster: Flying Sword - A5E
+monster: Flying Sword
 ```

@@ -1,6 +1,6 @@
 ---
 statblock: true
-name: 'Yeti - A5E'
+name: Yeti
 source: 'Level Up: Monstrous Menagerie'
 size: Large
 type: Monstrosity
@@ -35,5 +35,5 @@ combat:
 
 ---
 ```statblock
-monster: Yeti - A5E
+monster: Yeti
 ```

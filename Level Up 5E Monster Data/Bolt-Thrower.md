@@ -1,6 +1,6 @@
 ---
 statblock: true
-name: 'Bolt-Thrower - A5E'
+name: Bolt-Thrower
 source: 'Level Up: Monstrous Menagerie'
 size: Small
 type: Construct
@@ -33,5 +33,5 @@ combat:
 
 ---
 ```statblock
-monster: Bolt-Thrower - A5E
+monster: Bolt-Thrower
 ```

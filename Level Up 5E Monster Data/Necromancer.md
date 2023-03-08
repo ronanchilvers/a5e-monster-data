@@ -1,6 +1,6 @@
 ---
 statblock: true
-name: 'Necromancer - A5E'
+name: Necromancer
 source: 'Level Up: Monstrous Menagerie'
 size: Medium
 type: Humanoid
@@ -44,5 +44,5 @@ reactions:
 
 ---
 ```statblock
-monster: Necromancer - A5E
+monster: Necromancer
 ```

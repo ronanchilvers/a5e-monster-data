@@ -1,6 +1,6 @@
 ---
 statblock: true
-name: 'Roc - A5E'
+name: Roc
 source: 'Level Up: Monstrous Menagerie'
 size: Gargantuan
 type: Beast
@@ -36,5 +36,5 @@ reactions:
 
 ---
 ```statblock
-monster: Roc - A5E
+monster: Roc
 ```

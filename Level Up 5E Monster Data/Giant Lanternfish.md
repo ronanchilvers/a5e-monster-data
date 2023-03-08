@@ -1,6 +1,6 @@
 ---
 statblock: true
-name: 'Giant Lanternfish - A5E'
+name: 'Giant Lanternfish'
 source: 'Level Up: Monstrous Menagerie'
 size: Large
 type: Monstrosity
@@ -38,5 +38,5 @@ combat:
 
 ---
 ```statblock
-monster: Giant Lanternfish - A5E
+monster: Giant Lanternfish
 ```

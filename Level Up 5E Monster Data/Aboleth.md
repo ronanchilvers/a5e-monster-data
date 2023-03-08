@@ -1,6 +1,6 @@
 ---
 statblock: true
-name: 'Aboleth - A5E'
+name: Aboleth
 source: 'Level Up: Monstrous Menagerie'
 size: Large
 type: Aberration
@@ -47,5 +47,5 @@ combat:
 
 ---
 ```statblock
-monster: Aboleth - A5E
+monster: Aboleth
 ```

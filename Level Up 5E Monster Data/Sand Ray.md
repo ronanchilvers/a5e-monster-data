@@ -1,6 +1,6 @@
 ---
 statblock: true
-name: 'Sand Ray - A5E'
+name: 'Sand Ray'
 source: 'Level Up: Monstrous Menagerie'
 size: Large
 type: Aberration
@@ -40,5 +40,5 @@ combat:
 
 ---
 ```statblock
-monster: Sand Ray - A5E
+monster: Sand Ray
 ```

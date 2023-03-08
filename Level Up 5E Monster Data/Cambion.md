@@ -1,6 +1,6 @@
 ---
 statblock: true
-name: 'Cambion - A5E'
+name: Cambion
 source: 'Level Up: Monstrous Menagerie'
 size: Medium
 type: Fiend
@@ -43,5 +43,5 @@ combat:
 
 ---
 ```statblock
-monster: Cambion - A5E
+monster: Cambion
 ```

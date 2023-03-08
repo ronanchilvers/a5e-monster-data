@@ -1,6 +1,6 @@
 ---
 statblock: true
-name: 'Hound Guardian - A5E'
+name: 'Hound Guardian'
 source: 'Level Up: Monstrous Menagerie'
 size: Medium
 type: Construct
@@ -36,5 +36,5 @@ combat:
 
 ---
 ```statblock
-monster: Hound Guardian - A5E
+monster: Hound Guardian
 ```

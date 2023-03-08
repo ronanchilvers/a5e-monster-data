@@ -1,6 +1,6 @@
 ---
 statblock: true
-name: 'High Elf Noble - A5E'
+name: 'High Elf Noble'
 source: 'Level Up: Monstrous Menagerie'
 size: Medium
 type: Humanoid
@@ -34,5 +34,5 @@ reactions:
 
 ---
 ```statblock
-monster: High Elf Noble - A5E
+monster: High Elf Noble
 ```

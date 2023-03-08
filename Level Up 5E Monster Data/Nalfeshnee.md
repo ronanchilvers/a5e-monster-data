@@ -1,6 +1,6 @@
 ---
 statblock: true
-name: 'Nalfeshnee - A5E'
+name: Nalfeshnee
 source: 'Level Up: Monstrous Menagerie'
 size: Large
 type: Fiend
@@ -43,5 +43,5 @@ combat:
 
 ---
 ```statblock
-monster: Nalfeshnee - A5E
+monster: Nalfeshnee
 ```

@@ -1,6 +1,6 @@
 ---
 statblock: true
-name: 'Archfey - A5E'
+name: Archfey
 source: 'Level Up: Monstrous Menagerie'
 size: Medium
 type: Fey
@@ -60,5 +60,5 @@ combat:
 
 ---
 ```statblock
-monster: Archfey - A5E
+monster: Archfey
 ```

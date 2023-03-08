@@ -1,6 +1,6 @@
 ---
 statblock: true
-name: 'Dire Tyrannosaurus Rex - A5E'
+name: 'Dire Tyrannosaurus Rex'
 source: 'Level Up: Monstrous Menagerie'
 size: Huge
 type: Beast
@@ -30,5 +30,5 @@ actions:
 
 ---
 ```statblock
-monster: Dire Tyrannosaurus Rex - A5E
+monster: Dire Tyrannosaurus Rex
 ```

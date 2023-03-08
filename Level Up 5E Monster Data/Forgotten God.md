@@ -1,6 +1,6 @@
 ---
 statblock: true
-name: 'Forgotten God - A5E'
+name: 'Forgotten God'
 source: 'Level Up: Monstrous Menagerie'
 size: Large
 type: Celestial
@@ -47,5 +47,5 @@ combat:
 
 ---
 ```statblock
-monster: Forgotten God - A5E
+monster: Forgotten God
 ```

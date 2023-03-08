@@ -1,6 +1,6 @@
 ---
 statblock: true
-name: 'Ascetic Grandmaster - A5E'
+name: 'Ascetic Grandmaster'
 source: 'Level Up: Monstrous Menagerie'
 size: Medium
 type: Humanoid
@@ -51,5 +51,5 @@ reactions:
 
 ---
 ```statblock
-monster: Ascetic Grandmaster - A5E
+monster: Ascetic Grandmaster
 ```

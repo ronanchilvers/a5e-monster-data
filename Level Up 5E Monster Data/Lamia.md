@@ -1,6 +1,6 @@
 ---
 statblock: true
-name: 'Lamia - A5E'
+name: Lamia
 source: 'Level Up: Monstrous Menagerie'
 size: Large
 type: Monstrosity
@@ -38,5 +38,5 @@ combat:
 
 ---
 ```statblock
-monster: Lamia - A5E
+monster: Lamia
 ```

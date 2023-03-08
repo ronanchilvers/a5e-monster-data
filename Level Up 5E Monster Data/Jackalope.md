@@ -1,6 +1,6 @@
 ---
 statblock: true
-name: 'Jackalope - A5E'
+name: Jackalope
 source: 'Level Up: Monstrous Menagerie'
 size: Tiny
 type: Beast
@@ -43,5 +43,5 @@ reactions:
 
 ---
 ```statblock
-monster: Jackalope - A5E
+monster: Jackalope
 ```

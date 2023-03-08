@@ -1,6 +1,6 @@
 ---
 statblock: true
-name: 'Wyvern - A5E'
+name: Wyvern
 source: 'Level Up: Monstrous Menagerie'
 size: Large
 type: Dragon
@@ -32,5 +32,5 @@ combat:
 
 ---
 ```statblock
-monster: Wyvern - A5E
+monster: Wyvern
 ```

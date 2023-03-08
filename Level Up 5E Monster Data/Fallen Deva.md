@@ -1,6 +1,6 @@
 ---
 statblock: true
-name: 'Fallen Deva - A5E'
+name: 'Fallen Deva'
 source: 'Level Up: Monstrous Menagerie'
 size: Medium
 type: Celestial
@@ -46,5 +46,5 @@ combat:
 
 ---
 ```statblock
-monster: Fallen Deva - A5E
+monster: Fallen Deva
 ```

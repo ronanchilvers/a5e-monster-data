@@ -1,6 +1,6 @@
 ---
 statblock: true
-name: "Dead Man's Fingers - A5E"
+name: "Dead Man's Fingers"
 source: 'Level Up: Monstrous Menagerie'
 size: Medium
 type: Plant
@@ -37,5 +37,5 @@ combat:
 
 ---
 ```statblock
-monster: Dead Man's Fingers - A5E
+monster: Dead Man's Fingers
 ```

@@ -1,6 +1,6 @@
 ---
 statblock: true
-name: 'Hydra - A5E'
+name: Hydra
 source: 'Level Up: Monstrous Menagerie'
 size: Huge
 type: Monstrosity
@@ -40,5 +40,5 @@ combat:
 
 ---
 ```statblock
-monster: Hydra - A5E
+monster: Hydra
 ```

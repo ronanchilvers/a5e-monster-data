@@ -1,6 +1,6 @@
 ---
 statblock: true
-name: 'Malcubus - A5E'
+name: Malcubus
 source: 'Level Up: Monstrous Menagerie'
 size: Medium
 type: Fiend
@@ -44,5 +44,5 @@ combat:
 
 ---
 ```statblock
-monster: Malcubus - A5E
+monster: Malcubus
 ```

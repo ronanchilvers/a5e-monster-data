@@ -1,6 +1,6 @@
 ---
 statblock: true
-name: 'Frog - A5E'
+name: Frog
 source: 'Level Up: Monstrous Menagerie'
 size: Tiny
 type: Beast
@@ -25,5 +25,5 @@ traits:
 
 ---
 ```statblock
-monster: Frog - A5E
+monster: Frog
 ```

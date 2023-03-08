@@ -1,6 +1,6 @@
 ---
 statblock: true
-name: 'Young Copper Dragon - A5E'
+name: 'Young Copper Dragon'
 source: 'Level Up: Monstrous Menagerie'
 size: Large
 type: Dragon
@@ -47,5 +47,5 @@ combat:
 
 ---
 ```statblock
-monster: Young Copper Dragon - A5E
+monster: Young Copper Dragon
 ```

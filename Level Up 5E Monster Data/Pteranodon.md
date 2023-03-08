@@ -1,6 +1,6 @@
 ---
 statblock: true
-name: 'Pteranodon - A5E'
+name: Pteranodon
 source: 'Level Up: Monstrous Menagerie'
 size: Large
 type: Beast
@@ -24,5 +24,5 @@ actions:
 
 ---
 ```statblock
-monster: Pteranodon - A5E
+monster: Pteranodon
 ```

@@ -1,6 +1,6 @@
 ---
 statblock: true
-name: 'Merrow Mage - A5E'
+name: 'Merrow Mage'
 source: 'Level Up: Monstrous Menagerie'
 size: Large
 type: Monstrosity
@@ -37,5 +37,5 @@ combat:
 
 ---
 ```statblock
-monster: Merrow Mage - A5E
+monster: Merrow Mage
 ```

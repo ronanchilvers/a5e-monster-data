@@ -1,6 +1,6 @@
 ---
 statblock: true
-name: 'Lich - A5E'
+name: Lich
 source: 'Level Up: Monstrous Menagerie'
 size: Medium
 type: Undead
@@ -69,5 +69,5 @@ combat:
 
 ---
 ```statblock
-monster: Lich - A5E
+monster: Lich
 ```

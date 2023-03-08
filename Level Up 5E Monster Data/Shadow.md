@@ -1,6 +1,6 @@
 ---
 statblock: true
-name: 'Shadow - A5E'
+name: Shadow
 source: 'Level Up: Monstrous Menagerie'
 size: Medium
 type: Undead
@@ -36,5 +36,5 @@ combat:
 
 ---
 ```statblock
-monster: Shadow - A5E
+monster: Shadow
 ```

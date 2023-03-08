@@ -1,6 +1,6 @@
 ---
 statblock: true
-name: 'Chimera - A5E'
+name: Chimera
 source: 'Level Up: Monstrous Menagerie'
 size: Large
 type: Monstrosity
@@ -45,5 +45,5 @@ combat:
 
 ---
 ```statblock
-monster: Chimera - A5E
+monster: Chimera
 ```

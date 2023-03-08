@@ -1,6 +1,6 @@
 ---
 statblock: true
-name: 'Bone Devil - A5E'
+name: 'Bone Devil'
 source: 'Level Up: Monstrous Menagerie'
 size: Large
 type: Fiend
@@ -44,5 +44,5 @@ combat:
 
 ---
 ```statblock
-monster: Bone Devil - A5E
+monster: Bone Devil
 ```

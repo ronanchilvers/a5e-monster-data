@@ -1,6 +1,6 @@
 ---
 statblock: true
-name: 'Gladiator - A5E'
+name: Gladiator
 source: 'Level Up: Monstrous Menagerie'
 size: Medium
 type: Humanoid
@@ -39,5 +39,5 @@ reactions:
 
 ---
 ```statblock
-monster: Gladiator - A5E
+monster: Gladiator
 ```

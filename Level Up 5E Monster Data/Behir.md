@@ -1,6 +1,6 @@
 ---
 statblock: true
-name: 'Behir - A5E'
+name: Behir
 source: 'Level Up: Monstrous Menagerie'
 size: Huge
 type: Monstrosity
@@ -43,5 +43,5 @@ combat:
 
 ---
 ```statblock
-monster: Behir - A5E
+monster: Behir
 ```

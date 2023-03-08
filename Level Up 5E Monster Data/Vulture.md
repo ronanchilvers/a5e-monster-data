@@ -1,6 +1,6 @@
 ---
 statblock: true
-name: 'Vulture - A5E'
+name: Vulture
 source: 'Level Up: Monstrous Menagerie'
 size: Medium
 type: Beast
@@ -28,5 +28,5 @@ reactions:
 
 ---
 ```statblock
-monster: Vulture - A5E
+monster: Vulture
 ```

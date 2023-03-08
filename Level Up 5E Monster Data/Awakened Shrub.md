@@ -1,6 +1,6 @@
 ---
 statblock: true
-name: 'Awakened Shrub - A5E'
+name: 'Awakened Shrub'
 source: 'Level Up: Monstrous Menagerie'
 size: Small
 type: Plant
@@ -27,5 +27,5 @@ actions:
 
 ---
 ```statblock
-monster: Awakened Shrub - A5E
+monster: Awakened Shrub
 ```

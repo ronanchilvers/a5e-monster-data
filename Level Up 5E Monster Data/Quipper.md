@@ -1,6 +1,6 @@
 ---
 statblock: true
-name: 'Quipper - A5E'
+name: Quipper
 source: 'Level Up: Monstrous Menagerie'
 size: Tiny
 type: Beast
@@ -24,5 +24,5 @@ actions:
 
 ---
 ```statblock
-monster: Quipper - A5E
+monster: Quipper
 ```

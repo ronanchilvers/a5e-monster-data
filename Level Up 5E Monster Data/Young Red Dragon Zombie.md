@@ -1,6 +1,6 @@
 ---
 statblock: true
-name: 'Young Red Dragon Zombie - A5E'
+name: 'Young Red Dragon Zombie'
 source: 'Level Up: Monstrous Menagerie'
 size: Large
 type: Undead
@@ -30,5 +30,5 @@ actions:
 
 ---
 ```statblock
-monster: Young Red Dragon Zombie - A5E
+monster: Young Red Dragon Zombie
 ```

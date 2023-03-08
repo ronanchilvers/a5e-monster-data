@@ -1,6 +1,6 @@
 ---
 statblock: true
-name: 'Flying Lion - A5E'
+name: 'Flying Lion'
 source: 'Level Up: Monstrous Menagerie'
 size: Large
 type: Monstrosity
@@ -30,5 +30,5 @@ combat:
 
 ---
 ```statblock
-monster: Flying Lion - A5E
+monster: Flying Lion
 ```

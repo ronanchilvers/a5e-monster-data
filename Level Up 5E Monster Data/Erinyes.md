@@ -1,6 +1,6 @@
 ---
 statblock: true
-name: 'Erinyes - A5E'
+name: Erinyes
 source: 'Level Up: Monstrous Menagerie'
 size: Medium
 type: Fiend
@@ -45,5 +45,5 @@ combat:
 
 ---
 ```statblock
-monster: Erinyes - A5E
+monster: Erinyes
 ```

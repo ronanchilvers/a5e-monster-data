@@ -1,6 +1,6 @@
 ---
 statblock: true
-name: 'Quasit Familiar - A5E'
+name: 'Quasit Familiar'
 source: 'Level Up: Monstrous Menagerie'
 size: Tiny
 type: Fiend
@@ -38,5 +38,5 @@ combat:
 
 ---
 ```statblock
-monster: Quasit Familiar - A5E
+monster: Quasit Familiar
 ```

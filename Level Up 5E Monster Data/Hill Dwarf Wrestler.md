@@ -1,6 +1,6 @@
 ---
 statblock: true
-name: 'Hill Dwarf Wrestler - A5E'
+name: 'Hill Dwarf Wrestler'
 source: 'Level Up: Monstrous Menagerie'
 size: Medium
 type: Humanoid
@@ -41,5 +41,5 @@ reactions:
 
 ---
 ```statblock
-monster: Hill Dwarf Wrestler - A5E
+monster: Hill Dwarf Wrestler
 ```

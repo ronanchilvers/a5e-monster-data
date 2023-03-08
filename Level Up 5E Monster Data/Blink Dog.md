@@ -1,6 +1,6 @@
 ---
 statblock: true
-name: 'Blink Dog - A5E'
+name: 'Blink Dog'
 source: 'Level Up: Monstrous Menagerie'
 size: Medium
 type: Fey
@@ -30,5 +30,5 @@ actions:
 
 ---
 ```statblock
-monster: Blink Dog - A5E
+monster: Blink Dog
 ```

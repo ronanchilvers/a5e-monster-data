@@ -1,6 +1,6 @@
 ---
 statblock: true
-name: 'Fire Elemental - A5E'
+name: 'Fire Elemental'
 source: 'Level Up: Monstrous Menagerie'
 size: Large
 type: Elemental
@@ -35,5 +35,5 @@ combat:
 
 ---
 ```statblock
-monster: Fire Elemental - A5E
+monster: Fire Elemental
 ```

@@ -1,6 +1,6 @@
 ---
 statblock: true
-name: 'Invisible Stalker - A5E'
+name: 'Invisible Stalker'
 source: 'Level Up: Monstrous Menagerie'
 size: Medium
 type: Elemental
@@ -38,5 +38,5 @@ combat:
 
 ---
 ```statblock
-monster: Invisible Stalker - A5E
+monster: Invisible Stalker
 ```

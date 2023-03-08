@@ -1,6 +1,6 @@
 ---
 statblock: true
-name: 'Imp Familiar - A5E'
+name: 'Imp Familiar'
 source: 'Level Up: Monstrous Menagerie'
 size: Tiny
 type: Fiend
@@ -43,5 +43,5 @@ combat:
 
 ---
 ```statblock
-monster: Imp Familiar - A5E
+monster: Imp Familiar
 ```

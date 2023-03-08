@@ -1,6 +1,6 @@
 ---
 statblock: true
-name: 'Ancient Emerald Dragon - A5E'
+name: 'Ancient Emerald Dragon'
 source: 'Level Up: Monstrous Menagerie'
 size: Gargantuan
 type: Dragon
@@ -58,5 +58,5 @@ combat:
 
 ---
 ```statblock
-monster: Ancient Emerald Dragon - A5E
+monster: Ancient Emerald Dragon
 ```

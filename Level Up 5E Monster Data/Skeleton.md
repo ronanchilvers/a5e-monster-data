@@ -1,6 +1,6 @@
 ---
 statblock: true
-name: 'Skeleton - A5E'
+name: Skeleton
 source: 'Level Up: Monstrous Menagerie'
 size: Medium
 type: Undead
@@ -31,5 +31,5 @@ combat:
 
 ---
 ```statblock
-monster: Skeleton - A5E
+monster: Skeleton
 ```

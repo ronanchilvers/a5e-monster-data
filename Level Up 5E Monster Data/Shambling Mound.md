@@ -1,6 +1,6 @@
 ---
 statblock: true
-name: 'Shambling Mound - A5E'
+name: 'Shambling Mound'
 source: 'Level Up: Monstrous Menagerie'
 size: Large
 type: Plant
@@ -33,5 +33,5 @@ combat:
 
 ---
 ```statblock
-monster: Shambling Mound - A5E
+monster: Shambling Mound
 ```

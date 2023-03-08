@@ -1,6 +1,6 @@
 ---
 statblock: true
-name: 'Cave Bear - A5E'
+name: 'Cave Bear'
 source: 'Level Up: Monstrous Menagerie'
 size: Large
 type: Beast
@@ -29,5 +29,5 @@ actions:
 
 ---
 ```statblock
-monster: Cave Bear - A5E
+monster: Cave Bear
 ```

@@ -1,6 +1,6 @@
 ---
 statblock: true
-name: 'Stout Halfling Guard - A5E'
+name: 'Stout Halfling Guard'
 source: 'Level Up: Monstrous Menagerie'
 size: Small
 type: Humanoid
@@ -28,5 +28,5 @@ actions:
 
 ---
 ```statblock
-monster: Stout Halfling Guard - A5E
+monster: Stout Halfling Guard
 ```

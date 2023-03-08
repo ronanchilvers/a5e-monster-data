@@ -1,6 +1,6 @@
 ---
 statblock: true
-name: 'Drider - A5E'
+name: Drider
 source: 'Level Up: Monstrous Menagerie'
 size: Large
 type: Monstrosity
@@ -38,5 +38,5 @@ combat:
 
 ---
 ```statblock
-monster: Drider - A5E
+monster: Drider
 ```

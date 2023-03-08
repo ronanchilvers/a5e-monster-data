@@ -1,6 +1,6 @@
 ---
 statblock: true
-name: 'Couatl - A5E'
+name: Couatl
 source: 'Level Up: Monstrous Menagerie'
 size: Medium
 type: Celestial
@@ -44,5 +44,5 @@ combat:
 
 ---
 ```statblock
-monster: Couatl - A5E
+monster: Couatl
 ```

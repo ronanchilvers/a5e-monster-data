@@ -1,6 +1,6 @@
 ---
 statblock: true
-name: 'Ice Devil - A5E'
+name: 'Ice Devil'
 source: 'Level Up: Monstrous Menagerie'
 size: Large
 type: Fiend
@@ -46,5 +46,5 @@ combat:
 
 ---
 ```statblock
-monster: Ice Devil - A5E
+monster: Ice Devil
 ```

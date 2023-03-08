@@ -1,6 +1,6 @@
 ---
 statblock: true
-name: 'Stone Colossus - A5E'
+name: 'Stone Colossus'
 source: 'Level Up: Monstrous Menagerie'
 size: Gargantuan
 type: Construct
@@ -43,5 +43,5 @@ combat:
 
 ---
 ```statblock
-monster: Stone Colossus - A5E
+monster: Stone Colossus
 ```

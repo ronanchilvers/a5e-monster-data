@@ -1,6 +1,6 @@
 ---
 statblock: true
-name: 'Vengeful Ghost - A5E'
+name: 'Vengeful Ghost'
 source: 'Level Up: Monstrous Menagerie'
 size: Medium
 type: Undead
@@ -39,5 +39,5 @@ combat:
 
 ---
 ```statblock
-monster: Vengeful Ghost - A5E
+monster: Vengeful Ghost
 ```

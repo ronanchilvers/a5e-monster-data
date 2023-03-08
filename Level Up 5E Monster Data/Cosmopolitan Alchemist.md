@@ -1,6 +1,6 @@
 ---
 statblock: true
-name: 'Cosmopolitan Alchemist - A5E'
+name: 'Cosmopolitan Alchemist'
 source: 'Level Up: Monstrous Menagerie'
 size: Medium
 type: Humanoid
@@ -52,5 +52,5 @@ reactions:
 
 ---
 ```statblock
-monster: Cosmopolitan Alchemist - A5E
+monster: Cosmopolitan Alchemist
 ```

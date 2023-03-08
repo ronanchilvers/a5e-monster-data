@@ -1,6 +1,6 @@
 ---
 statblock: true
-name: 'Aklea - A5E'
+name: Aklea
 source: 'Level Up: Monstrous Menagerie'
 size: Gargantuan
 type: Celestial
@@ -52,5 +52,5 @@ combat:
 
 ---
 ```statblock
-monster: Aklea - A5E
+monster: Aklea
 ```

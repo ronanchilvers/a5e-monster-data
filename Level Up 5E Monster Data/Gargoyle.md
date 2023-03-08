@@ -1,6 +1,6 @@
 ---
 statblock: true
-name: 'Gargoyle - A5E'
+name: Gargoyle
 source: 'Level Up: Monstrous Menagerie'
 size: Medium
 type: Elemental
@@ -39,5 +39,5 @@ combat:
 
 ---
 ```statblock
-monster: Gargoyle - A5E
+monster: Gargoyle
 ```

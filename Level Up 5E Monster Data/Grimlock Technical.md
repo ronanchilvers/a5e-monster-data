@@ -1,6 +1,6 @@
 ---
 statblock: true
-name: 'Grimlock Technical - A5E'
+name: 'Grimlock Technical'
 source: 'Level Up: Monstrous Menagerie'
 size: Medium
 type: Humanoid
@@ -38,5 +38,5 @@ combat:
 
 ---
 ```statblock
-monster: Grimlock Technical - A5E
+monster: Grimlock Technical
 ```

@@ -1,6 +1,6 @@
 ---
 statblock: true
-name: 'Horde of Shadows - A5E'
+name: 'Horde of Shadows'
 source: 'Level Up: Monstrous Menagerie'
 size: Large
 type: Undead
@@ -40,5 +40,5 @@ combat:
 
 ---
 ```statblock
-monster: Horde of Shadows - A5E
+monster: Horde of Shadows
 ```

@@ -1,6 +1,6 @@
 ---
 statblock: true
-name: 'Lemure - A5E'
+name: Lemure
 source: 'Level Up: Monstrous Menagerie'
 size: Medium
 type: Fiend
@@ -32,5 +32,5 @@ combat:
 
 ---
 ```statblock
-monster: Lemure - A5E
+monster: Lemure
 ```

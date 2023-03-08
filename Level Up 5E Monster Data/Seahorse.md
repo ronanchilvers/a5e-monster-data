@@ -1,6 +1,6 @@
 ---
 statblock: true
-name: 'Seahorse - A5E'
+name: Seahorse
 source: 'Level Up: Monstrous Menagerie'
 size: Tiny
 type: Beast
@@ -22,5 +22,5 @@ traits:
 
 ---
 ```statblock
-monster: Seahorse - A5E
+monster: Seahorse
 ```

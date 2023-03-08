@@ -1,6 +1,6 @@
 ---
 statblock: true
-name: 'Salamander Noble - A5E'
+name: 'Salamander Noble'
 source: 'Level Up: Monstrous Menagerie'
 size: Huge
 type: Elemental
@@ -35,5 +35,5 @@ combat:
 
 ---
 ```statblock
-monster: Salamander Noble - A5E
+monster: Salamander Noble
 ```

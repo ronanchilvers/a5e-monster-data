@@ -1,6 +1,6 @@
 ---
 statblock: true
-name: 'Cloaker - A5E'
+name: Cloaker
 source: 'Level Up: Monstrous Menagerie'
 size: Large
 type: Aberration
@@ -40,5 +40,5 @@ combat:
 
 ---
 ```statblock
-monster: Cloaker - A5E
+monster: Cloaker
 ```

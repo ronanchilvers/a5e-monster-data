@@ -1,6 +1,6 @@
 ---
 statblock: true
-name: 'Murmuring Worm - A5E'
+name: 'Murmuring Worm'
 source: 'Level Up: Monstrous Menagerie'
 size: Huge
 type: Aberration
@@ -34,5 +34,5 @@ combat:
 
 ---
 ```statblock
-monster: Murmuring Worm - A5E
+monster: Murmuring Worm
 ```

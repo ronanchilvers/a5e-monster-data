@@ -1,6 +1,6 @@
 ---
 statblock: true
-name: 'Drainpipe Gargoyle - A5E'
+name: 'Drainpipe Gargoyle'
 source: 'Level Up: Monstrous Menagerie'
 size: Medium
 type: Elemental
@@ -40,5 +40,5 @@ combat:
 
 ---
 ```statblock
-monster: Drainpipe Gargoyle - A5E
+monster: Drainpipe Gargoyle
 ```

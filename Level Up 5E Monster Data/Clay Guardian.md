@@ -1,6 +1,6 @@
 ---
 statblock: true
-name: 'Clay Guardian - A5E'
+name: 'Clay Guardian'
 source: 'Level Up: Monstrous Menagerie'
 size: Large
 type: Construct
@@ -30,5 +30,5 @@ combat:
 
 ---
 ```statblock
-monster: Clay Guardian - A5E
+monster: Clay Guardian
 ```

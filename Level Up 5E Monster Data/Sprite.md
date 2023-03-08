@@ -1,6 +1,6 @@
 ---
 statblock: true
-name: 'Sprite - A5E'
+name: Sprite
 source: 'Level Up: Monstrous Menagerie'
 size: Tiny
 type: Fey
@@ -35,5 +35,5 @@ combat:
 
 ---
 ```statblock
-monster: Sprite - A5E
+monster: Sprite
 ```

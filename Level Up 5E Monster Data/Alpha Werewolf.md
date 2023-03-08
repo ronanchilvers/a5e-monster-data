@@ -1,6 +1,6 @@
 ---
 statblock: true
-name: 'Alpha Werewolf - A5E'
+name: 'Alpha Werewolf'
 source: 'Level Up: Monstrous Menagerie'
 size: Medium
 type: Humanoid
@@ -41,5 +41,5 @@ combat:
 
 ---
 ```statblock
-monster: Alpha Werewolf - A5E
+monster: Alpha Werewolf
 ```

@@ -1,6 +1,6 @@
 ---
 statblock: true
-name: 'Chuul - A5E'
+name: Chuul
 source: 'Level Up: Monstrous Menagerie'
 size: Large
 type: Aberration
@@ -32,5 +32,5 @@ combat:
 
 ---
 ```statblock
-monster: Chuul - A5E
+monster: Chuul
 ```

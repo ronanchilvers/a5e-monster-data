@@ -1,6 +1,6 @@
 ---
 statblock: true
-name: 'Siren - A5E'
+name: Siren
 source: 'Level Up: Monstrous Menagerie'
 size: Medium
 type: Monstrosity
@@ -32,5 +32,5 @@ combat:
 
 ---
 ```statblock
-monster: Siren - A5E
+monster: Siren
 ```

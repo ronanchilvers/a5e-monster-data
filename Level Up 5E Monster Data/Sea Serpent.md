@@ -1,6 +1,6 @@
 ---
 statblock: true
-name: 'Sea Serpent - A5E'
+name: 'Sea Serpent'
 source: 'Level Up: Monstrous Menagerie'
 size: Gargantuan
 type: Monstrosity
@@ -39,5 +39,5 @@ reactions:
 
 ---
 ```statblock
-monster: Sea Serpent - A5E
+monster: Sea Serpent
 ```

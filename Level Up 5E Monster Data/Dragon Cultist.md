@@ -1,6 +1,6 @@
 ---
 statblock: true
-name: 'Dragon Cultist - A5E'
+name: 'Dragon Cultist'
 source: 'Level Up: Monstrous Menagerie'
 size: Medium
 type: Humanoid
@@ -40,5 +40,5 @@ actions:
 
 ---
 ```statblock
-monster: Dragon Cultist - A5E
+monster: Dragon Cultist
 ```

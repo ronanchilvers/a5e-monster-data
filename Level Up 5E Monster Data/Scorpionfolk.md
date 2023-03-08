@@ -1,6 +1,6 @@
 ---
 statblock: true
-name: 'Scorpionfolk - A5E'
+name: Scorpionfolk
 source: 'Level Up: Monstrous Menagerie'
 size: Large
 type: Monstrosity
@@ -32,5 +32,5 @@ combat:
 
 ---
 ```statblock
-monster: Scorpionfolk - A5E
+monster: Scorpionfolk
 ```

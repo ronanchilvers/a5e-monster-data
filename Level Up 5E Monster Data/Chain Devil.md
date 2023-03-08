@@ -1,6 +1,6 @@
 ---
 statblock: true
-name: 'Chain Devil - A5E'
+name: 'Chain Devil'
 source: 'Level Up: Monstrous Menagerie'
 size: Medium
 type: Fiend
@@ -45,5 +45,5 @@ combat:
 
 ---
 ```statblock
-monster: Chain Devil - A5E
+monster: Chain Devil
 ```

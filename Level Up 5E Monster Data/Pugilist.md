@@ -1,6 +1,6 @@
 ---
 statblock: true
-name: 'Pugilist - A5E'
+name: Pugilist
 source: 'Level Up: Monstrous Menagerie'
 size: Medium
 type: Humanoid
@@ -38,5 +38,5 @@ reactions:
 
 ---
 ```statblock
-monster: Pugilist - A5E
+monster: Pugilist
 ```

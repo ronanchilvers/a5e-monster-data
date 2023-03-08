@@ -1,6 +1,6 @@
 ---
 statblock: true
-name: 'Peryton - A5E'
+name: Peryton
 source: 'Level Up: Monstrous Menagerie'
 size: Large
 type: Monstrosity
@@ -32,5 +32,5 @@ combat:
 
 ---
 ```statblock
-monster: Peryton - A5E
+monster: Peryton
 ```

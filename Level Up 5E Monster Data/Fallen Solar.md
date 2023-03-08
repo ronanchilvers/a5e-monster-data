@@ -1,6 +1,6 @@
 ---
 statblock: true
-name: 'Fallen Solar - A5E'
+name: 'Fallen Solar'
 source: 'Level Up: Monstrous Menagerie'
 size: Large
 type: Celestial
@@ -58,5 +58,5 @@ combat:
 
 ---
 ```statblock
-monster: Fallen Solar - A5E
+monster: Fallen Solar
 ```

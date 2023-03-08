@@ -1,6 +1,6 @@
 ---
 statblock: true
-name: 'Homunculus - A5E'
+name: Homunculus
 source: 'Level Up: Monstrous Menagerie'
 size: Tiny
 type: Construct
@@ -29,5 +29,5 @@ combat:
 
 ---
 ```statblock
-monster: Homunculus - A5E
+monster: Homunculus
 ```

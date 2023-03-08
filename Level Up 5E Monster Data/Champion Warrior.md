@@ -1,6 +1,6 @@
 ---
 statblock: true
-name: 'Champion Warrior - A5E'
+name: 'Champion Warrior'
 source: 'Level Up: Monstrous Menagerie'
 size: Medium
 type: Humanoid
@@ -36,5 +36,5 @@ actions:
 
 ---
 ```statblock
-monster: Champion Warrior - A5E
+monster: Champion Warrior
 ```

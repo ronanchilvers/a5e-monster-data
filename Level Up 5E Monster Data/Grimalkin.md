@@ -1,6 +1,6 @@
 ---
 statblock: true
-name: 'Grimalkin - A5E'
+name: Grimalkin
 source: 'Level Up: Monstrous Menagerie'
 size: Medium
 type: Monstrosity
@@ -31,5 +31,5 @@ actions:
 
 ---
 ```statblock
-monster: Grimalkin - A5E
+monster: Grimalkin
 ```

@@ -1,6 +1,6 @@
 ---
 statblock: true
-name: 'Gray Ooze - A5E'
+name: 'Gray Ooze'
 source: 'Level Up: Monstrous Menagerie'
 size: Medium
 type: Ooze
@@ -32,5 +32,5 @@ combat:
 
 ---
 ```statblock
-monster: Gray Ooze - A5E
+monster: Gray Ooze
 ```

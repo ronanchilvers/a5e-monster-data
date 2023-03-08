@@ -1,6 +1,6 @@
 ---
 statblock: true
-name: 'Greater Sphinx - A5E'
+name: 'Greater Sphinx'
 source: 'Level Up: Monstrous Menagerie'
 size: Huge
 type: Monstrosity
@@ -55,5 +55,5 @@ combat:
 
 ---
 ```statblock
-monster: Greater Sphinx - A5E
+monster: Greater Sphinx
 ```

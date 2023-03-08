@@ -1,6 +1,6 @@
 ---
 statblock: true
-name: 'Dragon Turtle - A5E'
+name: 'Dragon Turtle'
 source: 'Level Up: Monstrous Menagerie'
 size: Gargantuan
 type: Dragon
@@ -48,5 +48,5 @@ combat:
 
 ---
 ```statblock
-monster: Dragon Turtle - A5E
+monster: Dragon Turtle
 ```

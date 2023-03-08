@@ -1,6 +1,6 @@
 ---
 statblock: true
-name: 'Wight - A5E'
+name: Wight
 source: 'Level Up: Monstrous Menagerie'
 size: Medium
 type: Undead
@@ -37,5 +37,5 @@ combat:
 
 ---
 ```statblock
-monster: Wight - A5E
+monster: Wight
 ```

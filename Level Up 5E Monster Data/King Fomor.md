@@ -1,6 +1,6 @@
 ---
 statblock: true
-name: 'King Fomor - A5E'
+name: 'King Fomor'
 source: 'Level Up: Monstrous Menagerie'
 size: Gargantuan
 type: Celestial
@@ -54,5 +54,5 @@ combat:
 
 ---
 ```statblock
-monster: King Fomor - A5E
+monster: King Fomor
 ```

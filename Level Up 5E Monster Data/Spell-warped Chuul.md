@@ -1,6 +1,6 @@
 ---
 statblock: true
-name: 'Spell-warped Chuul - A5E'
+name: 'Spell-warped Chuul'
 source: 'Level Up: Monstrous Menagerie'
 size: Large
 type: Aberration
@@ -37,5 +37,5 @@ combat:
 
 ---
 ```statblock
-monster: Spell-warped Chuul - A5E
+monster: Spell-warped Chuul
 ```

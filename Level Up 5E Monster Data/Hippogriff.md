@@ -1,6 +1,6 @@
 ---
 statblock: true
-name: 'Hippogriff - A5E'
+name: Hippogriff
 source: 'Level Up: Monstrous Menagerie'
 size: Large
 type: Monstrosity
@@ -28,5 +28,5 @@ combat:
 
 ---
 ```statblock
-monster: Hippogriff - A5E
+monster: Hippogriff
 ```

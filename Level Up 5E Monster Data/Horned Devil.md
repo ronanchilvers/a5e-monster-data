@@ -1,6 +1,6 @@
 ---
 statblock: true
-name: 'Horned Devil - A5E'
+name: 'Horned Devil'
 source: 'Level Up: Monstrous Menagerie'
 size: Large
 type: Fiend
@@ -46,5 +46,5 @@ combat:
 
 ---
 ```statblock
-monster: Horned Devil - A5E
+monster: Horned Devil
 ```

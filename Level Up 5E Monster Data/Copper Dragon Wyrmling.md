@@ -1,6 +1,6 @@
 ---
 statblock: true
-name: 'Copper Dragon Wyrmling - A5E'
+name: 'Copper Dragon Wyrmling'
 source: 'Level Up: Monstrous Menagerie'
 size: Medium
 type: Dragon
@@ -37,5 +37,5 @@ combat:
 
 ---
 ```statblock
-monster: Copper Dragon Wyrmling - A5E
+monster: Copper Dragon Wyrmling
 ```

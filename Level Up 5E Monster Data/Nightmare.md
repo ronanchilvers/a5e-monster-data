@@ -1,6 +1,6 @@
 ---
 statblock: true
-name: 'Nightmare - A5E'
+name: Nightmare
 source: 'Level Up: Monstrous Menagerie'
 size: Large
 type: Fiend
@@ -31,5 +31,5 @@ combat:
 
 ---
 ```statblock
-monster: Nightmare - A5E
+monster: Nightmare
 ```

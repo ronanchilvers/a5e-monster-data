@@ -1,6 +1,6 @@
 ---
 statblock: true
-name: 'Wraith Lord - A5E'
+name: 'Wraith Lord'
 source: 'Level Up: Monstrous Menagerie'
 size: Medium
 type: Undead
@@ -39,5 +39,5 @@ combat:
 
 ---
 ```statblock
-monster: Wraith Lord - A5E
+monster: Wraith Lord
 ```

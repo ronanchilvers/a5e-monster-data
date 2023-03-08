@@ -1,6 +1,6 @@
 ---
 statblock: true
-name: 'Clockwork Sentinel - A5E'
+name: 'Clockwork Sentinel'
 source: 'Level Up: Monstrous Menagerie'
 size: Medium
 type: Construct
@@ -40,5 +40,5 @@ combat:
 
 ---
 ```statblock
-monster: Clockwork Sentinel - A5E
+monster: Clockwork Sentinel
 ```

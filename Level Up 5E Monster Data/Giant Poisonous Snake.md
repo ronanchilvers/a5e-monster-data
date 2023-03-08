@@ -1,6 +1,6 @@
 ---
 statblock: true
-name: 'Giant Poisonous Snake - A5E'
+name: 'Giant Poisonous Snake'
 source: 'Level Up: Monstrous Menagerie'
 size: Medium
 type: Beast
@@ -22,5 +22,5 @@ actions:
 
 ---
 ```statblock
-monster: Giant Poisonous Snake - A5E
+monster: Giant Poisonous Snake
 ```

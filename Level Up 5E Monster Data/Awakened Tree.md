@@ -1,6 +1,6 @@
 ---
 statblock: true
-name: 'Awakened Tree - A5E'
+name: 'Awakened Tree'
 source: 'Level Up: Monstrous Menagerie'
 size: Huge
 type: Plant
@@ -27,5 +27,5 @@ actions:
 
 ---
 ```statblock
-monster: Awakened Tree - A5E
+monster: Awakened Tree
 ```

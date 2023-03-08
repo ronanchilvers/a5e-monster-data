@@ -1,6 +1,6 @@
 ---
 statblock: true
-name: 'Storm Giant Monarch - A5E'
+name: 'Storm Giant Monarch'
 source: 'Level Up: Monstrous Menagerie'
 size: Huge
 type: Giant
@@ -54,5 +54,5 @@ combat:
 
 ---
 ```statblock
-monster: Storm Giant Monarch - A5E
+monster: Storm Giant Monarch
 ```

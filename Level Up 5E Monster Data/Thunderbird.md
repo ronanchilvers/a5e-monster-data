@@ -1,6 +1,6 @@
 ---
 statblock: true
-name: 'Thunderbird - A5E'
+name: Thunderbird
 source: 'Level Up: Monstrous Menagerie'
 size: Large
 type: Monstrosity
@@ -32,5 +32,5 @@ combat:
 
 ---
 ```statblock
-monster: Thunderbird - A5E
+monster: Thunderbird
 ```

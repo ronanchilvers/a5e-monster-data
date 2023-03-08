@@ -1,6 +1,6 @@
 ---
 statblock: true
-name: 'Giant Wolf Spider - A5E'
+name: 'Giant Wolf Spider'
 source: 'Level Up: Monstrous Menagerie'
 size: Medium
 type: Beast
@@ -29,5 +29,5 @@ actions:
 
 ---
 ```statblock
-monster: Giant Wolf Spider - A5E
+monster: Giant Wolf Spider
 ```

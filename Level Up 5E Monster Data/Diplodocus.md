@@ -1,6 +1,6 @@
 ---
 statblock: true
-name: 'Diplodocus - A5E'
+name: Diplodocus
 source: 'Level Up: Monstrous Menagerie'
 size: Gargantuan
 type: Beast
@@ -24,5 +24,5 @@ actions:
 
 ---
 ```statblock
-monster: Diplodocus - A5E
+monster: Diplodocus
 ```

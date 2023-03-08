@@ -1,6 +1,6 @@
 ---
 statblock: true
-name: 'Mimic - A5E'
+name: Mimic
 source: 'Level Up: Monstrous Menagerie'
 size: Medium
 type: Monstrosity
@@ -38,5 +38,5 @@ combat:
 
 ---
 ```statblock
-monster: Mimic - A5E
+monster: Mimic
 ```

@@ -1,6 +1,6 @@
 ---
 statblock: true
-name: 'Hobgoblin Captain - A5E'
+name: 'Hobgoblin Captain'
 source: 'Level Up: Monstrous Menagerie'
 size: Medium
 type: Humanoid
@@ -38,5 +38,5 @@ combat:
 
 ---
 ```statblock
-monster: Hobgoblin Captain - A5E
+monster: Hobgoblin Captain
 ```

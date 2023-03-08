@@ -1,6 +1,6 @@
 ---
 statblock: true
-name: 'Pixie - A5E'
+name: Pixie
 source: 'Level Up: Monstrous Menagerie'
 size: Tiny
 type: Fey
@@ -43,5 +43,5 @@ combat:
 
 ---
 ```statblock
-monster: Pixie - A5E
+monster: Pixie
 ```

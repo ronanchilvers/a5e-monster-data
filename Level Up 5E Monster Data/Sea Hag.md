@@ -1,6 +1,6 @@
 ---
 statblock: true
-name: 'Sea Hag - A5E'
+name: 'Sea Hag'
 source: 'Level Up: Monstrous Menagerie'
 size: Medium
 type: Fey
@@ -40,5 +40,5 @@ combat:
 
 ---
 ```statblock
-monster: Sea Hag - A5E
+monster: Sea Hag
 ```

@@ -1,6 +1,6 @@
 ---
 statblock: true
-name: 'Fey Knight - A5E'
+name: 'Fey Knight'
 source: 'Level Up: Monstrous Menagerie'
 size: Medium
 type: Fey
@@ -44,5 +44,5 @@ combat:
 
 ---
 ```statblock
-monster: Fey Knight - A5E
+monster: Fey Knight
 ```

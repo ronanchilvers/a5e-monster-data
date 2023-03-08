@@ -1,6 +1,6 @@
 ---
 statblock: true
-name: 'Iron Guardian - A5E'
+name: 'Iron Guardian'
 source: 'Level Up: Monstrous Menagerie'
 size: Large
 type: Construct
@@ -36,5 +36,5 @@ combat:
 
 ---
 ```statblock
-monster: Iron Guardian - A5E
+monster: Iron Guardian
 ```

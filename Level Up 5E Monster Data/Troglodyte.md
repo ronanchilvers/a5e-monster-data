@@ -1,6 +1,6 @@
 ---
 statblock: true
-name: 'Troglodyte - A5E'
+name: Troglodyte
 source: 'Level Up: Monstrous Menagerie'
 size: Medium
 type: Humanoid
@@ -33,5 +33,5 @@ combat:
 
 ---
 ```statblock
-monster: Troglodyte - A5E
+monster: Troglodyte
 ```

@@ -1,6 +1,6 @@
 ---
 statblock: true
-name: 'Adult Black Dragon Lich - A5E'
+name: 'Adult Black Dragon Lich'
 source: 'Level Up: Monstrous Menagerie'
 size: Huge
 type: Undead
@@ -61,5 +61,5 @@ combat:
 
 ---
 ```statblock
-monster: Adult Black Dragon Lich - A5E
+monster: Adult Black Dragon Lich
 ```

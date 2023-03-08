@@ -1,6 +1,6 @@
 ---
 statblock: true
-name: 'Doppelganger - A5E'
+name: Doppelganger
 source: 'Level Up: Monstrous Menagerie'
 size: Medium
 type: Monstrosity
@@ -32,5 +32,5 @@ combat:
 
 ---
 ```statblock
-monster: Doppelganger - A5E
+monster: Doppelganger
 ```

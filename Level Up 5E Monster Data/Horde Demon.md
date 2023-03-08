@@ -1,6 +1,6 @@
 ---
 statblock: true
-name: 'Horde Demon - A5E'
+name: 'Horde Demon'
 source: 'Level Up: Monstrous Menagerie'
 size: Medium
 type: Fiend
@@ -42,5 +42,5 @@ combat:
 
 ---
 ```statblock
-monster: Horde Demon - A5E
+monster: Horde Demon
 ```

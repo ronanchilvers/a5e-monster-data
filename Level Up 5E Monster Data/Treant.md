@@ -1,6 +1,6 @@
 ---
 statblock: true
-name: 'Treant - A5E'
+name: Treant
 source: 'Level Up: Monstrous Menagerie'
 size: Huge
 type: Plant
@@ -32,5 +32,5 @@ actions:
 
 ---
 ```statblock
-monster: Treant - A5E
+monster: Treant
 ```

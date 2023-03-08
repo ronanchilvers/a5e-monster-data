@@ -1,6 +1,6 @@
 ---
 statblock: true
-name: 'Hill Giant Chief - A5E'
+name: 'Hill Giant Chief'
 source: 'Level Up: Monstrous Menagerie'
 size: Huge
 type: Giant
@@ -38,5 +38,5 @@ combat:
 
 ---
 ```statblock
-monster: Hill Giant Chief - A5E
+monster: Hill Giant Chief
 ```

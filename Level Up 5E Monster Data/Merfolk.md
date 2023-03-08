@@ -1,6 +1,6 @@
 ---
 statblock: true
-name: 'Merfolk - A5E'
+name: Merfolk
 source: 'Level Up: Monstrous Menagerie'
 size: Medium
 type: Humanoid
@@ -29,5 +29,5 @@ combat:
 
 ---
 ```statblock
-monster: Merfolk - A5E
+monster: Merfolk
 ```

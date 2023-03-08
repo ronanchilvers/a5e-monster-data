@@ -1,6 +1,6 @@
 ---
 statblock: true
-name: 'Panther - A5E'
+name: Panther
 source: 'Level Up: Monstrous Menagerie'
 size: Medium
 type: Beast
@@ -30,5 +30,5 @@ actions:
 
 ---
 ```statblock
-monster: Panther - A5E
+monster: Panther
 ```

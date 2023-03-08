@@ -1,6 +1,6 @@
 ---
 statblock: true
-name: 'Swarm of Bats - A5E'
+name: 'Swarm of Bats'
 source: 'Level Up: Monstrous Menagerie'
 size: Medium
 type: Beast
@@ -28,5 +28,5 @@ actions:
 
 ---
 ```statblock
-monster: Swarm of Bats - A5E
+monster: Swarm of Bats
 ```

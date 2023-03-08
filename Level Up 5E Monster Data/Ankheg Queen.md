@@ -1,6 +1,6 @@
 ---
 statblock: true
-name: 'Ankheg Queen - A5E'
+name: 'Ankheg Queen'
 source: 'Level Up: Monstrous Menagerie'
 size: Huge
 type: Monstrosity
@@ -31,5 +31,5 @@ combat:
 
 ---
 ```statblock
-monster: Ankheg Queen - A5E
+monster: Ankheg Queen
 ```

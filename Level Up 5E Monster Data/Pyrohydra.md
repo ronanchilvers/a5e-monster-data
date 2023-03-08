@@ -1,6 +1,6 @@
 ---
 statblock: true
-name: 'Pyrohydra - A5E'
+name: Pyrohydra
 source: 'Level Up: Monstrous Menagerie'
 size: Huge
 type: Monstrosity
@@ -41,5 +41,5 @@ combat:
 
 ---
 ```statblock
-monster: Pyrohydra - A5E
+monster: Pyrohydra
 ```

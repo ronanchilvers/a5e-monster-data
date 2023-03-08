@@ -1,6 +1,6 @@
 ---
 statblock: true
-name: 'Faerie Noble - A5E'
+name: 'Faerie Noble'
 source: 'Level Up: Monstrous Menagerie'
 size: Medium
 type: Fey
@@ -54,5 +54,5 @@ combat:
 
 ---
 ```statblock
-monster: Faerie Noble - A5E
+monster: Faerie Noble
 ```

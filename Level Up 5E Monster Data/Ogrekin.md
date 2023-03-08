@@ -1,6 +1,6 @@
 ---
 statblock: true
-name: 'Ogrekin - A5E'
+name: Ogrekin
 source: 'Level Up: Monstrous Menagerie'
 size: Medium
 type: Humanoid
@@ -30,5 +30,5 @@ actions:
 
 ---
 ```statblock
-monster: Ogrekin - A5E
+monster: Ogrekin
 ```

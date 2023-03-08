@@ -1,6 +1,6 @@
 ---
 statblock: true
-name: 'Marilith - A5E'
+name: Marilith
 source: 'Level Up: Monstrous Menagerie'
 size: Large
 type: Fiend
@@ -43,5 +43,5 @@ combat:
 
 ---
 ```statblock
-monster: Marilith - A5E
+monster: Marilith
 ```

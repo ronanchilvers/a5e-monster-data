@@ -1,6 +1,6 @@
 ---
 statblock: true
-name: 'Half-Red Dragon Veteran - A5E'
+name: 'Half-Red Dragon Veteran'
 source: 'Level Up: Monstrous Menagerie'
 size: Medium
 type: Humanoid
@@ -41,5 +41,5 @@ reactions:
 
 ---
 ```statblock
-monster: Half-Red Dragon Veteran - A5E
+monster: Half-Red Dragon Veteran
 ```

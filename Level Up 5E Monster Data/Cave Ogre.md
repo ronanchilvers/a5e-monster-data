@@ -1,6 +1,6 @@
 ---
 statblock: true
-name: 'Cave Ogre - A5E'
+name: 'Cave Ogre'
 source: 'Level Up: Monstrous Menagerie'
 size: Large
 type: Giant
@@ -33,5 +33,5 @@ reactions:
 
 ---
 ```statblock
-monster: Cave Ogre - A5E
+monster: Cave Ogre
 ```

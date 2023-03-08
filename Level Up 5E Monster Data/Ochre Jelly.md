@@ -1,6 +1,6 @@
 ---
 statblock: true
-name: 'Ochre Jelly - A5E'
+name: 'Ochre Jelly'
 source: 'Level Up: Monstrous Menagerie'
 size: Large
 type: Ooze
@@ -33,5 +33,5 @@ combat:
 
 ---
 ```statblock
-monster: Ochre Jelly - A5E
+monster: Ochre Jelly
 ```

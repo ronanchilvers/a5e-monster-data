@@ -1,6 +1,6 @@
 ---
 statblock: true
-name: 'Goblin Alchemist - A5E'
+name: 'Goblin Alchemist'
 source: 'Level Up: Monstrous Menagerie'
 size: Small
 type: Humanoid
@@ -31,5 +31,5 @@ combat:
 
 ---
 ```statblock
-monster: Goblin Alchemist - A5E
+monster: Goblin Alchemist
 ```

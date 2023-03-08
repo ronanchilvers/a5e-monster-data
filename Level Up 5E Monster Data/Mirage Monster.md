@@ -1,6 +1,6 @@
 ---
 statblock: true
-name: 'Mirage Monster - A5E'
+name: 'Mirage Monster'
 source: 'Level Up: Monstrous Menagerie'
 size: Huge
 type: Monstrosity
@@ -43,5 +43,5 @@ combat:
 
 ---
 ```statblock
-monster: Mirage Monster - A5E
+monster: Mirage Monster
 ```

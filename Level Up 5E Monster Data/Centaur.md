@@ -1,6 +1,6 @@
 ---
 statblock: true
-name: 'Centaur - A5E'
+name: Centaur
 source: 'Level Up: Monstrous Menagerie'
 size: Large
 type: Fey
@@ -33,5 +33,5 @@ combat:
 
 ---
 ```statblock
-monster: Centaur - A5E
+monster: Centaur
 ```

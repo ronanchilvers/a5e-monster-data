@@ -1,6 +1,6 @@
 ---
 statblock: true
-name: 'Djinni - A5E'
+name: Djinni
 source: 'Level Up: Monstrous Menagerie'
 size: Large
 type: Elemental
@@ -47,5 +47,5 @@ combat:
 
 ---
 ```statblock
-monster: Djinni - A5E
+monster: Djinni
 ```

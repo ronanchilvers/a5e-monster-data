@@ -1,6 +1,6 @@
 ---
 statblock: true
-name: 'Coven Night Hag - A5E'
+name: 'Coven Night Hag'
 source: 'Level Up: Monstrous Menagerie'
 size: Medium
 type: Fey
@@ -47,5 +47,5 @@ combat:
 
 ---
 ```statblock
-monster: Coven Night Hag - A5E
+monster: Coven Night Hag
 ```

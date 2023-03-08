@@ -1,6 +1,6 @@
 ---
 statblock: true
-name: 'Nilbog - A5E'
+name: Nilbog
 source: 'Level Up: Monstrous Menagerie'
 size: Small
 type: Humanoid
@@ -32,5 +32,5 @@ combat:
 
 ---
 ```statblock
-monster: Nilbog - A5E
+monster: Nilbog
 ```

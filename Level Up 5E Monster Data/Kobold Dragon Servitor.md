@@ -1,6 +1,6 @@
 ---
 statblock: true
-name: 'Kobold Dragon Servitor - A5E'
+name: 'Kobold Dragon Servitor'
 source: 'Level Up: Monstrous Menagerie'
 size: Small
 type: Humanoid
@@ -29,5 +29,5 @@ actions:
 
 ---
 ```statblock
-monster: Kobold Dragon Servitor - A5E
+monster: Kobold Dragon Servitor
 ```

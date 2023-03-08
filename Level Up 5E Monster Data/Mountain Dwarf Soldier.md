@@ -1,6 +1,6 @@
 ---
 statblock: true
-name: 'Mountain Dwarf Soldier - A5E'
+name: 'Mountain Dwarf Soldier'
 source: 'Level Up: Monstrous Menagerie'
 size: Medium
 type: Humanoid
@@ -33,5 +33,5 @@ actions:
 
 ---
 ```statblock
-monster: Mountain Dwarf Soldier - A5E
+monster: Mountain Dwarf Soldier
 ```

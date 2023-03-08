@@ -1,6 +1,6 @@
 ---
 statblock: true
-name: 'Boggard Sovereign - A5E'
+name: 'Boggard Sovereign'
 source: 'Level Up: Monstrous Menagerie'
 size: Large
 type: Humanoid
@@ -35,5 +35,5 @@ combat:
 
 ---
 ```statblock
-monster: Boggard Sovereign - A5E
+monster: Boggard Sovereign
 ```

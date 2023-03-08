@@ -1,6 +1,6 @@
 ---
 statblock: true
-name: 'Warhordling Orc Warrior - A5E'
+name: 'Warhordling Orc Warrior'
 source: 'Level Up: Monstrous Menagerie'
 size: Medium
 type: Humanoid
@@ -31,5 +31,5 @@ actions:
 
 ---
 ```statblock
-monster: Warhordling Orc Warrior - A5E
+monster: Warhordling Orc Warrior
 ```

@@ -1,6 +1,6 @@
 ---
 statblock: true
-name: 'Hell Hound - A5E'
+name: 'Hell Hound'
 source: 'Level Up: Monstrous Menagerie'
 size: Medium
 type: Fiend
@@ -33,5 +33,5 @@ combat:
 
 ---
 ```statblock
-monster: Hell Hound - A5E
+monster: Hell Hound
 ```

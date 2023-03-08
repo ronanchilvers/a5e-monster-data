@@ -1,6 +1,6 @@
 ---
 statblock: true
-name: 'Gibbering Mouther - A5E'
+name: 'Gibbering Mouther'
 source: 'Level Up: Monstrous Menagerie'
 size: Medium
 type: Aberration
@@ -33,5 +33,5 @@ combat:
 
 ---
 ```statblock
-monster: Gibbering Mouther - A5E
+monster: Gibbering Mouther
 ```

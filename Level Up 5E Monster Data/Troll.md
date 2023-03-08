@@ -1,6 +1,6 @@
 ---
 statblock: true
-name: 'Troll - A5E'
+name: Troll
 source: 'Level Up: Monstrous Menagerie'
 size: Large
 type: Giant
@@ -35,5 +35,5 @@ combat:
 
 ---
 ```statblock
-monster: Troll - A5E
+monster: Troll
 ```

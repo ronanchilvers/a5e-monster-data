@@ -1,6 +1,6 @@
 ---
 statblock: true
-name: 'Merclops - A5E'
+name: Merclops
 source: 'Level Up: Monstrous Menagerie'
 size: Huge
 type: Giant
@@ -38,5 +38,5 @@ combat:
 
 ---
 ```statblock
-monster: Merclops - A5E
+monster: Merclops
 ```

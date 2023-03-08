@@ -1,6 +1,6 @@
 ---
 statblock: true
-name: 'Grick - A5E'
+name: Grick
 source: 'Level Up: Monstrous Menagerie'
 size: Medium
 type: Monstrosity
@@ -32,5 +32,5 @@ combat:
 
 ---
 ```statblock
-monster: Grick - A5E
+monster: Grick
 ```

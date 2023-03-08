@@ -1,6 +1,6 @@
 ---
 statblock: true
-name: 'Coralfish - A5E'
+name: Coralfish
 source: 'Level Up: Monstrous Menagerie'
 size: Small
 type: Monstrosity
@@ -28,5 +28,5 @@ combat:
 
 ---
 ```statblock
-monster: Coralfish - A5E
+monster: Coralfish
 ```

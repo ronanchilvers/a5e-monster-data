@@ -1,6 +1,6 @@
 ---
 statblock: true
-name: 'Glabrezu - A5E'
+name: Glabrezu
 source: 'Level Up: Monstrous Menagerie'
 size: Large
 type: Fiend
@@ -46,5 +46,5 @@ combat:
 
 ---
 ```statblock
-monster: Glabrezu - A5E
+monster: Glabrezu
 ```

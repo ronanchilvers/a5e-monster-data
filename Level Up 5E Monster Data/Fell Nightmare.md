@@ -1,6 +1,6 @@
 ---
 statblock: true
-name: 'Fell Nightmare - A5E'
+name: 'Fell Nightmare'
 source: 'Level Up: Monstrous Menagerie'
 size: Large
 type: Fiend
@@ -33,5 +33,5 @@ combat:
 
 ---
 ```statblock
-monster: Fell Nightmare - A5E
+monster: Fell Nightmare
 ```

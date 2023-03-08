@@ -1,6 +1,6 @@
 ---
 statblock: true
-name: 'Adult Amethyst Dragon - A5E'
+name: 'Adult Amethyst Dragon'
 source: 'Level Up: Monstrous Menagerie'
 size: Huge
 type: Dragon
@@ -58,5 +58,5 @@ combat:
 
 ---
 ```statblock
-monster: Adult Amethyst Dragon - A5E
+monster: Adult Amethyst Dragon
 ```

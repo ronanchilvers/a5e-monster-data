@@ -1,6 +1,6 @@
 ---
 statblock: true
-name: 'Roper - A5E'
+name: Roper
 source: 'Level Up: Monstrous Menagerie'
 size: Large
 type: Monstrosity
@@ -31,5 +31,5 @@ combat:
 
 ---
 ```statblock
-monster: Roper - A5E
+monster: Roper
 ```

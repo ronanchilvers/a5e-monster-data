@@ -1,6 +1,6 @@
 ---
 statblock: true
-name: 'Pegasus - A5E'
+name: Pegasus
 source: 'Level Up: Monstrous Menagerie'
 size: Large
 type: Celestial
@@ -34,5 +34,5 @@ combat:
 
 ---
 ```statblock
-monster: Pegasus - A5E
+monster: Pegasus
 ```

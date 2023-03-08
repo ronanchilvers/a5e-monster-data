@@ -1,6 +1,6 @@
 ---
 statblock: true
-name: 'Goblin Shieldbearer - A5E'
+name: 'Goblin Shieldbearer'
 source: 'Level Up: Monstrous Menagerie'
 size: Small
 type: Humanoid
@@ -31,5 +31,5 @@ combat:
 
 ---
 ```statblock
-monster: Goblin Shieldbearer - A5E
+monster: Goblin Shieldbearer
 ```

@@ -1,6 +1,6 @@
 ---
 statblock: true
-name: 'Violet Fungus - A5E'
+name: 'Violet Fungus'
 source: 'Level Up: Monstrous Menagerie'
 size: Medium
 type: Plant
@@ -29,5 +29,5 @@ combat:
 
 ---
 ```statblock
-monster: Violet Fungus - A5E
+monster: Violet Fungus
 ```

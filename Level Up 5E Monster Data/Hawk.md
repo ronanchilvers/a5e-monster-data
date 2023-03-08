@@ -1,6 +1,6 @@
 ---
 statblock: true
-name: 'Hawk - A5E'
+name: Hawk
 source: 'Level Up: Monstrous Menagerie'
 size: Tiny
 type: Beast
@@ -26,5 +26,5 @@ actions:
 
 ---
 ```statblock
-monster: Hawk - A5E
+monster: Hawk
 ```

@@ -1,6 +1,6 @@
 ---
 statblock: true
-name: 'Azer - A5E'
+name: Azer
 source: 'Level Up: Monstrous Menagerie'
 size: Medium
 type: Elemental
@@ -33,5 +33,5 @@ combat:
 
 ---
 ```statblock
-monster: Azer - A5E
+monster: Azer
 ```

@@ -1,6 +1,6 @@
 ---
 statblock: true
-name: 'Orcish Wildling Minstrel - A5E'
+name: 'Orcish Wildling Minstrel'
 source: 'Level Up: Monstrous Menagerie'
 size: Medium
 type: Humanoid
@@ -45,5 +45,5 @@ actions:
 
 ---
 ```statblock
-monster: Orcish Wildling Minstrel - A5E
+monster: Orcish Wildling Minstrel
 ```

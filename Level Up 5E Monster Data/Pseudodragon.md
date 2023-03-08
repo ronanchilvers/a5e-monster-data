@@ -1,6 +1,6 @@
 ---
 statblock: true
-name: 'Pseudodragon - A5E'
+name: Pseudodragon
 source: 'Level Up: Monstrous Menagerie'
 size: Tiny
 type: Dragon
@@ -32,5 +32,5 @@ combat:
 
 ---
 ```statblock
-monster: Pseudodragon - A5E
+monster: Pseudodragon
 ```

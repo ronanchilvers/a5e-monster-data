@@ -1,6 +1,6 @@
 ---
 statblock: true
-name: 'Marid - A5E'
+name: Marid
 source: 'Level Up: Monstrous Menagerie'
 size: Large
 type: Elemental
@@ -44,5 +44,5 @@ combat:
 
 ---
 ```statblock
-monster: Marid - A5E
+monster: Marid
 ```

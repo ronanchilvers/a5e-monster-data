@@ -1,6 +1,6 @@
 ---
 statblock: true
-name: 'Gelatinous Wall - A5E'
+name: 'Gelatinous Wall'
 source: 'Level Up: Monstrous Menagerie'
 size: Huge
 type: Ooze
@@ -33,5 +33,5 @@ combat:
 
 ---
 ```statblock
-monster: Gelatinous Wall - A5E
+monster: Gelatinous Wall
 ```

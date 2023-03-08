@@ -1,6 +1,6 @@
 ---
 statblock: true
-name: 'Black Pudding - A5E'
+name: 'Black Pudding'
 source: 'Level Up: Monstrous Menagerie'
 size: Large
 type: Ooze
@@ -34,5 +34,5 @@ combat:
 
 ---
 ```statblock
-monster: Black Pudding - A5E
+monster: Black Pudding
 ```
